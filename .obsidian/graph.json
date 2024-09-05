@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#Cheatsheet  ",
+      "color": {
+        "a": 1,
+        "rgb": 3056524
+      }
+    },
+    {
+      "query": "tag:#Development",
+      "color": {
+        "a": 1,
+        "rgb": 6970582
+      }
+    },
+    {
+      "query": "tag:#Theory  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.2,
+  "nodeSizeMultiplier": 1.0953125,
+  "lineSizeMultiplier": 1.42708333333333,
+  "collapse-forces": true,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
+  "linkStrength": 0.510416666666667,
+  "linkDistance": 267,
+  "scale": 0.38230109687699776,
+  "close": true
+}

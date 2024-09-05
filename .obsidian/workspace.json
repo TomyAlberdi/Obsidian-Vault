@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "fc3a79f3bfb194df",
+    "type": "split",
+    "children": [
+      {
+        "id": "661b42a72c41f343",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4d9d39d60ce63e4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ddf066f01ed1acf",
+    "type": "split",
+    "children": [
+      {
+        "id": "62ea58de34366de1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ed35a11f473b627",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "3fa02e0e6a3e20f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Development",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a9d6a7ecbcee5d95",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4f4ddc477bd78aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ae56e1b2affb676",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "35f96cc19b9c9631",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "8d1bc3dd2f4ebe5c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "88d65eb0a12a3758",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b4d9d39d60ce63e4",
+  "lastOpenFiles": [
+    "Strategy Pattern.md",
+    "Observer Pattern.md",
+    "Composite Pattern.md",
+    "State Pattern.md",
+    "state_pattern_uml_diagram.jpg",
+    "Design Patterns.md",
+    "Factory Pattern.md",
+    "Interfaces.md",
+    "interface.md",
+    "Singleton Pattern.md",
+    "Composition.md",
+    "Custom Exceptions.md",
+    "Exceptions.md",
+    "Exception Class.md",
+    "Equality and Ordering.md",
+    "Operating Collections.md",
+    "Parametric Programming.md",
+    "Collections.md",
+    "Browsing Collections.md",
+    "Polymorphism.md",
+    "Dynamic Binding.md",
+    "Abstract Class.md",
+    "Object Class.md",
+    "Main Memory.md",
+    "Overloading.md",
+    "Inheritance.md",
+    "Method Signature.md",
+    "Pasted image 20240825162130.png",
+    "Pasted image 20240825162048.png",
+    "Pasted image 20240825161939.png",
+    "Pasted image 20240825161904.png",
+    "Pasted image 20240825161830.png",
+    "Pasted image 20240824170831.png",
+    "Pasted image 20240824172123.png",
+    "Pasted image 20240824171902.png",
+    "Pasted image 20240824171342.png",
+    "DevOps/Terminal/Bash Scripting",
+    "DevOps/Terminal",
+    "DevOps/Operating System",
+    "DevOps",
+    "Untitled.canvas"
+  ]
+}
