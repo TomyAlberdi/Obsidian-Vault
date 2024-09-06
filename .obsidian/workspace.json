@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "661b42a72c41f343",
+        "id": "848939d539fd964b",
         "type": "tabs",
         "children": [
           {
-            "id": "b4d9d39d60ce63e4",
+            "id": "0ed713b7c5eb787a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -110,7 +110,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -119,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -129,8 +128,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4d9d39d60ce63e4",
+  "active": "0ed713b7c5eb787a",
   "lastOpenFiles": [
+    "Test Types.md",
+    "Testing.md",
+    "Test Levels.md",
+    "Software Testing Lifecycle.md",
+    "Use Cases.md",
+    "Test Cases.md",
+    "Defects.md",
     "Strategy Pattern.md",
     "Observer Pattern.md",
     "Composite Pattern.md",
@@ -151,13 +157,6 @@
     "Collections.md",
     "Browsing Collections.md",
     "Polymorphism.md",
-    "Dynamic Binding.md",
-    "Abstract Class.md",
-    "Object Class.md",
-    "Main Memory.md",
-    "Overloading.md",
-    "Inheritance.md",
-    "Method Signature.md",
     "Pasted image 20240825162130.png",
     "Pasted image 20240825162048.png",
     "Pasted image 20240825161939.png",
