@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "848939d539fd964b",
+        "id": "4b01837a189a361d",
         "type": "tabs",
         "children": [
           {
-            "id": "0ed713b7c5eb787a",
+            "id": "8ad53f253d816e1b",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -119,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -128,14 +129,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ed713b7c5eb787a",
+  "active": "8ad53f253d816e1b",
   "lastOpenFiles": [
-    "Test Types.md",
+    "Unit Testing.md",
+    "Debugging.md",
+    "Test Organization by Workspace.md",
+    "Working Environments.md",
+    "Static Testing.md",
+    "Dynamic Testing.md",
+    "Smoke and Regression Testing.md",
+    "Test Implementation.md",
+    "Software Testing Lifecycle.md",
+    "Test Cases.md",
     "Testing.md",
     "Test Levels.md",
-    "Software Testing Lifecycle.md",
+    "Testing Techniques.md",
+    "Test Types.md",
     "Use Cases.md",
-    "Test Cases.md",
     "Defects.md",
     "Strategy Pattern.md",
     "Observer Pattern.md",
@@ -148,15 +158,6 @@
     "interface.md",
     "Singleton Pattern.md",
     "Composition.md",
-    "Custom Exceptions.md",
-    "Exceptions.md",
-    "Exception Class.md",
-    "Equality and Ordering.md",
-    "Operating Collections.md",
-    "Parametric Programming.md",
-    "Collections.md",
-    "Browsing Collections.md",
-    "Polymorphism.md",
     "Pasted image 20240825162130.png",
     "Pasted image 20240825162048.png",
     "Pasted image 20240825161939.png",
