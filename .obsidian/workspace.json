@@ -8,14 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ad53f253d816e1b",
+            "id": "8c6f8722b095cf26",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "6e4bcffe31b1eb79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Go Web Server.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,6 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Go Web Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -95,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Go Web Server.md"
+              }
             }
           },
           {
@@ -104,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Go Web Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,10 +145,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ad53f253d816e1b",
+  "active": "6e4bcffe31b1eb79",
   "lastOpenFiles": [
-    "Go Channels.md",
+    "Go Web Server.md",
     "Go Concurrency and Parallelism.md",
+    "Go Channels.md",
     "Go IO and Files.md",
     "Go I/O and Files.md",
     "Go I",
@@ -160,7 +178,6 @@
     "Debugging.md",
     "Test Organization by Workspace.md",
     "Working Environments.md",
-    "Static Testing.md",
     "state_pattern_uml_diagram.jpg",
     "Pasted image 20240825162130.png",
     "Pasted image 20240825162048.png",

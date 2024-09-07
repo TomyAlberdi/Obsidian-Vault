@@ -1,3 +1,4 @@
+#Development 
 We've seen applications that execute sequentially, meaning that one line of code doesn't run until the previous one finishes. However, [[Go]] has a feature called **concurrency**, which allows different lines of code to execute simultaneously.
 Concurrency in Go is the ability to separate the execution of multiple tasks individually, without them blocking each other. To achieve this, Go provides **Goroutines**, which can be considered lightweight threads of execution, as the cost of creating Goroutines is much smaller compared to creating an OS thread.
 ## Concurrency vs Parallelism
