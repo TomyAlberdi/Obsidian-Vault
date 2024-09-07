@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "tag:#Language",
+      "color": {
+        "a": 1,
+        "rgb": 14667624
+      }
+    },
+    {
       "query": "tag:#Cheatsheet  ",
       "color": {
         "a": 1,
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 0.510416666666667,
   "linkDistance": 267,
-  "scale": 0.3897757092211242,
+  "scale": 0.4026292673706838,
   "close": true
 }

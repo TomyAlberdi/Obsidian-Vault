@@ -1,4 +1,4 @@
-#Cheatsheet #Development 
+#Language  #Cheatsheet #Development 
 This [[Programming Language|language]] has a set of statements that we will gradually learn and add complexity to. SQL statements are grouped into two categories according to their functionality or purpose:
 - **Data Definition Language (DDL)**: These are statements for creating tables and records. In other words, they are used to make modifications to the database structure.
 - **Data Manipulation Language (DML)**: These are statements for querying, updating, and deleting data. In other words, they are used to perform queries and modifications on the records stored within each of the tables.
