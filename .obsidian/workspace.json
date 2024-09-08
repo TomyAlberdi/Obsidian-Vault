@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go GET.md",
+                "file": "Go PUT.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "fd55218e739dabb0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "a9d6a7ecbcee5d95",
@@ -77,7 +87,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go GET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Go GET.md"
-              }
+              "state": {}
             }
           },
           {
@@ -110,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go GET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,8 +142,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63dd252266ca0e13",
+  "active": "fd55218e739dabb0",
   "lastOpenFiles": [
+    "Go PUT.md",
     "Go GET.md",
     "Go POST.md",
     "Working Environments.md",
@@ -167,7 +175,6 @@
     "Go methods.md",
     "Inheritance.md",
     "Go structures.md",
-    "Algorithm.md",
     "state_pattern_uml_diagram.jpg",
     "Pasted image 20240825162130.png",
     "Pasted image 20240825162048.png",

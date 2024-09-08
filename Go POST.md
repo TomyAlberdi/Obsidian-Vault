@@ -132,3 +132,18 @@ func Guardar() gin.HandlerFunc {
    }
 }
 ```
+## Store in local memory
+We will proceed to store all the sent products in memory, as long as the request is correct. The first thing we will do is declare at the global level: A variable for products where the sent products will be stored. A variable that stores and increments the ID, so that the maximum ID is always used.
+```go
+var products []request
+var lastID int
+```
+Instead of assigning a fixed ID, we increment the ID by 1 and assign it to our product.
+```go
+lastID++
+req.ID = lastID
+```
+Finally, we store the product with the assigned ID in memory. In this way, they will be saved as we continue making requests.
+```go
+products = append(products, req)
+```
