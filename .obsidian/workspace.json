@@ -11,12 +11,8 @@
             "id": "63dd252266ca0e13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Go POST.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go POST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,9 +94,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Go POST.md"
-              }
+              "state": {}
             }
           },
           {
@@ -110,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go POST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,9 +129,9 @@
   },
   "active": "63dd252266ca0e13",
   "lastOpenFiles": [
+    "Go POST.md",
     "Working Environments.md",
     "Go Web Server.md",
-    "Go POST.md",
     "Bash.md",
     "Go.md",
     "Go syntax.md",
