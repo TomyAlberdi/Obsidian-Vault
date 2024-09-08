@@ -8,15 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c6f8722b095cf26",
+            "id": "036a44044b71af5c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Go POST.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "6e4bcffe31b1eb79",
+            "id": "9a9778107fa374d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go Web Server.md",
+                "file": "Go POST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go Web Server.md"
+                "file": "Go POST.md"
               }
             }
           },
@@ -120,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go Web Server.md",
+                "file": "Go POST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,9 +148,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e4bcffe31b1eb79",
+  "active": "036a44044b71af5c",
   "lastOpenFiles": [
     "Go Web Server.md",
+    "Go POST.md",
+    "Go.md",
+    "Go syntax.md",
+    "Marshall Function.md",
     "Go Concurrency and Parallelism.md",
     "Go Channels.md",
     "Go IO and Files.md",
@@ -163,7 +170,6 @@
     "JavaScript.md",
     "NodeJS.md",
     "Java.md",
-    "Go.md",
     "Go Errors.md",
     "State Pattern.md",
     "Go Interfaces.md",
@@ -172,12 +178,9 @@
     "Go methods.md",
     "Inheritance.md",
     "Go structures.md",
-    "Go syntax.md",
     "Algorithm.md",
     "Unit Testing.md",
     "Debugging.md",
-    "Test Organization by Workspace.md",
-    "Working Environments.md",
     "state_pattern_uml_diagram.jpg",
     "Pasted image 20240825162130.png",
     "Pasted image 20240825162048.png",
