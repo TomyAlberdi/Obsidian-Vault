@@ -4,43 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4b01837a189a361d",
+        "id": "9559c167c6f03aec",
         "type": "tabs",
         "children": [
           {
-            "id": "036a44044b71af5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Go POST.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a7f39ca9a15b3f6",
+            "id": "ec9bc6dae45fc376",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "9a9778107fa374d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Go Web Server.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,10 +128,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a7f39ca9a15b3f6",
+  "active": "ec9bc6dae45fc376",
   "lastOpenFiles": [
-    "Go POST.md",
     "Go Web Server.md",
+    "Go POST.md",
+    "Bash.md",
     "Go.md",
     "Go syntax.md",
     "Marshall Function.md",
@@ -171,7 +147,6 @@
     "image 1.png",
     "image.png",
     "SQL.md",
-    "Bash.md",
     "JavaScript.md",
     "NodeJS.md",
     "Java.md",
