@@ -11,8 +11,12 @@
             "id": "63dd252266ca0e13",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Go GET.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Go GET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -94,7 +99,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Go GET.md"
+              }
             }
           },
           {
@@ -103,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Go GET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +137,7 @@
   },
   "active": "63dd252266ca0e13",
   "lastOpenFiles": [
+    "Go GET.md",
     "Go POST.md",
     "Working Environments.md",
     "Go Web Server.md",
@@ -159,7 +168,6 @@
     "Inheritance.md",
     "Go structures.md",
     "Algorithm.md",
-    "Unit Testing.md",
     "state_pattern_uml_diagram.jpg",
     "Pasted image 20240825162130.png",
     "Pasted image 20240825162048.png",
