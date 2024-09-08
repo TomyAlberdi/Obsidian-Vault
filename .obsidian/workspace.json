@@ -20,6 +20,14 @@
             }
           },
           {
+            "id": "6a7f39ca9a15b3f6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "9a9778107fa374d3",
             "type": "leaf",
             "state": {
@@ -31,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go POST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Go POST.md"
-              }
+              "state": {}
             }
           },
           {
@@ -123,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go POST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,10 +153,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "036a44044b71af5c",
+  "active": "6a7f39ca9a15b3f6",
   "lastOpenFiles": [
-    "Go Web Server.md",
     "Go POST.md",
+    "Go Web Server.md",
     "Go.md",
     "Go syntax.md",
     "Marshall Function.md",
