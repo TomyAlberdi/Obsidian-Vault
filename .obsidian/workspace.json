@@ -4,27 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b009b462273851a9",
+        "id": "8efabf12eefe6e17",
         "type": "tabs",
         "children": [
           {
-            "id": "df2a0c91ff88b54e",
+            "id": "382f383ae96f850d",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "8b3751a4888b10c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Context.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -41,22 +29,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ed35a11f473b627",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "byCreatedTimeReverse"
-              }
-            }
-          },
-          {
             "id": "3fa02e0e6a3e20f2",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "API",
+                "query": "tag:#Theory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,13 +42,23 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "4ed35a11f473b627",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "a9d6a7ecbcee5d95",
@@ -79,7 +67,7 @@
       {
         "id": "a4f4ddc477bd78aa",
         "type": "tabs",
-        "dimension": 63.275193798449614,
+        "dimension": 63.27519379844962,
         "children": [
           {
             "id": "35f96cc19b9c9631",
@@ -131,7 +119,7 @@
               "type": "outgoing-link",
               "state": {
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -148,49 +136,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df2a0c91ff88b54e",
+  "active": "382f383ae96f850d",
   "lastOpenFiles": [
-    "Web Context.md",
-    "Go with OpenID.md",
-    "Go in Spring Cloud Environment.md",
-    "grafico-esp-be-3.png",
-    "Go Repository.md",
-    "database-sql package.md",
-    "Go Interfaces.md",
-    "Go Documentation.md",
-    "Documentation.md",
-    "Frameworks.md",
-    "Authentication.md",
-    "Middleware.md",
+    "Development/Testing/Implementation.md",
+    "Development/Infrastructure/Working Environments.md",
+    "Development/Backend Development/Go/Web Context.md",
+    "Security/VPN and Tor.md",
+    "Computer Systems/Hardware/Von Neumann Architecture.md",
+    "Development/Database Administration/SQL/Views.md",
+    "Development/Testing/Use Cases.md",
+    "Development/Testing/Unit Testing.md",
+    "Development/Testing/Testing Techniques.md",
+    "Development/Testing/Testing.md",
+    "Development/Testing/Test Types.md",
+    "Development/Testing/Test Organization by Workspace.md",
+    "Development/Testing/Test Levels.md",
+    "Development/Testing/Test Cases.md",
+    "Programming Theory/Object-Oriented Programming/Strategy Pattern.md",
+    "Development/Database Administration/SQL/Stored Procedures.md",
+    "Development/Testing/Static Testing.md",
+    "Programming Theory/Object-Oriented Programming/State Pattern.md",
+    "Development/Database Administration/SQL/Execution Order.md",
+    "Development/Database Administration/SQL/Best Practices.md",
+    "Development/Backend Development/Java/Interfaces.md",
+    "Development/Database Administration/SQL/SQL.md",
+    "Programming Theory/Sorting Methods.md",
+    "Development/Testing/Software Testing Lifecycle.md",
+    "Computer Systems/Software/Software.md",
+    "Development/Testing/Smoke and Regression Testing.md",
+    "Development/Backend Development/NodeJS",
+    "Development/Frontend Development/JavaScript",
     "image 6.png",
-    "Go Web Server.md",
-    "Godotenv Package.md",
-    "Working Environments.md",
-    "Object-Oriented Programming.md",
-    "Domain-Driven Design.md",
-    "Package-Oriented Design.md",
+    "image 2.png",
+    "Development/Backend Development/Go/Go Web",
+    "Programming Theory/Object-Oriented Programming",
+    "Development/Backend Development/Java",
+    "Development/Infrastructure",
+    "Programming Theory",
+    "Computer Systems/Hardware",
+    "Computer Systems/Networks",
+    "Computer Systems/Software",
+    "grafico-esp-be-3.png",
     "image 5.png",
     "image 4.png",
-    "Parameters.md",
-    "Go Delete.md",
-    "Go Patch.md",
-    "patch.md",
-    "Go PUT.md",
-    "Go GET.md",
-    "Go POST.md",
-    "Bash.md",
-    "Go.md",
-    "Go I",
     "image 3.png",
-    "image 2.png",
     "image 1.png",
     "image.png",
     "state_pattern_uml_diagram.jpg",
     "Pasted image 20240825162130.png",
-    "DevOps/Terminal/Bash Scripting",
-    "DevOps/Terminal",
-    "DevOps/Operating System",
-    "DevOps",
     "Untitled.canvas"
   ]
 }

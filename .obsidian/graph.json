@@ -8,36 +8,36 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Language",
+      "query": "path:\"Computer Systems\"  ",
       "color": {
         "a": 1,
-        "rgb": 14667624
+        "rgb": 13971504
       }
     },
     {
-      "query": "tag:#Cheatsheet  ",
+      "query": "path:\"Programming Theory\"  ",
       "color": {
         "a": 1,
-        "rgb": 3056524
+        "rgb": 3513632
       }
     },
     {
-      "query": "tag:#Development",
+      "query": "path:\"Development\"  ",
       "color": {
         "a": 1,
-        "rgb": 6970582
+        "rgb": 3616684
       }
     },
     {
-      "query": "tag:#Theory  ",
+      "query": "path:Security  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 13358388
       }
     }
   ],
   "collapse-display": true,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": -1.2,
   "nodeSizeMultiplier": 1.0953125,
   "lineSizeMultiplier": 1.42708333333333,
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 0.510416666666667,
   "linkDistance": 267,
-  "scale": 0.19450022690616006,
-  "close": true
+  "scale": 0.272685991736009,
+  "close": false
 }
