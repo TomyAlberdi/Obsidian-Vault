@@ -4,31 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "af3e7b5479654d5a",
+        "id": "b009b462273851a9",
         "type": "tabs",
         "children": [
           {
-            "id": "63dd252266ca0e13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Go PUT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd55218e739dabb0",
+            "id": "df2a0c91ff88b54e",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "8b3751a4888b10c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Context.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Development",
+                "query": "API",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,18 +79,8 @@
       {
         "id": "a4f4ddc477bd78aa",
         "type": "tabs",
+        "dimension": 63.275193798449614,
         "children": [
-          {
-            "id": "4ae56e1b2affb676",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "35f96cc19b9c9631",
             "type": "leaf",
@@ -110,7 +99,15 @@
               "type": "outline",
               "state": {}
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "71b849f2296f2c8e",
+        "type": "tabs",
+        "dimension": 36.724806201550386,
+        "children": [
           {
             "id": "88d65eb0a12a3758",
             "type": "leaf",
@@ -126,14 +123,23 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "4ae56e1b2affb676",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -142,45 +148,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd55218e739dabb0",
+  "active": "df2a0c91ff88b54e",
   "lastOpenFiles": [
+    "Web Context.md",
+    "Go with OpenID.md",
+    "Go in Spring Cloud Environment.md",
+    "grafico-esp-be-3.png",
+    "Go Repository.md",
+    "database-sql package.md",
+    "Go Interfaces.md",
+    "Go Documentation.md",
+    "Documentation.md",
+    "Frameworks.md",
+    "Authentication.md",
+    "Middleware.md",
+    "image 6.png",
+    "Go Web Server.md",
+    "Godotenv Package.md",
+    "Working Environments.md",
+    "Object-Oriented Programming.md",
+    "Domain-Driven Design.md",
+    "Package-Oriented Design.md",
+    "image 5.png",
+    "image 4.png",
+    "Parameters.md",
+    "Go Delete.md",
+    "Go Patch.md",
+    "patch.md",
     "Go PUT.md",
     "Go GET.md",
     "Go POST.md",
-    "Working Environments.md",
-    "Go Web Server.md",
     "Bash.md",
     "Go.md",
-    "Go syntax.md",
-    "Marshall Function.md",
-    "Go Concurrency and Parallelism.md",
-    "Go Channels.md",
-    "Go IO and Files.md",
-    "Go I/O and Files.md",
     "Go I",
-    "Go Panic.md",
     "image 3.png",
     "image 2.png",
     "image 1.png",
     "image.png",
-    "SQL.md",
-    "JavaScript.md",
-    "NodeJS.md",
-    "Java.md",
-    "Go Errors.md",
-    "State Pattern.md",
-    "Go Interfaces.md",
-    "Interfaces.md",
-    "Go Pointers.md",
-    "Go methods.md",
-    "Inheritance.md",
-    "Go structures.md",
     "state_pattern_uml_diagram.jpg",
     "Pasted image 20240825162130.png",
-    "Pasted image 20240825162048.png",
-    "Pasted image 20240825161939.png",
-    "Pasted image 20240825161904.png",
-    "Pasted image 20240825161830.png",
     "DevOps/Terminal/Bash Scripting",
     "DevOps/Terminal",
     "DevOps/Operating System",

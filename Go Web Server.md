@@ -20,7 +20,7 @@ We run the web server with the following command: `go run main.go`.
 To test our endpoint, we go to the following URL: [http://localhost:8080/hello](http://localhost:8080/hello).
 ## Gin Web Framework
 Just as we can create a server using the `net/http` package, there are other frameworks that allow us to build a web server.
-Gin is a high-performance microframework that can be used to create web applications and microservices in [[Go]]. It includes a set of features (e.g., routing, middleware, rendering, etc.) that reduce repetitive code and simplify the creation of web applications and microservices.
+Gin is a high-performance microframework that can be used to create web applications and microservices in [[Go]]. It includes a set of features (e.g., routing, [[middleware]], rendering, etc.) that reduce repetitive code and simplify the creation of web applications and microservices.
 ### How it works:
 Let’s quickly go over how Gin processes a request. The control flow for a typical web application, API server, or microservice is as follows:
 1. Request.
@@ -82,4 +82,62 @@ func main() {
     gopher.GET("/friends", profileFriends)
   }
   server.Run(":8080")
+```
+### [[Parameters]] in Gin
+#### Path Parameters example:
+```go
+// We define a pseudo-database to query employee information
+var empleados = map[string]string{
+  "644": "Employee A",
+  "775": "Employee B",
+  "921": "Employee C",
+}
+
+// Handler to respond to "/"
+func PaginaPrincipal(ctxt *gin.Context) {
+  ctxt.String(200, "Welcome to the company")
+}
+
+// Handler to check if the ID provided by the client exists in the database
+func BuscarEmpleado(ctxt *gin.Context) {
+  empleado, ok := empleados[ctxt.Param("id")]
+  if ok {
+    ctxt.String(200, "Employee information %s: Name: %s", ctxt.Param("id"), empleado)
+  } else {
+    ctxt.String(404, "The employee does not exist")
+  }
+}
+
+func main() {
+  server := gin.Default()
+  server.GET("/", PaginaPrincipal)
+  server.GET("/empleados/:id", BuscarEmpleado)
+  server.Run(":8085")
+}
+```
+**What if the param doesn't exist in the URL?**:
+Here, we see how Gin handles parameters in a request. The `Param` method is a shortcut to `Params.ByName` and returns the value of the first parameter whose key matches the given name. If no matching parameter is found, an empty string is returned.
+```go
+// Returns the value of the "param" in the URL
+// It is a shortcut for c.Params.ByName(key)
+func (c *Context) Param(key string) string {
+  return c.Params.ByName(key)
+}
+```
+**Definition of `Params`**:
+`Params` is a slice of parameters provided by the URL.
+```go
+type Params []Param
+```
+**These `Param` objects follow the same order as in the URL**:
+```go
+type Param struct {
+  Key   string
+  Value string
+}
+```
+#### Query Parameters in Gin:
+The easiest way to access query parameters (those in the form `?key=value`) is by using the `Query` method in our context:
+```go
+valueOfOurKey := ctx.Query("key")
 ```

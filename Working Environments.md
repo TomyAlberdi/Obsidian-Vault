@@ -17,3 +17,8 @@ Each environment serves a specific purpose and offers certain advantages at diff
 
 - **Production Environment (PROD)**:  
     This is the environment where the application is finally run, where end users access it, and where real business data is processed. It has the same characteristics and configuration as the preproduction environment. However, it may involve multiple servers for load balancing in applications that need infrastructure capable of handling heavy user traffic and thousands of concurrent connections.
+## Environment Variables
+An **environment variable** is a dynamic value that the operating system and other programs can use to determine specific information about your computer.
+In other words, an environment variable represents something else, such as a location on the computer, a version number, a list of objects, a user, or a password. It is also a dynamic variable that can affect the behavior of running processes on a computer.
+Typically, these values refer to common system files, directories, and functions whose specific path may vary, but which other programs need to be aware of.
+A very popular way to configure environment variables is through **`.env` files**, also colloquially called "dotenv files" or just "dotfiles." In fact, many technologies today support this type of file: IDEs, Docker, and some web frameworks are just a few examples.
