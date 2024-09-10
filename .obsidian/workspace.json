@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8efabf12eefe6e17",
+        "id": "ab2eef2c7389e41c",
         "type": "tabs",
         "children": [
           {
-            "id": "382f383ae96f850d",
+            "id": "314f639b487b26c3",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -34,7 +34,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Theory",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,7 @@
       {
         "id": "a4f4ddc477bd78aa",
         "type": "tabs",
-        "dimension": 63.27519379844962,
+        "dimension": 39.53488372093023,
         "children": [
           {
             "id": "35f96cc19b9c9631",
@@ -94,7 +94,7 @@
       {
         "id": "71b849f2296f2c8e",
         "type": "tabs",
-        "dimension": 36.724806201550386,
+        "dimension": 60.46511627906976,
         "children": [
           {
             "id": "88d65eb0a12a3758",
@@ -136,8 +136,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "382f383ae96f850d",
+  "active": "4ed35a11f473b627",
   "lastOpenFiles": [
+    "Development/Frontend Development/Frontend Development.md",
+    "Development/Backend Development/Backend Development.md",
+    "Development/Development.md",
+    "Security/Active and Passive Security.md",
+    "Computer Systems/Software/Bugs and Vulnerabilities.md",
     "Development/Testing/Implementation.md",
     "Development/Infrastructure/Working Environments.md",
     "Development/Backend Development/Go/Web Context.md",
@@ -159,11 +164,6 @@
     "Development/Database Administration/SQL/Execution Order.md",
     "Development/Database Administration/SQL/Best Practices.md",
     "Development/Backend Development/Java/Interfaces.md",
-    "Development/Database Administration/SQL/SQL.md",
-    "Programming Theory/Sorting Methods.md",
-    "Development/Testing/Software Testing Lifecycle.md",
-    "Computer Systems/Software/Software.md",
-    "Development/Testing/Smoke and Regression Testing.md",
     "Development/Backend Development/NodeJS",
     "Development/Frontend Development/JavaScript",
     "image 6.png",

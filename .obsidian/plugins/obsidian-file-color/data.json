@@ -1,0 +1,44 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "J7sGQ-j1vuNAdYdWUZsK4",
+      "name": "Computer Systems red",
+      "value": "#d73030"
+    },
+    {
+      "id": "6SZLKj9s8tWJCKMQdVjEI",
+      "name": "Development Blue",
+      "value": "#372fac"
+    },
+    {
+      "id": "9ncAkG7APLSqj8pc3D5v0",
+      "name": "Security Yellow",
+      "value": "#cbd534"
+    },
+    {
+      "id": "VtxcJWi_t7sRpjSGOZgkX",
+      "name": "Programming Theory Green",
+      "value": "#359d20"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Computer Systems",
+      "color": "J7sGQ-j1vuNAdYdWUZsK4"
+    },
+    {
+      "path": "Development",
+      "color": "6SZLKj9s8tWJCKMQdVjEI"
+    },
+    {
+      "path": "Programming Theory",
+      "color": "VtxcJWi_t7sRpjSGOZgkX"
+    },
+    {
+      "path": "Security",
+      "color": "9ncAkG7APLSqj8pc3D5v0"
+    }
+  ]
+}
