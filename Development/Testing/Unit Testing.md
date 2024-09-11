@@ -12,8 +12,8 @@ For example, to perform component testing of code done in JavaScript you can cre
 - Mocha
 - Chai
 ## NPM
-npm is the default package management system for Node.js. When we refer to “packages” what we are referring to is code packages that will live in a folder called “node_modules” and will have a configuration that will call them inside a file called “package.json”.
-This is generated when starting a project with the command “npm init” having previously downloaded node.js.
+npm is the default package management system for Node.js. When we refer to “packages” what we are referring to is code packages that will live in a folder called `node_modules` and will have a configuration that will call them inside a file called “package.json”.
+This is generated when starting a project with the command `npm init` having previously downloaded node.js.
 This configuration will contain valuable information for the project, for example:
 - The author
 - The title of the project
