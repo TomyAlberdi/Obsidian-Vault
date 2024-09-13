@@ -25,7 +25,7 @@
       "query": "path:\"Development\"  ",
       "color": {
         "a": 1,
-        "rgb": 3616684
+        "rgb": 6116814
       }
     },
     {
@@ -38,7 +38,7 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.2,
+  "textFadeMultiplier": -0.4,
   "nodeSizeMultiplier": 1.0953125,
   "lineSizeMultiplier": 1.42708333333333,
   "collapse-forces": true,
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 0.510416666666667,
   "linkDistance": 267,
-  "scale": 0.19450022690616237,
+  "scale": 0.19450022690616386,
   "close": true
 }

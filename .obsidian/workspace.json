@@ -11,20 +11,20 @@
             "id": "e5cabcfbda80ebbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Development/Infrastructure/Bash Automation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "c1be2b8bf52bca0c",
+            "id": "a56ab1e40e1b69d8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Development/Infrastructure/Cloud/Scalability, Fault Tolerance and Availability.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -62,7 +62,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           }
@@ -99,7 +99,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Development/Infrastructure/Cloud/Scalability, Fault Tolerance and Availability.md"
+              }
             }
           }
         ],
@@ -116,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Development/Infrastructure/Cloud/Scalability, Fault Tolerance and Availability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Development/Infrastructure/Cloud/Scalability, Fault Tolerance and Availability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,9 +156,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1be2b8bf52bca0c",
+  "active": "a56ab1e40e1b69d8",
   "lastOpenFiles": [
-    "Development/Infrastructure/Bash Automation.md",
+    "Development/Infrastructure/Cloud/Cloud Computation.md",
+    "Development/Infrastructure/Cloud/Scalability, Fault Tolerance and Availability.md",
+    "Development/Infrastructure/Cloud/Hybrid Cloud.md",
+    "Development/Infrastructure/Cloud/Serverless.md",
+    "Development/Testing/Use Cases.md",
+    "Development/Infrastructure/Cloud",
+    "Development/Infrastructure/Docker.md",
+    "Computer Systems/Networks/Ports.md",
+    "Development/Infrastructure/Ansible.md",
+    "image 7.png",
+    "Development/Infrastructure/Configuration Management.md",
+    "Development/Infrastructure/Bash Scripting.md",
     "Development/Infrastructure/Bash.md",
     "Development/Infrastructure/Infrastructure.md",
     "Development/Infrastructure/Shell Scripting.md",
@@ -172,15 +187,6 @@
     "Development/Testing/Implementation.md",
     "Development/Infrastructure/Working Environments.md",
     "Development/Backend Development/Go/Web Context.md",
-    "Security/VPN and Tor.md",
-    "Computer Systems/Hardware/Von Neumann Architecture.md",
-    "Development/Database Administration/SQL/Views.md",
-    "Development/Testing/Use Cases.md",
-    "Development/Testing/Testing Techniques.md",
-    "Development/Testing/Testing.md",
-    "Development/Testing/Test Types.md",
-    "Development/Testing/Test Organization by Workspace.md",
-    "Development/Testing/Test Levels.md",
     "Development/Backend Development/NodeJS",
     "Development/Frontend Development/JavaScript",
     "image 6.png",
@@ -191,7 +197,6 @@
     "Development/Infrastructure",
     "Programming Theory",
     "Computer Systems/Hardware",
-    "Computer Systems/Networks",
     "grafico-esp-be-3.png",
     "image 5.png",
     "image 4.png",
@@ -199,7 +204,6 @@
     "image 1.png",
     "image.png",
     "state_pattern_uml_diagram.jpg",
-    "Pasted image 20240825162130.png",
     "Untitled.canvas"
   ]
 }
