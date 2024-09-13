@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Computer Systems\"  ",
@@ -40,12 +40,12 @@
   "showArrow": false,
   "textFadeMultiplier": -0.4,
   "nodeSizeMultiplier": 1.0953125,
-  "lineSizeMultiplier": 1.42708333333333,
+  "lineSizeMultiplier": 0.891145833333333,
   "collapse-forces": true,
   "centerStrength": 0.5,
   "repelStrength": 10,
   "linkStrength": 0.510416666666667,
   "linkDistance": 267,
-  "scale": 0.19450022690616386,
+  "scale": 0.1945002269061647,
   "close": true
 }

@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "099acfd8445116b2",
+        "id": "f631b31725da8721",
         "type": "tabs",
         "children": [
           {
-            "id": "e5cabcfbda80ebbe",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a56ab1e40e1b69d8",
+            "id": "dc7135f075aaf446",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Infrastructure/Cloud/Scalability, Fault Tolerance and Availability.md",
+                "file": "Programming Theory/Object-Oriented Programming/Design Patterns/Proxy Pattern.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,7 +53,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -71,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "a9d6a7ecbcee5d95",
@@ -81,7 +71,7 @@
       {
         "id": "a4f4ddc477bd78aa",
         "type": "tabs",
-        "dimension": 56.87984496124031,
+        "dimension": 42.63565891472868,
         "children": [
           {
             "id": "35f96cc19b9c9631",
@@ -100,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/Infrastructure/Cloud/Scalability, Fault Tolerance and Availability.md"
+                "file": "Programming Theory/Object-Oriented Programming/Design Patterns/Proxy Pattern.md"
               }
             }
           }
@@ -108,34 +98,34 @@
         "currentTab": 1
       },
       {
-        "id": "71b849f2296f2c8e",
+        "id": "c54d7768684af78b",
         "type": "tabs",
-        "dimension": 43.12015503875969,
+        "dimension": 57.36434108527132,
         "children": [
           {
-            "id": "88d65eb0a12a3758",
+            "id": "1e583dee467fed9a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/Infrastructure/Cloud/Scalability, Fault Tolerance and Availability.md",
+                "file": "Programming Theory/Object-Oriented Programming/Design Patterns/Proxy Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4ae56e1b2affb676",
+            "id": "0fcc6a7f96b99005",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/Infrastructure/Cloud/Scalability, Fault Tolerance and Availability.md",
+                "file": "Programming Theory/Object-Oriented Programming/Design Patterns/Proxy Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,11 +145,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a56ab1e40e1b69d8",
+  "active": "dc7135f075aaf446",
   "lastOpenFiles": [
-    "Development/Infrastructure/Cloud/Cloud Computation.md",
+    "Programming Theory/Object-Oriented Programming/Design Patterns/Proxy Pattern.md",
+    "Programming Theory/Object-Oriented Programming/Design Patterns/Chain of Responsibility Pattern.md",
+    "image 10.png",
+    "Programming Theory/Object-Oriented Programming/Design Patterns/Template Method Pattern.md",
+    "Programming Theory/Object-Oriented Programming/Design Patterns/State Pattern.md",
+    "image 9.png",
+    "Development/Testing/Test-Driven Development.md",
+    "Development/Testing/Implementation Stage.md",
+    "Development/Testing/Java Testing/JUnit.md",
+    "Development/Testing/Testing/Java Testing",
+    "Development/Testing/Testing",
+    "Development/Testing/Java Testing",
+    "Development/Backend Development/Backend Development.md",
+    "Programming Theory/Object-Oriented Programming/Design Patterns/Composite Pattern.md",
+    "Programming Theory/Object-Oriented Programming/Design Patterns/Design Patterns.md",
+    "Development/Infrastructure/Cloud/Cloud Database.md",
+    "Programming Theory/Object-Oriented Programming/Design Patterns",
     "Development/Infrastructure/Cloud/Scalability, Fault Tolerance and Availability.md",
+    "Development/Infrastructure/Cloud/Cloud Computation.md",
+    "Development/Infrastructure/Cloud/Providers.md",
+    "Development/Infrastructure/Cloud/Cloud Storage.md",
     "Development/Infrastructure/Cloud/Hybrid Cloud.md",
+    "Development/Infrastructure/Cloud/Load Balancer.md",
+    "image 8.png",
+    "Development/Backend Development/Go/Go.md",
+    "Computer Systems/Networks/Addresses.md",
     "Development/Infrastructure/Cloud/Serverless.md",
     "Development/Testing/Use Cases.md",
     "Development/Infrastructure/Cloud",
@@ -170,40 +182,17 @@
     "image 7.png",
     "Development/Infrastructure/Configuration Management.md",
     "Development/Infrastructure/Bash Scripting.md",
-    "Development/Infrastructure/Bash.md",
-    "Development/Infrastructure/Infrastructure.md",
-    "Development/Infrastructure/Shell Scripting.md",
-    "Computer Systems/Software/Remote Desktops and Virtual Machines.md",
-    "Development/Infrastructure/Automation.md",
-    "Computer Systems/Software/Bugs and Vulnerabilities.md",
-    "Security/Information.md",
-    "Computer Systems/Hardware/Hardware.md",
-    "Development/Testing/Unit Testing.md",
     "Infrastructure",
-    "Development/Frontend Development/Frontend Development.md",
-    "Development/Backend Development/Backend Development.md",
-    "Development/Development.md",
-    "Security/Active and Passive Security.md",
-    "Development/Testing/Implementation.md",
-    "Development/Infrastructure/Working Environments.md",
-    "Development/Backend Development/Go/Web Context.md",
     "Development/Backend Development/NodeJS",
     "Development/Frontend Development/JavaScript",
     "image 6.png",
     "image 2.png",
     "Development/Backend Development/Go/Go Web",
     "Programming Theory/Object-Oriented Programming",
-    "Development/Backend Development/Java",
-    "Development/Infrastructure",
-    "Programming Theory",
-    "Computer Systems/Hardware",
     "grafico-esp-be-3.png",
     "image 5.png",
     "image 4.png",
     "image 3.png",
-    "image 1.png",
-    "image.png",
-    "state_pattern_uml_diagram.jpg",
     "Untitled.canvas"
   ]
 }
