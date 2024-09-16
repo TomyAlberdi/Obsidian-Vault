@@ -23,22 +23,5 @@
       "value": "#359d20"
     }
   ],
-  "fileColors": [
-    {
-      "path": "Computer Systems",
-      "color": "J7sGQ-j1vuNAdYdWUZsK4"
-    },
-    {
-      "path": "Development",
-      "color": "6SZLKj9s8tWJCKMQdVjEI"
-    },
-    {
-      "path": "Programming Theory",
-      "color": "VtxcJWi_t7sRpjSGOZgkX"
-    },
-    {
-      "path": "Security",
-      "color": "9ncAkG7APLSqj8pc3D5v0"
-    }
-  ]
+  "fileColors": []
 }

@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0894c636f3c91e34",
+        "id": "3164ea3c9935f49c",
         "type": "tabs",
         "children": [
           {
-            "id": "e0fee241fae82299",
+            "id": "d8fe0e37ec2b6b82",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -67,7 +67,6 @@
       {
         "id": "a4f4ddc477bd78aa",
         "type": "tabs",
-        "dimension": 42.63565891472868,
         "children": [
           {
             "id": "35f96cc19b9c9631",
@@ -87,15 +86,7 @@
               "type": "outline",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "c54d7768684af78b",
-        "type": "tabs",
-        "dimension": 57.36434108527132,
-        "children": [
+          },
           {
             "id": "1e583dee467fed9a",
             "type": "leaf",
@@ -111,7 +102,14 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7928c9808aaf4977",
+        "type": "tabs",
+        "children": [
           {
             "id": "0fcc6a7f96b99005",
             "type": "leaf",
@@ -123,69 +121,68 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": true,
+      "templater-obsidian:Templater": true
     }
   },
-  "active": "e0fee241fae82299",
+  "active": "d8fe0e37ec2b6b82",
   "lastOpenFiles": [
-    "Development/Database Administration/MySQL.md",
-    "Development/Database Administration/SQL/SQL.md",
-    "Development/Backend Development/Go/Go.md",
-    "Programming Theory/Object-Oriented Programming/Design Patterns/Facade Pattern.md",
-    "Programming Theory/Object-Oriented Programming/Design Patterns/Flyweight Pattern.md",
-    "Programming Theory/Object-Oriented Programming/Design Patterns/Proxy Pattern.md",
-    "Untitled.md",
-    "Programming Theory/Object-Oriented Programming/Design Patterns/State Pattern.md",
-    "Programming Theory/Object-Oriented Programming/Design Patterns/Singleton Pattern.md",
-    "Programming Theory/Object-Oriented Programming/Design Patterns/Observer Pattern.md",
-    "Programming Theory/Object-Oriented Programming/Design Patterns/Chain of Responsibility Pattern.md",
-    "image 10.png",
-    "Programming Theory/Object-Oriented Programming/Design Patterns/Template Method Pattern.md",
-    "image 9.png",
-    "Development/Testing/Test-Driven Development.md",
-    "Development/Testing/Implementation Stage.md",
-    "Development/Testing/Java Testing/JUnit.md",
-    "Development/Testing/Testing/Java Testing",
-    "Development/Testing/Testing",
-    "Development/Testing/Java Testing",
-    "Development/Backend Development/Backend Development.md",
-    "Programming Theory/Object-Oriented Programming/Design Patterns/Composite Pattern.md",
-    "Programming Theory/Object-Oriented Programming/Design Patterns/Design Patterns.md",
-    "Development/Infrastructure/Cloud/Cloud Database.md",
-    "Programming Theory/Object-Oriented Programming/Design Patterns",
-    "Development/Infrastructure/Cloud/Scalability, Fault Tolerance and Availability.md",
-    "Development/Infrastructure/Cloud/Cloud Computation.md",
-    "Development/Infrastructure/Cloud/Providers.md",
-    "Development/Infrastructure/Cloud/Cloud Storage.md",
-    "Development/Infrastructure/Cloud/Hybrid Cloud.md",
-    "Development/Infrastructure/Cloud/Load Balancer.md",
-    "image 8.png",
-    "Computer Systems/Networks/Addresses.md",
-    "Development/Infrastructure/Cloud",
-    "image 7.png",
-    "Infrastructure",
-    "Development/Backend Development/NodeJS",
-    "Development/Frontend Development/JavaScript",
-    "image 6.png",
-    "image 2.png",
-    "Development/Backend Development/Go/Go Web",
-    "Programming Theory/Object-Oriented Programming",
-    "grafico-esp-be-3.png",
-    "image 5.png",
-    "image 4.png",
-    "image 3.png",
+    "Programming Theory/Programming Theory.md",
+    "Infrastructure Administration/Infrastructure Administration.md",
+    "Database Administration/Database Administration.md",
+    "Backend Development/Backend Development.md",
+    "Frontend Development/Frontend Development.md",
+    "Testing/Testing.md",
+    "Testing/Untitled.md",
+    "Programming Theory",
+    "Testing",
+    "Database Administration",
+    "Infrastructure Administration",
+    "Backend Development",
+    "Frontend Development",
+    "Security/Security.md",
+    "Security/Bugs and Vulnerabilities.md",
+    "Security/Untitled.md",
+    "Security",
+    "Computer System/Network/Routing.md",
+    "Computer System/Software/Operating System.md",
+    "Computer System/Software/Software.md",
+    "Computer System/Network/Ports.md",
+    "Computer System/Hardware/Hardware.md",
+    "Computer System/Hardware/CPU.md",
+    "Computer System/Hardware/Main Memory.md",
+    "Computer System/Hardware/Memory.md",
+    "Computer System/Network/Addresses.md",
+    "Computer System/Hardware/Secondary Memory.md",
+    "Computer System/Hardware/Von Neumann Architecture.md",
+    "Computer System/Network/Internet Protocol.md",
+    "Computer System/Network/Network.md",
+    "Computer System/Network/OSI Model.md",
+    "Computer System/Computer.md",
+    "Computer System/Hardware/attachments/Pasted image 20240824171342.png",
+    "Computer System/Hardware/attachments/Pasted image 20240824170851.png",
+    "Templates/DefaultTemplate.md",
+    "Scripts/script.js",
+    "Scripts",
+    "Extras",
+    "Computer System/Hardware/attachments/Pasted image 20240824171902.png",
+    "state_pattern_uml_diagram.jpg",
+    "Pasted image 20240825162130.png",
+    "Pasted image 20240825162048.png",
+    "Pasted image 20240825161939.png",
+    "Pasted image 20240825161904.png",
+    "Pasted image 20240825161830.png",
+    "Pasted image 20240824171902.png",
     "Untitled.canvas"
   ]
 }
