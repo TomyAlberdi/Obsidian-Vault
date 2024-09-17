@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3164ea3c9935f49c",
+        "id": "4bb4d8e3daa00753",
         "type": "tabs",
         "children": [
           {
-            "id": "d8fe0e37ec2b6b82",
+            "id": "ba347e9a795d8ebc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -67,6 +67,7 @@
       {
         "id": "a4f4ddc477bd78aa",
         "type": "tabs",
+        "dimension": 69.0891472868217,
         "children": [
           {
             "id": "35f96cc19b9c9631",
@@ -109,6 +110,7 @@
       {
         "id": "7928c9808aaf4977",
         "type": "tabs",
+        "dimension": 30.910852713178294,
         "children": [
           {
             "id": "0fcc6a7f96b99005",
@@ -117,7 +119,7 @@
               "type": "outgoing-link",
               "state": {
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -135,54 +137,54 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "d8fe0e37ec2b6b82",
+  "active": "ba347e9a795d8ebc",
   "lastOpenFiles": [
-    "Computer Theory",
-    "Programming Theory/Programming Theory.md",
-    "Infrastructure Administration/Infrastructure Administration.md",
-    "Database Administration/Database Administration.md",
-    "Backend Development/Backend Development.md",
-    "Frontend Development/Frontend Development.md",
-    "Testing/Testing.md",
-    "Testing/Untitled.md",
-    "Programming Theory",
-    "Testing",
-    "Database Administration",
-    "Infrastructure Administration",
-    "Backend Development",
-    "Frontend Development",
+    "Infrastructure Administration/Shell Scripting/Shell Scripting.md",
+    "Security/Authentication.md",
+    "Security/VPN and Tor.md",
+    "Security/Security Measures.md",
+    "Security/Middleware.md",
+    "Security/Information.md",
+    "Security/Cybersecurity.md",
+    "Security/Cyber Threats.md",
+    "Security/attachments/image 6.png",
+    "Security/attachments",
+    "Templates/DefaultTemplate.md",
+    "Security/Active and Passive Security.md",
     "Security/Security.md",
-    "Security/Bugs and Vulnerabilities.md",
-    "Security/Untitled.md",
-    "Security",
-    "Computer System/Network/Routing.md",
-    "Computer System/Software/Operating System.md",
-    "Computer System/Software/Software.md",
-    "Computer System/Network/Ports.md",
-    "Computer System/Hardware/Hardware.md",
-    "Computer System/Hardware/CPU.md",
-    "Computer System/Hardware/Main Memory.md",
-    "Computer System/Hardware/Memory.md",
-    "Computer System/Network/Addresses.md",
-    "Computer System/Hardware/Secondary Memory.md",
-    "Computer System/Hardware/Von Neumann Architecture.md",
-    "Computer System/Network/Internet Protocol.md",
-    "Computer System/Network/Network.md",
-    "Computer System/Network/OSI Model.md",
-    "Computer System/Computer.md",
-    "Computer System/Hardware/attachments/Pasted image 20240824171342.png",
-    "Computer System/Hardware/attachments/Pasted image 20240824170851.png",
-    "Scripts/script.js",
-    "Scripts",
-    "Extras",
-    "Computer System/Hardware/attachments/Pasted image 20240824171902.png",
-    "state_pattern_uml_diagram.jpg",
-    "Pasted image 20240825162130.png",
-    "Pasted image 20240825162048.png",
-    "Pasted image 20240825161939.png",
-    "Pasted image 20240825161904.png",
-    "Pasted image 20240825161830.png",
-    "Pasted image 20240824171902.png",
+    "Testing/Use Cases.md",
+    "Testing/Unit Testing.md",
+    "Testing/Testing Techniques.md",
+    "Testing/Testing.md",
+    "Testing/Test Driven Development.md",
+    "Testing/Test Types.md",
+    "Testing/Test Organization by Workspace.md",
+    "Testing/Test Levels.md",
+    "Testing/Test Cases.md",
+    "Testing/Static Testing.md",
+    "Testing/Software Testing Lifecycle.md",
+    "Testing/Smoke and Regression Testing.md",
+    "Testing/Implementation Stage.md",
+    "Testing/Dynamic Testing.md",
+    "Testing/Defects.md",
+    "Testing/Java Testing",
+    "Programming Theory/Object-Oriented Programming/Design Patterns/attachments/image 9.png",
+    "attachments/image 9.png",
+    "attachments",
+    "Programming Theory/Object-Oriented Programming/Design Patterns/attachments/state_pattern_uml_diagram.jpg",
+    "Programming Theory/Object-Oriented Programming/Design Patterns/attachments/image 10.png",
+    "Programming Theory/Object-Oriented Programming/Design Patterns/attachments",
+    "Programming Theory/Object-Oriented Programming/Design Patterns",
+    "Programming Theory/Object-Oriented Programming",
+    "Infrastructure Administration/Cloud/attachments/image 8.png",
+    "Infrastructure Administration/Cloud/attachments",
+    "Infrastructure Administration/Cloud",
+    "Infrastructure Administration/attachments/image 7.png",
+    "Infrastructure Administration/attachments",
+    "attachments/image 7.png",
+    "Infrastructure Administration/Shell Scripting",
+    "Database Administration/SQL/attachments/Pasted image 20240825162130.png",
+    "Database Administration/SQL/attachments/Pasted image 20240825162048.png",
     "Untitled.canvas"
   ]
 }
