@@ -1,6 +1,13 @@
+Created: 2024-09-17 17:28
+## Family Tree:
+1. Computer
+2. Programming Theory
+3. Object-Oriented Programming
+4. [[Design Patterns]]
+-- -
 Let’s learn how to reduce the complexity of interacting with a group of subsystems by providing a single entry point.
 ## Purpose
-The **Facade** is a [[Design Patterns#Structural Patterns|structural design pattern]] that provides a simplified interface to a library, framework, or any other complex group of classes.
+The **Facade** is a structural design pattern (Design Patterns > Structural Patterns) that provides a simplified interface to a library, framework, or any other complex group of classes.
 ## Solution
 An interface is provided that defines how the client will communicate with the system. This class will implement the interface to receive requests and will be responsible for forwarding the client’s request to the appropriate class (subsystems).
 ## Advantages

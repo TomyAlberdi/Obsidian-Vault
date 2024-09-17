@@ -1,4 +1,11 @@
-Singleton is a [[Design Patterns#Creation Patterns|creational design pattern]] that ensures a class has only one instance and provides a global access point to it. In the Singleton pattern, a class manages its own instance and prevents any other class from creating an instance of it. To create the instance using this pattern, you must go through the class itself, as no other class can instantiate it. The Singleton pattern also provides a global access point to its instance. The class will always offer its own instance, and if it doesn't have one yet, it creates and returns that newly created instance.
+Created: 2024-09-17 17:32
+## Family Tree:
+1. Computer
+2. Programming Theory
+3. Object-Oriented Programming
+4. [[Design Patterns]]
+-- -
+Singleton is a creational design pattern (Design Patterns > Creation Patterns) that ensures a class has only one instance and provides a global access point to it. In the Singleton pattern, a class manages its own instance and prevents any other class from creating an instance of it. To create the instance using this pattern, you must go through the class itself, as no other class can instantiate it. The Singleton pattern also provides a global access point to its instance. The class will always offer its own instance, and if it doesn't have one yet, it creates and returns that newly created instance.
 ### Creating a Class
 To create a class with this pattern, the following steps are necessary:
 1. Create a static attribute of the same type as the class with the name `instance`.
@@ -27,7 +34,7 @@ public static Class getInstance() {
 
 ```
 ## Example:
-Typically, a class that does not need more than one instance is the class used for [[Database]] connection. We are aware of the potential issues that can arise from having more than one connection to a database within the same execution of code. To avoid these issues, we must block even the slightest possibility of instantiating this class outside of itself (even subclasses cannot instantiate it) and also create a way to ensure that only one instance of it exists. In this context, the best solution is to apply the Singleton pattern.
+Typically, a class that does not need more than one instance is the class used for Database connection. We are aware of the potential issues that can arise from having more than one connection to a database within the same execution of code. To avoid these issues, we must block even the slightest possibility of instantiating this class outside of itself (even subclasses cannot instantiate it) and also create a way to ensure that only one instance of it exists. In this context, the best solution is to apply the Singleton pattern.
 ```java
 public class Database {
   private static Database instance = new Database();

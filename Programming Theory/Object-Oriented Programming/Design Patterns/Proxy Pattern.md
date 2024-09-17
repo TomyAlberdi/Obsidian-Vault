@@ -1,4 +1,11 @@
-Let’s see how we can use this [[Design Patterns|Pattern]] to control access to an object, allowing us to perform something before or after the request reaches it.
+Created: 2024-09-17 17:32
+## Family Tree:
+1. Computer
+2. Programming Theory
+3. Object-Oriented Programming
+4. [[Design Patterns]]
+-- -
+Let’s see how we can use this Pattern (Design Patterns) to control access to an object, allowing us to perform something before or after the request reaches it.
 ## Purpose
 The aim is to develop the function of acting as an intermediary that adds functionality to a class without modifying the class itself.
 ## Solution

@@ -1,6 +1,12 @@
+Created: 2024-09-17 17:04
+## Family Tree:
+1. Computer
+2. Programming Theory
+3. [[Object-Oriented Programming]]
+-- -
 Design patterns are guidelines for addressing potential issues in application development. They provide quick solutions to simple and recurring problems, allowing for faster design development. They are divided into three categories:
 #### Creation Patterns:
-These aim to abstract the process of how [[Object-Oriented Programming|objects]] are created in an application. They provide [[Development/Backend Development/Java/Interfaces]] for creating and copying objects, and for producing families of related objects without specifying their concrete classes. Additionally, they allow for different representations using the same code.
+These aim to abstract the process of how objects are created in an application. They provide Interfaces for creating and copying objects, and for producing families of related objects without specifying their concrete classes. Additionally, they allow for different representations using the same code.
 #### Structural Patterns:
 These deal with the composition of classes and objects. They enable collaboration between objects with incompatible interfaces by adding new behaviors. This way, we can divide a class or a set of closely related classes into two separate hierarchies (abstraction and implementation), which can be developed independently of each other. They also allow objects to be composed into a tree structure and then work with these structures as if they were individual objects.
 #### Behavioral Patterns:

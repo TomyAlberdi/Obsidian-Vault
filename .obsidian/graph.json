@@ -5,47 +5,75 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Computer Systems\"  ",
+      "query": "path:\"Computer System\"  ",
       "color": {
         "a": 1,
-        "rgb": 13971504
-      }
-    },
-    {
-      "query": "path:\"Programming Theory\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 3513632
-      }
-    },
-    {
-      "query": "path:\"Development\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6116814
+        "rgb": 12014162
       }
     },
     {
       "query": "path:Security  ",
       "color": {
         "a": 1,
-        "rgb": 13358388
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:\"Programming Theory\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:\"Frontend Development\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:\"Database Administration\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:Testing  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:\"Backend Development\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:\"Infrastructure Administration\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.4,
   "nodeSizeMultiplier": 1.0953125,
   "lineSizeMultiplier": 0.840104166666667,
-  "collapse-forces": true,
-  "centerStrength": 0.5,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.354166666666667,
+  "repelStrength": 6.66666666666667,
   "linkStrength": 0.510416666666667,
-  "linkDistance": 267,
-  "scale": 0.2726859917360147,
+  "linkDistance": 30,
+  "scale": 0.2726859917360212,
   "close": true
 }

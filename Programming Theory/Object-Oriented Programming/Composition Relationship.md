@@ -1,7 +1,13 @@
-Composition is a type of [[Aggregation Relationship]] that is stronger, where all parts (classes) can only belong to a whole and we represent it as a filled diamond instead of an empty one as in aggregation. It is the case where an [[Object Class]] A "owns" an object class B, and B has no reason to exist without A. As mentioned earlier, unlike aggregation, in this case, the part has no meaning without the whole. Example:
+Created: 2024-09-17 17:08
+## Family Tree:
+1. Computer
+2. Programming Theory
+3. [[Object-Oriented Programming]]
+-- -
+Composition is a type of Aggregation Relationship that is stronger, where all parts (classes) can only belong to a whole and we represent it as a filled diamond instead of an empty one as in aggregation. It is the case where an Object Class A "owns" an object class B, and B has no reason to exist without A. As mentioned earlier, unlike aggregation, in this case, the part has no meaning without the whole. Example:
 A company has employees; these employees do not make sense on their own. If an employee exists, it is because there must be a company where that employee works.
 
-In composition, instead of statically encoding behavior as is done with [[Inheritance]], we define small, predefined behaviors and use them to declare more complex behaviors. For example:
+In composition, instead of statically encoding behavior as is done with Inheritance, we define small, predefined behaviors and use them to declare more complex behaviors. For example:
 ```java
 public class Sistema {
   Persona persona = new Persona();

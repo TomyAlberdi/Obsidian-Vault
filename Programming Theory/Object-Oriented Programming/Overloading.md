@@ -1,4 +1,10 @@
-Method overloading is related to the [[Method Signature]]. In [[Object-Oriented Programming]], it is possible to have two or more methods with the same name in the same class, but with different behaviors. This is feasible because when invoking such a method, it can be determined which one to call as long as their signatures differ.
+Created: 2024-09-17 17:10
+## Family Tree:
+1. Computer
+2. Programming Theory
+3. [[Object-Oriented Programming]]
+-- -
+Method overloading is related to the Method Signature. In Object-Oriented Programming, it is possible to have two or more methods with the same name in the same class, but with different behaviors. This is feasible because when invoking such a method, it can be determined which one to call as long as their signatures differ.
 ```java
 class Dog {
     String name;
@@ -15,7 +21,7 @@ When we hear the word "overriding," the first idea that comes to mind is rewriti
 To override methods, we need an inheritance relationship, as we are overriding a method from the superclass to make it behave differently in the subclass.
 Unlike overloading, where methods must have different signatures, in overriding, the methods must have the same signature.
 When writing the `bark()` method in the subclasses, we are indicating that this method is overridden and, therefore, behaves differently.
-## Overloading and Overriding in [[Java]]
+## Overloading and Overriding in Java
 #### Overloading:
 Remember that we can only overload a method if its signature changes.
 ```java

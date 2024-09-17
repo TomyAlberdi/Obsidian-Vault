@@ -1,6 +1,13 @@
-Composite is a pattern that falls within the [[Design Patterns#Structural Patterns|structural]] category. It focuses on how objects are composed to form composite structures.
+Created: 2024-09-17 17:28
+## Family Tree:
+1. Computer
+2. Programming Theory
+3. Object-Oriented Programming
+4. [[Design Patterns]]
+-- -
+Composite is a pattern that falls within the structural (Design Patterns > Structural Patterns) category. It focuses on how objects are composed to form composite structures.
 - **Client**: The client interacts with all elements through the component interface. As a result, the client can work with any of the elements in the same manner.
-- **Component [[Development/Backend Development/Java/Interfaces|Interface]]**: The component interface defines the common operations for both simple and complex elements of the tree.
+- **Component Interface (Development/Backend Development/Java/Interfaces)**: The component interface defines the common operations for both simple and complex elements of the tree.
 - **Leaf**: The leaf is a basic element of a tree that has no sub-elements. Typically, leaf components end up doing much of the actual work, as they have no one else to delegate it to.
 - **Composite**: The container (or composite) is the element that contains sub-elements, either leaves or other containers. A container does not know the concrete class of its children; it works with all sub-elements through the component interface.
 ## Example:

@@ -1,4 +1,9 @@
-Many other languages use "parametric data types," sometimes referred to as genericity, where a generic data type is defined for a data structure or class that is specified at the time of use. In [[Java]], this concept is known as Generics.
+Created: 2024-09-17 16:59
+## Family Tree:
+1. Computer
+2. [[Programming Theory]]
+-- -
+Many other languages use "parametric data types," sometimes referred to as genericity, where a generic data type is defined for a data structure or class that is specified at the time of use. In Java, this concept is known as Generics.
 In short, Generics involves deferring the question "What type is this object?" Instead, the "type" of the object is left as a parameter that the programmer will specify when working with that object.
 ## Syntax and usage
 In Java, to define a parametric data type, we use the symbols `<>`. Let’s look at a simple example: a bucket. It can contain many things: dirt, sand, water, fuel, etc. Here's how we can implement this in code:
@@ -30,7 +35,7 @@ To solve this, we can use the `Object` type as the content type. This would allo
 ```java
 private Object content;
 ```
-## Parametric [[Collections]]
+## Parametric Collections
 To begin, remember that in all operations we perform on collections, the type used is `Object`.
 - `add(Object o)`: `void`
 - `get(int i)`: `Object`

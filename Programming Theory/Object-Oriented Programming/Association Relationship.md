@@ -1,3 +1,9 @@
+Created: 2024-09-17 17:08
+## Family Tree:
+1. Computer
+2. Programming Theory
+3. [[Object-Oriented Programming]]
+-- -
 The association relationship is established when an object of one class collaborates with one or more objects of another class. In the following diagram, we will say that the `Person` class knows an instance of the `Pet` class, hence the direction of the arrow is from the `Person` class to the `Pet` class. This relationship represents that `Person` has an attribute of type `Pet`.
 ### Navigation:
 When an association relationship carries an arrow, it indicates a traversal or navigation relationship. This implies that it is possible for an object at one end to access the object at the other end because the former contains specific references to the latter (to which the arrow points), not the other way around. In the following example, we will say that it is the `Person` who has an attribute (object) of the `Job` class. Remember that it always depends on the context. If what we need is to know all the people who work at each job, then the direction of the arrow would be reversed.

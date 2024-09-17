@@ -1,6 +1,11 @@
-[[Information]] security consists of all the actions we take to protect the integrity and privacy of data and all the information stored in a computer system. To protect our [[Computer]], we have two types of security: active and passive.
+Created: 2024-09-17 17:49
+## Family Tree:
+1. Computer
+2. [[Security]]
+-- -
+Information security consists of all the actions we take to protect the integrity and privacy of data and all the information stored in a computer system. To protect our Computer, we have two types of security: active and passive.
 ## Active Security
-The elements called active contain information. These can take many forms: servers, mobile devices, databases, among others. These assets contain information that someone wants to compromise, obtain, destroy, etc. Since their intention is to access the information, they will do so through a [[Bugs and Vulnerabilities#Vulnerabilities|vulnerability]]—a problem that systems containing information have. The threat exploits that vulnerability to improperly access the information and do whatever they want. Active security protects and prevents damage to computer systems.
+The elements called active contain information. These can take many forms: servers, mobile devices, databases, among others. These assets contain information that someone wants to compromise, obtain, destroy, etc. Since their intention is to access the information, they will do so through a vulnerability (Bugs and Vulnerabilities > Vulnerabilities)—a problem that systems containing information have. The threat exploits that vulnerability to improperly access the information and do whatever they want. Active security protects and prevents damage to computer systems.
 #### Best practices:
 - Proper use and management of passwords. One technique for a secure password is the combination of letters, numbers, uppercase letters, and symbols. Do not use pet names or birth dates, among other data that may be publicly known.
 - Use of security software, such as antivirus, antispyware, and firewalls.

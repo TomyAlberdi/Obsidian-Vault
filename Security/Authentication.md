@@ -1,8 +1,13 @@
-In software architecture terms, a [[Middleware]] is a component in our applications that allows us to focus on business logic by resolving some low-level complexities.
+Created: 2024-09-17 17:50
+## Family Tree:
+1. Computer
+2. [[Security]]
+-- -
+In software architecture terms, a Middleware is a component in our applications that allows us to focus on business logic by resolving some low-level complexities.
 ## Middleware in an HTTP Context
 Middleware functions in an HTTP context can serve very broad and varied purposes.
 ![[image 6.png]]
-### Middlewares in [[Go]]:
+### Middlewares in Go:
 #### Example 1
 ```go
 func GetDummyEndpoint(c *gin.Context) {
@@ -44,7 +49,7 @@ func main() {
 }
 ```
 ## API Authentication Middleware
-If we're creating an API with [[Go Web Server#Gin Web Framework|Gin]], we probably want to add some kind of authentication mechanism. The simplest solution is to check if the client sends us a URL parameter, like `api_token`, and then validate it to allow the request to proceed.
+If we're creating an API with Gin (Go Web Server > Gin Web Framework), we probably want to add some kind of authentication mechanism. The simplest solution is to check if the client sends us a URL parameter, like `api_token`, and then validate it to allow the request to proceed.
 ```go
 func TokenAuthMiddleware() gin.HandlerFunc {
    requiredToken := os.Getenv("API_TOKEN")

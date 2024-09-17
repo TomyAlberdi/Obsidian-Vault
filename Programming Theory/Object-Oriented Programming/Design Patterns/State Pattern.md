@@ -1,4 +1,11 @@
-When an object is required to have different behaviors depending on its current state, it can become complex to manage the change in behaviors and states of that object. The **State** [[Design Patterns|pattern]] offers a good solution to this complication by essentially creating an object for each possible state of the invoking object.
+Created: 2024-09-17 17:33
+## Family Tree:
+1. Computer
+2. Programming Theory
+3. Object-Oriented Programming
+4. [[Design Patterns]]
+-- -
+When an object is required to have different behaviors depending on its current state, it can become complex to manage the change in behaviors and states of that object. The **State** pattern (Design Patterns) offers a good solution to this complication by essentially creating an object for each possible state of the invoking object.
 ### Solution:
 A class is implemented for each different state of the object, and each class will implement methods whose behavior varies according to that state. In this way, the object will always have a reference to a specific state and will communicate with it to fulfill its responsibilities.
 ### Advantages and disadvantages

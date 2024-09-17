@@ -1,8 +1,15 @@
-The Factory [[Design Patterns|design pattern]] is one of the main design patterns and one of the most widely used in most programming languages today. It has two variations:
+Created: 2024-09-17 17:30
+## Family Tree:
+1. Computer
+2. Programming Theory
+3. Object-Oriented Programming
+4. [[Design Patterns]]
+-- -
+The Factory design pattern (Design Patterns) is one of the main design patterns and one of the most widely used in most programming languages today. It has two variations:
 - **Factory Method**:
-  This variation defines an [[Development/Backend Development/Java/Interfaces|interface]] for creating an object but allows subclasses to decide which class to instantiate. These construction factories minimize the use of the `new` keyword, encapsulate the initialization process, and manage different concrete implementations. Additionally, this centralization reduces the impact of adding or removing concrete classes in the system and the effects of dependencies on concrete classes.
+  This variation defines an interface (Development/Backend Development/Java/Interfaces) for creating an object but allows subclasses to decide which class to instantiate. These construction factories minimize the use of the `new` keyword, encapsulate the initialization process, and manage different concrete implementations. Additionally, this centralization reduces the impact of adding or removing concrete classes in the system and the effects of dependencies on concrete classes.
 - **Abstract Factory**:
-  This variation provides an interface for creating families of dependent or related objects without specifying their concrete classes. Thus, the [[Abstract Class|Abstract]] Factory encapsulates a group of factories and controls how the client accesses these factories.
+  This variation provides an interface for creating families of dependent or related objects without specifying their concrete classes. Thus, the Abstract (Abstract Class) Factory encapsulates a group of factories and controls how the client accesses these factories.
 ## Factory Method
 #### UML:
 ![](https://t12904266.p.clickup-attachments.com/t12904266/316ee73a-1bd3-4c8d-83d3-433db063b230/image.png)
@@ -18,7 +25,7 @@ The Factory [[Design Patterns|design pattern]] is one of the main design pattern
 - **ConcreteFactory:** Implements the methods declared in `AbstractFactory`, creating an object of type `ConcreteProduct` and returning it as `AbstractProduct`.
 - **ConcreteProduct:** This class specifies the correct instance to create. It implements the methods declared in `AbstractProduct`.
 ## Conclusion
-The purpose of the Factory pattern is to create objects, which is why it is considered a [[Design Patterns#Creation Patterns|creational pattern]]. Essentially, the creation logic is encapsulated within the factory (`FactoryMethod`), and a method is provided that returns an object (the default Factory Method), or the object creation is delegated to a subclass (the default Abstract Factory Method).
+The purpose of the Factory pattern is to create objects, which is why it is considered a creational pattern (Design Patterns > Creation Patterns). Essentially, the creation logic is encapsulated within the factory (`FactoryMethod`), and a method is provided that returns an object (the default Factory Method), or the object creation is delegated to a subclass (the default Abstract Factory Method).
 ## Example
 In this example, we will implement the Factory Method pattern by creating a soda factory that constructs different types of sodas depending on the implementation of its subclasses.
 #### Abstract Product Class:

@@ -1,3 +1,8 @@
+Created: 2024-09-17 17:51
+## Family Tree:
+1. Computer
+2. [[Security]]
+-- -
 Middleware is an entity that intercepts the lifecycle of a server request or response. Simply put, it’s a piece of code that runs before or after the server handles a request with a response.
 In software architecture terms, middleware is a component in our applications that allows us to focus on business logic while handling some low-level complexities.
 ## Example

@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0894c636f3c91e34",
+        "id": "4bb4d8e3daa00753",
         "type": "tabs",
         "children": [
           {
-            "id": "e0fee241fae82299",
+            "id": "ba347e9a795d8ebc",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -67,7 +67,7 @@
       {
         "id": "a4f4ddc477bd78aa",
         "type": "tabs",
-        "dimension": 42.63565891472868,
+        "dimension": 69.0891472868217,
         "children": [
           {
             "id": "35f96cc19b9c9631",
@@ -87,15 +87,7 @@
               "type": "outline",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "c54d7768684af78b",
-        "type": "tabs",
-        "dimension": 57.36434108527132,
-        "children": [
+          },
           {
             "id": "1e583dee467fed9a",
             "type": "leaf",
@@ -111,7 +103,15 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7928c9808aaf4977",
+        "type": "tabs",
+        "dimension": 30.910852713178294,
+        "children": [
           {
             "id": "0fcc6a7f96b99005",
             "type": "leaf",
@@ -119,73 +119,72 @@
               "type": "outgoing-link",
               "state": {
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": true,
+      "templater-obsidian:Templater": true
     }
   },
-  "active": "e0fee241fae82299",
+  "active": "ba347e9a795d8ebc",
   "lastOpenFiles": [
-    "Development/Database Administration/MySQL.md",
-    "Development/Database Administration/SQL/SQL.md",
-    "Development/Backend Development/Go/Go.md",
-    "Programming Theory/Object-Oriented Programming/Design Patterns/Facade Pattern.md",
-    "Programming Theory/Object-Oriented Programming/Design Patterns/Flyweight Pattern.md",
-    "Programming Theory/Object-Oriented Programming/Design Patterns/Proxy Pattern.md",
-    "Untitled.md",
-    "Programming Theory/Object-Oriented Programming/Design Patterns/State Pattern.md",
-    "Programming Theory/Object-Oriented Programming/Design Patterns/Singleton Pattern.md",
-    "Programming Theory/Object-Oriented Programming/Design Patterns/Observer Pattern.md",
-    "Programming Theory/Object-Oriented Programming/Design Patterns/Chain of Responsibility Pattern.md",
-    "image 10.png",
-    "Programming Theory/Object-Oriented Programming/Design Patterns/Template Method Pattern.md",
-    "image 9.png",
-    "Development/Testing/Test-Driven Development.md",
-    "Development/Testing/Implementation Stage.md",
-    "Development/Testing/Java Testing/JUnit.md",
-    "Development/Testing/Testing/Java Testing",
-    "Development/Testing/Testing",
-    "Development/Testing/Java Testing",
-    "Development/Backend Development/Backend Development.md",
-    "Programming Theory/Object-Oriented Programming/Design Patterns/Composite Pattern.md",
-    "Programming Theory/Object-Oriented Programming/Design Patterns/Design Patterns.md",
-    "Development/Infrastructure/Cloud/Cloud Database.md",
+    "Infrastructure Administration/Shell Scripting/Shell Scripting.md",
+    "Security/Authentication.md",
+    "Security/VPN and Tor.md",
+    "Security/Security Measures.md",
+    "Security/Middleware.md",
+    "Security/Information.md",
+    "Security/Cybersecurity.md",
+    "Security/Cyber Threats.md",
+    "Security/attachments/image 6.png",
+    "Security/attachments",
+    "Templates/DefaultTemplate.md",
+    "Security/Active and Passive Security.md",
+    "Security/Security.md",
+    "Testing/Use Cases.md",
+    "Testing/Unit Testing.md",
+    "Testing/Testing Techniques.md",
+    "Testing/Testing.md",
+    "Testing/Test Driven Development.md",
+    "Testing/Test Types.md",
+    "Testing/Test Organization by Workspace.md",
+    "Testing/Test Levels.md",
+    "Testing/Test Cases.md",
+    "Testing/Static Testing.md",
+    "Testing/Software Testing Lifecycle.md",
+    "Testing/Smoke and Regression Testing.md",
+    "Testing/Implementation Stage.md",
+    "Testing/Dynamic Testing.md",
+    "Testing/Defects.md",
+    "Testing/Java Testing",
+    "Programming Theory/Object-Oriented Programming/Design Patterns/attachments/image 9.png",
+    "attachments/image 9.png",
+    "attachments",
+    "Programming Theory/Object-Oriented Programming/Design Patterns/attachments/state_pattern_uml_diagram.jpg",
+    "Programming Theory/Object-Oriented Programming/Design Patterns/attachments/image 10.png",
+    "Programming Theory/Object-Oriented Programming/Design Patterns/attachments",
     "Programming Theory/Object-Oriented Programming/Design Patterns",
-    "Development/Infrastructure/Cloud/Scalability, Fault Tolerance and Availability.md",
-    "Development/Infrastructure/Cloud/Cloud Computation.md",
-    "Development/Infrastructure/Cloud/Providers.md",
-    "Development/Infrastructure/Cloud/Cloud Storage.md",
-    "Development/Infrastructure/Cloud/Hybrid Cloud.md",
-    "Development/Infrastructure/Cloud/Load Balancer.md",
-    "image 8.png",
-    "Computer Systems/Networks/Addresses.md",
-    "Development/Infrastructure/Cloud",
-    "image 7.png",
-    "Infrastructure",
-    "Development/Backend Development/NodeJS",
-    "Development/Frontend Development/JavaScript",
-    "image 6.png",
-    "image 2.png",
-    "Development/Backend Development/Go/Go Web",
     "Programming Theory/Object-Oriented Programming",
-    "grafico-esp-be-3.png",
-    "image 5.png",
-    "image 4.png",
-    "image 3.png",
+    "Infrastructure Administration/Cloud/attachments/image 8.png",
+    "Infrastructure Administration/Cloud/attachments",
+    "Infrastructure Administration/Cloud",
+    "Infrastructure Administration/attachments/image 7.png",
+    "Infrastructure Administration/attachments",
+    "attachments/image 7.png",
+    "Infrastructure Administration/Shell Scripting",
+    "Database Administration/SQL/attachments/Pasted image 20240825162130.png",
+    "Database Administration/SQL/attachments/Pasted image 20240825162048.png",
     "Untitled.canvas"
   ]
 }

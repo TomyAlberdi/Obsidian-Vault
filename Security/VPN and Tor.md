@@ -1,5 +1,10 @@
+Created: 2024-09-17 17:52
+## Family Tree:
+1. Computer
+2. [[Security]]
+-- -
 ## VPN
-A Virtual Private [[Network]] is a technology that protects our privacy when using the Internet by directing our connection through a server that hides the [[Internet Protocol|IP]] address and encrypts online communication. When using a VPN, the information sent from the computer passes through one of the VPN provider's servers before reaching its destination.
+A Virtual Private Network is a technology that protects our privacy when using the Internet by directing our connection through a server that hides the IP (Internet Protocol) address and encrypts online communication. When using a VPN, the information sent from the computer passes through one of the VPN provider's servers before reaching its destination.
 **Advantages:**
 - Easy to install and use.
 - Speed: Not affected by encryption software and servers.

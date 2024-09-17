@@ -1,6 +1,13 @@
+Created: 2024-09-17 17:12
+## Family Tree:
+1. Computer
+2. Programming Theory
+3. Object-Oriented Programming
+4. [[Design Patterns]]
+-- -
 Let's see how we can solve problems when we are not sure which object should handle a specific request.
 ## Purpose
-It is a [[Design Patterns#Behavioral Patterns|behavioral]] design pattern that allows requests to be passed along a chain of handlers (drivers). Upon receiving a request, each handler decides whether to process it or pass it to the next driver in the chain.
+It is a behavioral (Design Patterns > Behavioral Patterns) design pattern that allows requests to be passed along a chain of handlers (drivers). Upon receiving a request, each handler decides whether to process it or pass it to the next driver in the chain.
 ## Solution
 Create a chain with driver classes to process the client's request. Each one has a field to store a reference to the next driver in the chain. The request travels through the chain until all the drivers have had the opportunity to process it (the drivers can decide not to pass the request and stop the procedure).
 ![[image 10.png]]
@@ -10,7 +17,7 @@ Create a chain with driver classes to process the client's request. Each one has
 ## Disadvantages
 - Implementing the chain can be complex, and if not well configured, some requests may not be handled properly.
 ## Implementation
-We will create an [[abstract class]] responsible for storing a reference to the next driver in the chain and a method to send the client's request to it. Concrete drivers can use this behavior by invoking the parent method.  
+We will create an abstract class responsible for storing a reference to the next driver in the chain and a method to send the client's request to it. Concrete drivers can use this behavior by invoking the parent method.  
 One by one, we create concrete driver subclasses and implement the methods. Each driver must make two decisions when receiving a request:
 1. Whether to process the request.
 2. Whether to pass the request to the next driver in the chain.

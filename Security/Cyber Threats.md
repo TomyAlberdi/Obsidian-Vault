@@ -1,5 +1,10 @@
+Created: 2024-09-17 17:50
+## Family Tree:
+1. Computer
+2. [[Security]]
+-- -
 ## Types of Cyber Threats
-Malware means Malicious Software and is used to describe any software that aims to infiltrate or damage an information system without the user's consent, bypassing [[Cybersecurity]]. For malware to achieve its goal, it is essential that it remains hidden from the user, as the user will try to eliminate it if detected. This term is very broad and includes concepts such as viruses, trojans, worms, etc.
+Malware means Malicious Software and is used to describe any software that aims to infiltrate or damage an information system without the user's consent, bypassing Cybersecurity. For malware to achieve its goal, it is essential that it remains hidden from the user, as the user will try to eliminate it if detected. This term is very broad and includes concepts such as viruses, trojans, worms, etc.
 #### Virus:
 This type of malware aims to remain in a system by copying itself in various places from the moment it is executed in the system. Thus, when an infected file or program is attempted to be removed, the virus will remain in memory as it has infected other parts of the system. The goal of a virus can vary, but essentially it will try to destroy or disable files or programs on the device, as well as affect its operation. Most viruses attach to executable files or the master boot record and cannot spread to other devices unless done manually through hardware. Therefore, they are said to have low infection rates, as they replicate within a single device.
 #### Worms:

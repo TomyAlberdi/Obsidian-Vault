@@ -1,4 +1,11 @@
-A certain object may have other objects that depend on it. These other objects might need to be updated when the state of the object they depend on changes. Implementing this logic can present many challenges. The observer [[Design Patterns|pattern]] offers a solution by creating an interface that notifies and automatically updates all dependent objects whenever the state of the observed object changes.
+Created: 2024-09-17 17:32
+## Family Tree:
+1. Computer
+2. Programming Theory
+3. Object-Oriented Programming
+4. [[Design Patterns]]
+-- -
+A certain object may have other objects that depend on it. These other objects might need to be updated when the state of the object they depend on changes. Implementing this logic can present many challenges. The observer pattern (Design Patterns) offers a solution by creating an interface that notifies and automatically updates all dependent objects whenever the state of the observed object changes.
 There is an interface for the `ObservableSubject` (Observable) and one for the `Observers` (Observer). The concrete class that will be observed implements the `Observable` interface, while the concrete observers implement the `Observer` interface. These two interfaces have a method that must be declared by the concrete classes, and through these methods, the observers are updated whenever there is a state change in the `ObservableSubject`. This ensures that state updates are always received, regardless of the type of object, whether it be the observers or the observable subject.
 #### Advantages:
 - It allows subjects and observers to be modified independently. Objects can be reused without reusing their observers or vice versa. This adds scalability by allowing observers to be added without modifying the subject or other observers.

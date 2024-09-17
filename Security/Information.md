@@ -1,13 +1,18 @@
+Created: 2024-09-17 17:51
+## Family Tree:
+1. Computer
+2. [[Security]]
+-- -
 Information is a key resource for making decisions, assessing, and reducing risks. It has three dimensions known as integrity, availability, and confidentiality, also called CIA for their initials in English. Attackers of a system will try to compromise one of these dimensions.
 #### Integrity:
-Ensures that the information is complete and that the data within the system is as it should be. An example of this dimension would be an attack on a [[Database]] and the modification of the data within it, where we can still see the information, but it is incorrect.
+Ensures that the information is complete and that the data within the system is as it should be. An example of this dimension would be an attack on a Database and the modification of the data within it, where we can still see the information, but it is incorrect.
 #### Availability:
 Means that a person/user must be able to access the information when they need it, that is, in a timely manner. A typical attack on this dimension is a denial-of-service attack.
 #### Confidentiality:
 Refers to the information being available only to those who have access to it and blocked for third parties. For example, personal data and medical records.
 
 ## Information Protection
-Information protection is based on ensuring the complete and total functioning of the three dimensions. To do this, preventive and reactive measures must be implemented. In computer systems, this is done through [[Cybersecurity]].
+Information protection is based on ensuring the complete and total functioning of the three dimensions. To do this, preventive and reactive measures must be implemented. In computer systems, this is done through Cybersecurity.
 - **Preventive measure**: One that can be taken to avoid unwanted problems.
 - **Reactive measure**: One where a security problem has already occurred and needs to be resolved.
 #### Integrity Protection:

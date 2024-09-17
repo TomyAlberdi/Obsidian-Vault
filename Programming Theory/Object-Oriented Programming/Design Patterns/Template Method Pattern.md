@@ -1,6 +1,13 @@
+Created: 2024-09-17 17:34
+## Family Tree:
+1. Computer
+2. Programming Theory
+3. Object-Oriented Programming
+4. [[Design Patterns]]
+-- -
 Let's imagine that in our system several classes do the same thing but have some different details. Could it be that we have repeated code among these classes?
 ## Purpose
-It is a [[Design Patterns#Behavioral Patterns|behavioral]] design pattern that defines the skeleton of an [[algorithm]] in the superclass but allows subclasses to override certain steps of the algorithm without changing its structure.
+It is a behavioral (Design Patterns > Behavioral Patterns) design pattern that defines the skeleton of an algorithm in the superclass but allows subclasses to override certain steps of the algorithm without changing its structure.
 ## Solution
 The skeleton method consists of the code that these classes have in common, allowing some parts to be modified by the subclass that implements it, thus placing the repeated code in one place.
 ![[image 9.png]]
@@ -12,7 +19,7 @@ The skeleton method consists of the code that these classes have in common, allo
 - Some clients may be limited by the skeleton provided by the algorithm.
 ## Implementation
 1. We consider which steps are common to all subclasses where we see repeated code and which will always be unique to each one.  
-2. We create an [[abstract class]] and declare the skeleton method and a set of abstract methods that represent the steps of the algorithm to be implemented by the subclasses.  
+2. We create an abstract class and declare the skeleton method and a set of abstract methods that represent the steps of the algorithm to be implemented by the subclasses.  
 3. For each variation of the method, we create a new concrete subclass. This subclass must implement all the defined abstract steps.
 ## Example
 Let's look at an example of the template method pattern using an analogy from real life. Think of a pizzeria and the process of preparing different types of pizzas. Let's try to identify the steps a cook must take to prepare and deliver a pizza. They could be:

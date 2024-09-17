@@ -1,4 +1,11 @@
-A certain object might have behavior that is initially simple and consistent, but at times, this behavior can become more complex and may need to change based on specific requirements. The Strategy [[Design Patterns|pattern]] allows algorithms to vary independently of the client using them. It offers a straightforward solution based on an object that can change, with its behavior adapting to different circumstances.
+Created: 2024-09-17 17:34
+## Family Tree:
+1. Computer
+2. Programming Theory
+3. Object-Oriented Programming
+4. [[Design Patterns]]
+-- -
+A certain object might have behavior that is initially simple and consistent, but at times, this behavior can become more complex and may need to change based on specific requirements. The Strategy pattern (Design Patterns) allows algorithms to vary independently of the client using them. It offers a straightforward solution based on an object that can change, with its behavior adapting to different circumstances.
 ### Solution:
 The pattern introduces a `Strategy` interface, which defines the method signatures that will change. Different classes implement this `Strategy` interface, known as `ConcreteStrategy`, and each of these classes contains a distinct algorithm to perform the task.
 In some cases, you might want the `Strategy` to also have some attributes that are common to each `ConcreteStrategy`. In such cases, the `Strategy` can be an abstract class, with the `ConcreteStrategies` inheriting from it.

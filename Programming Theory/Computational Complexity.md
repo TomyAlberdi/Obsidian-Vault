@@ -1,8 +1,13 @@
-To determine the efficiency of an [[Algorithm]], we must calculate its complexity, especially when working with large amounts of data. This translates to a question: How long does it take to execute? However, this question does not refer to a unit of time, but to the number of instructions the algorithm requires to execute correctly. The instructions considered for this are: Comparisons, Assignments, Subscript access, Arithmetic operations.
+Created: 2024-09-17 16:56
+## Family Tree:
+1. Computer
+2. [[Programming Theory]]
+-- -
+To determine the efficiency of an Algorithm, we must calculate its complexity, especially when working with large amounts of data. This translates to a question: How long does it take to execute? However, this question does not refer to a unit of time, but to the number of instructions the algorithm requires to execute correctly. The instructions considered for this are: Comparisons, Assignments, Subscript access, Arithmetic operations.
 ## Complexity variable
 We will calculate the complexity in the case of having a lot of data, which means we will have an array or some structure with this data. The "variable" on which we will calculate the complexity is the amount of data, that is, the number of elements in the array. An algorithm works the same way for 4, 5, or n elements, with n being the number of elements it has at the time of execution.
 ### Example:
-Example written in [[JavaScript]]
+Example written in JavaScript
 ```js
 let values = [4,6,9,10,8]
 let sum = 0

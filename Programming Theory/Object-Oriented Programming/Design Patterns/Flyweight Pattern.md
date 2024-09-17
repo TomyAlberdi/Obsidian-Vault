@@ -1,4 +1,11 @@
-Let's imagine we have a system, a class with a few attributes, and we need to instantiate it a large number of times. The Flyweight [[Design Patterns|pattern]] allows us to have fewer instances and gives us the possibility to decorate them.
+Created: 2024-09-17 17:30
+## Family Tree:
+1. Computer
+2. Programming Theory
+3. Object-Oriented Programming
+4. [[Design Patterns]]
+-- -
+Let's imagine we have a system, a class with a few attributes, and we need to instantiate it a large number of times. The Flyweight pattern (Design Patterns) allows us to have fewer instances and gives us the possibility to decorate them.
 ## Purpose
 The pattern achieves this by sharing parts of an object's state among several objects. In other words, it abstracts the reusable parts, and instead of creating new objects every time they are required, we can reuse objects created by other instances. This helps reduce the memory capacity required by the application.
 ## Solution
