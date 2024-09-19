@@ -11,8 +11,12 @@
             "id": "08660ab23597a86a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pending ClickUp.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -85,7 +89,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pending ClickUp.md"
+              }
             }
           },
           {
@@ -94,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pending ClickUp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pending ClickUp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +142,7 @@
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": true,
-      "templater-obsidian:Templater": true
+      "templater-obsidian:Templater": false
     }
   },
   "active": "08660ab23597a86a",
