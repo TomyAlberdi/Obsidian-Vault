@@ -3,25 +3,78 @@
   "colorBackground": false,
   "palette": [
     {
-      "id": "J7sGQ-j1vuNAdYdWUZsK4",
-      "name": "Computer Systems red",
-      "value": "#d73030"
+      "id": "VRtfK0feFv97PvpLAEKwI",
+      "name": "Computer System Red",
+      "value": "#b75252"
     },
     {
-      "id": "6SZLKj9s8tWJCKMQdVjEI",
-      "name": "Development Blue",
-      "value": "#5d55ce"
+      "id": "jj1jVT9rzgEYGdOmmkViu",
+      "name": "Security Orange",
+      "value": "#d6ad5c"
     },
     {
-      "id": "9ncAkG7APLSqj8pc3D5v0",
-      "name": "Security Yellow",
-      "value": "#cbd534"
-    },
-    {
-      "id": "VtxcJWi_t7sRpjSGOZgkX",
+      "id": "PUgX6UEEdfHqYx-RDfryY",
       "name": "Programming Theory Green",
-      "value": "#359d20"
+      "value": "#add65c"
+    },
+    {
+      "id": "9UhP-gs4FE8chk2vjlxW7",
+      "name": "Frontend Development Green",
+      "value": "#5cd65c"
+    },
+    {
+      "id": "h4h6peMv5lzPiugo9YgJk",
+      "name": "Database Administration Green",
+      "value": "#5cd6ad"
+    },
+    {
+      "id": "LftauC_DtJhOA55BYIPt5",
+      "name": "Testing Blue",
+      "value": "#5cadd6"
+    },
+    {
+      "id": "aUAOp9JVKunQCXoVX8_NF",
+      "name": "Backend Development Purple",
+      "value": "#5c5cd6"
+    },
+    {
+      "id": "WAUnnL8ED_K3dPC3ARdSe",
+      "name": "Infrastructure Administration Pink",
+      "value": "#ad5cd6"
     }
   ],
-  "fileColors": []
+  "fileColors": [
+    {
+      "path": "Computer System",
+      "color": "VRtfK0feFv97PvpLAEKwI"
+    },
+    {
+      "path": "Backend Development",
+      "color": "aUAOp9JVKunQCXoVX8_NF"
+    },
+    {
+      "path": "Database Administration",
+      "color": "h4h6peMv5lzPiugo9YgJk"
+    },
+    {
+      "path": "Infrastructure Administration",
+      "color": "WAUnnL8ED_K3dPC3ARdSe"
+    },
+    {
+      "path": "Frontend Development",
+      "color": "9UhP-gs4FE8chk2vjlxW7"
+    },
+    {
+      "path": "Programming Theory",
+      "color": "PUgX6UEEdfHqYx-RDfryY"
+    },
+    {
+      "path": "Security",
+      "color": "jj1jVT9rzgEYGdOmmkViu"
+    },
+    {
+      "path": "Testing",
+      "color": "LftauC_DtJhOA55BYIPt5"
+    }
+  ]
 }
