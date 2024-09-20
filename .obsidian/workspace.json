@@ -8,6 +8,26 @@
         "type": "tabs",
         "children": [
           {
+            "id": "069a6a05191f89fb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "131152467660a861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend Development/JavaScript/Arrays and Strings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "08660ab23597a86a",
             "type": "leaf",
             "state": {
@@ -19,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pending ClickUp.md"
+                "file": "Frontend Development/JavaScript/Arrays and Strings.md"
               }
             }
           },
@@ -100,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pending ClickUp.md",
+                "file": "Frontend Development/JavaScript/Arrays and Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pending ClickUp.md",
+                "file": "Frontend Development/JavaScript/Arrays and Strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +166,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "08660ab23597a86a",
+  "active": "131152467660a861",
   "lastOpenFiles": [
+    "Frontend Development/JavaScript/Basic Syntax.md",
+    "Frontend Development/JavaScript/Arrays and Strings.md",
+    "Templates/DefaultTemplate.md",
+    "Frontend Development/JavaScript/JavaScript.md",
+    "Frontend Development/JavaScript/Sorting Methods.md",
+    "Frontend Development/JavaScript/Matrix.md",
+    "Programming Theory/Programming Paradigms.md",
+    "Programming Theory/Computational Thinking.md",
     "Pending ClickUp.md",
+    "Testing/Unit Testing.md",
+    "Security/Active and Passive Security.md",
     "Database Administration/Data Analytics/Data Exploration.md",
     "Database Administration/Data Analytics/Data Modeling.md",
     "Database Administration/Data Analytics/attachments/image 3.png",
@@ -165,24 +196,14 @@
     "Database Administration/Data Analytics/ETL.md",
     "Database Administration/Data Analytics/attachments/image.png",
     "Database Administration/Data Analytics/attachments",
-    "Templates/DefaultTemplate.md",
     "Database Administration/Data Analytics",
     "Backend Development/NodeJS/NodeJS.md",
     "Backend Development/NodeJS",
     "Backend Development/Java/Exceptions/Exceptions.md",
     "Backend Development/Java/Exceptions/Exception class.md",
-    "Backend Development/Java/Exceptions/Custom Exceptions.md",
-    "Backend Development/Java/Collections/Collections.md",
-    "Backend Development/Java/Collections/Operating Collections.md",
-    "Backend Development/Java/Collections/Browsing Collections.md",
-    "Backend Development/Java/Object Class.md",
-    "Backend Development/Java/Java.md",
-    "Backend Development/Java/Interfaces.md",
     "Backend Development/Java/Exceptions",
-    "Backend Development/Java/Equality and Ordering.md",
     "Backend Development/Java/Collections",
     "Backend Development/Java",
-    "Testing/Use Cases.md",
     "Testing",
     "Templates",
     "Security/attachments/image 6.png",
