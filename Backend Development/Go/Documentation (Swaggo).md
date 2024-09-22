@@ -116,3 +116,12 @@ Once your server is running, you can view the Swagger documentation by navigatin
 | `@Success 201 {string} string "ok"` | Indicates the status code (201) and the message ("ok"). |
 | `@Router /book [post]`              | Defines the endpoint's route.                           |
 These annotations provide structured details for developers using your API and ensure consistency across documentation.
+## Cheat Sheet
+
+| Command                                                                  | Usage                          |
+| ------------------------------------------------------------------------ | ------------------------------ |
+| `go get -u github.com/swaggo/swag/cmd/swag`                              | Install Swaggo by CLI Method 1 |
+| `go install github.com/swaggo/swag/cmd/swag@latest`                      | Install Swaggo by CLI Method 2 |
+| `go get -u github.com/swaggo/gin-swagger`                                | Install Swaggo for Gin         |
+| `docs.SwaggerInfo.Host = "localhost:8080`                                | Set Swaggo URL in main.go      |
+| `engine.GET("/docs/*any", ginSwagger.WrapHandler(swaggerFiles.Handler))` | idem up                        |

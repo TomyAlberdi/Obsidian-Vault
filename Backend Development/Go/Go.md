@@ -14,7 +14,8 @@ Since it’s a new language, it was natively designed to provide simple solution
 As a result, it's no surprise that — up to now — Go has been primarily used in businesses and server environments, where the stability and performance of services play a particularly important role. It is especially in container-based virtualization where there is a significant demand for this young programming language. So, it should come as no surprise that Docker, the most prominent representative in container platforms, is based on Go.
 ## Go code organization
 ### Packages:
-Let’s remember: every Go file belongs to a package. So, to declare one of these files, we use the following syntax:
+Go applications are organized in packages. A package is a collection of source files located in the same directory. All source files in a directory must share the same package name. When a package is imported, only entities (functions, types, variables, constants) whose names start with a capital letter can be used / accessed. The recommended style of naming in Go is that identifiers will be named using `camelCase`, except for those meant to be accessible across packages which should be `PascalCase`.
+So, to declare one of these files, we use the following syntax:
 ```go
 package packagename
 ```

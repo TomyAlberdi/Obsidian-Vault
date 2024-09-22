@@ -14,33 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "131152467660a861",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend Development/JavaScript/Arrays and Strings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08660ab23597a86a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pending ClickUp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +67,6 @@
       {
         "id": "a4f4ddc477bd78aa",
         "type": "tabs",
-        "dimension": 69.0891472868217,
         "children": [
           {
             "id": "35f96cc19b9c9631",
@@ -110,9 +84,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Frontend Development/JavaScript/Arrays and Strings.md"
-              }
+              "state": {}
             }
           },
           {
@@ -121,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend Development/JavaScript/Arrays and Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,28 +102,20 @@
                 "unlinkedCollapsed": true
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "7928c9808aaf4977",
-        "type": "tabs",
-        "dimension": 30.910852713178294,
-        "children": [
+          },
           {
             "id": "0fcc6a7f96b99005",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend Development/JavaScript/Arrays and Strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,17 +129,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "131152467660a861",
+  "active": "069a6a05191f89fb",
   "lastOpenFiles": [
-    "Frontend Development/JavaScript/Basic Syntax.md",
-    "Frontend Development/JavaScript/Arrays and Strings.md",
+    "Pending ClickUp.md",
+    "Frontend Development/React/Hooks/Forms.md",
+    "Frontend Development/React/User Events.md",
+    "Frontend Development/React/Hooks/UseState.md",
     "Templates/DefaultTemplate.md",
+    "Frontend Development/React/Hooks/Hooks.md",
+    "Frontend Development/React/Hooks",
+    "Frontend Development/React/Components.md",
+    "Frontend Development/React/Props.md",
+    "Frontend Development/React/attachments/Pasted image 20240922170534.png",
+    "Frontend Development/React/attachments/Pasted image 20240922170542.png",
+    "Frontend Development/React/React.md",
+    "Frontend Development/React/attachments/image.png",
+    "Frontend Development/React/attachments",
+    "Infrastructure Administration/Cloud/AWS/AWS.md",
+    "Infrastructure Administration/Cloud/AWS",
+    "Frontend Development/React",
+    "Backend Development/Go/Documentation (Swaggo).md",
+    "Backend Development/Go/Go.md",
+    "Infrastructure Administration/GitHub.md",
+    "Backend Development/Go/Syntax.md",
+    "Frontend Development/JavaScript/Arrays and Strings.md",
+    "Frontend Development/JavaScript/Basic Syntax.md",
     "Frontend Development/JavaScript/JavaScript.md",
     "Frontend Development/JavaScript/Sorting Methods.md",
     "Frontend Development/JavaScript/Matrix.md",
     "Programming Theory/Programming Paradigms.md",
     "Programming Theory/Computational Thinking.md",
-    "Pending ClickUp.md",
     "Testing/Unit Testing.md",
     "Security/Active and Passive Security.md",
     "Database Administration/Data Analytics/Data Exploration.md",
@@ -185,35 +167,16 @@
     "Database Administration/Data Analytics/attachments/image 2.png",
     "Database Administration/Data Analytics/attachments/image 1.png",
     "Database Administration/Data Analytics/Data Manipulation.md",
-    "Database Administration/Data Analytics/Data Classifications.md",
-    "Database Administration/Data Analytics/Dimensions.md",
-    "Database Administration/Data Analytics/OKR.md",
-    "Database Administration/Data Analytics/KPI.md",
-    "Database Administration/Data Analytics/Power BI.md",
-    "Database Administration/Data Analytics/Data Analytics.md",
-    "Database Administration/Data Analytics/Data Lake.md",
-    "Database Administration/Data Analytics/Data Warehouse.md",
-    "Database Administration/Data Analytics/ETL.md",
     "Database Administration/Data Analytics/attachments/image.png",
     "Database Administration/Data Analytics/attachments",
     "Database Administration/Data Analytics",
-    "Backend Development/NodeJS/NodeJS.md",
     "Backend Development/NodeJS",
-    "Backend Development/Java/Exceptions/Exceptions.md",
-    "Backend Development/Java/Exceptions/Exception class.md",
     "Backend Development/Java/Exceptions",
     "Backend Development/Java/Collections",
     "Backend Development/Java",
-    "Testing",
-    "Templates",
     "Security/attachments/image 6.png",
-    "Security/attachments",
     "Programming Theory/Object-Oriented Programming/Design Patterns/attachments/image 9.png",
     "Programming Theory/Object-Oriented Programming/Design Patterns/attachments/state_pattern_uml_diagram.jpg",
-    "Programming Theory/Object-Oriented Programming/Design Patterns/attachments/image 10.png",
-    "Programming Theory/Object-Oriented Programming/Design Patterns/attachments",
-    "Infrastructure Administration/Cloud/attachments/image 8.png",
-    "Infrastructure Administration/attachments/image 7.png",
     "Untitled.canvas"
   ]
 }
