@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "b9eb3912ef210436",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend Development/Go/Go Web/Go Web.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "a9d6a7ecbcee5d95",
@@ -84,7 +98,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Backend Development/Go/Go Web/Go Web.md"
+              }
             }
           },
           {
@@ -93,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Backend Development/Go/Go Web/Go Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Backend Development/Go/Go Web/Go Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,8 +147,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "069a6a05191f89fb",
+  "active": "b9eb3912ef210436",
   "lastOpenFiles": [
+    "Backend Development/Go/Go Web/Repository.md",
     "Pending ClickUp.md",
     "Frontend Development/React/Hooks/Forms.md",
     "Frontend Development/React/User Events.md",
@@ -166,7 +185,6 @@
     "Database Administration/Data Analytics/attachments/image 3.png",
     "Database Administration/Data Analytics/attachments/image 2.png",
     "Database Administration/Data Analytics/attachments/image 1.png",
-    "Database Administration/Data Analytics/Data Manipulation.md",
     "Database Administration/Data Analytics/attachments/image.png",
     "Database Administration/Data Analytics/attachments",
     "Database Administration/Data Analytics",
