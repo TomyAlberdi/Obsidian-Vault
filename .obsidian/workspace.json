@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Development/Go/Godotenv package.md",
+                "file": "Frontend Development/React/Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend Development/Go/Godotenv package.md"
+                "file": "Frontend Development/React/Components.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend Development/Go/Godotenv package.md",
+                "file": "Frontend Development/React/Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend Development/Go/Godotenv package.md",
+                "file": "Frontend Development/React/Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,10 +148,10 @@
   },
   "active": "b9eb3912ef210436",
   "lastOpenFiles": [
-    "Backend Development/Go/Godotenv package.md",
-    "Backend Development/Go/Go Web/Go Web.md",
-    "Backend Development/Go/Go Web/Repository.md",
     "Pending ClickUp.md",
+    "Backend Development/Go/Go Web/Go Web.md",
+    "Backend Development/Go/Godotenv package.md",
+    "Backend Development/Go/Go Web/Repository.md",
     "Frontend Development/React/Hooks/Forms.md",
     "Frontend Development/React/User Events.md",
     "Frontend Development/React/Hooks/UseState.md",
