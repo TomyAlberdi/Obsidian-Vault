@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Development/Go/Go Web/Go Web.md",
+                "file": "Backend Development/Go/Godotenv package.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "a9d6a7ecbcee5d95",
@@ -99,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend Development/Go/Go Web/Go Web.md"
+                "file": "Backend Development/Go/Godotenv package.md"
               }
             }
           },
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend Development/Go/Go Web/Go Web.md",
+                "file": "Backend Development/Go/Godotenv package.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend Development/Go/Go Web/Go Web.md",
+                "file": "Backend Development/Go/Godotenv package.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,6 +148,8 @@
   },
   "active": "b9eb3912ef210436",
   "lastOpenFiles": [
+    "Backend Development/Go/Godotenv package.md",
+    "Backend Development/Go/Go Web/Go Web.md",
     "Backend Development/Go/Go Web/Repository.md",
     "Pending ClickUp.md",
     "Frontend Development/React/Hooks/Forms.md",
@@ -180,8 +181,6 @@
     "Programming Theory/Computational Thinking.md",
     "Testing/Unit Testing.md",
     "Security/Active and Passive Security.md",
-    "Database Administration/Data Analytics/Data Exploration.md",
-    "Database Administration/Data Analytics/Data Modeling.md",
     "Database Administration/Data Analytics/attachments/image 3.png",
     "Database Administration/Data Analytics/attachments/image 2.png",
     "Database Administration/Data Analytics/attachments/image 1.png",
