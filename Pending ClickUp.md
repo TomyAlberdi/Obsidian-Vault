@@ -4,7 +4,7 @@
 	- [x] Module 1
 	- [x] Module 2
 	- [x] Module 3
-	- [ ] Module 4
+	- [x] Module 4
 	- [ ] Module 5
 	- [ ] Module 6
 - [ ] Año 2 Bimestre 1 Especialización 1 Microservicios

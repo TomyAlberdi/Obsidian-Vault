@@ -95,3 +95,32 @@ const Header = () => {
 }
 ```
 ## Component Lifecycle
+In React, each component can go through three main phases: **mounting**, **updating**, and **unmounting**.
+React components are created when mounted into the DOM, change and grow through updates, and eventually may be removed or unmounted from the DOM. A React component may or may not go through all phases. Sometimes they never get updated. Other times, they are never unmounted. A component may even go through consecutive mounting and unmounting phases without ever being updated.
+The following image shows a summary of the lifecycle flow for a class component in React:
+![[2.4. Esquema de Ciclo de VIda Resumido.png]]
+### Methods:
+#### Constructor:
+The constructor is called before the component is mounted. While it’s not mandatory, it’s used to initialize the state and bind event handlers to an instance. When using the constructor in a class that extends `React.Component`, `super(props)` must be called to ensure `this.props` is defined in the constructor.
+#### Render:
+`render()` is the only required method in a class component. It is a pure function; it does not modify the state or interact with the browser. It will simply render what it receives. When called, it examines `this.props` and `this.state` and immediately returns one of the following options:
+- React elements created with JSX.
+- Arrays.
+- Fragments.
+- Portals (we'll cover this later).
+- Strings, numbers, booleans, or `null`.
+#### `componentDidMount()`:
+This method is called only once when the component is mounted to the DOM (i.e., when it appears in the HTML). It will not run again unless the component is unmounted and then re-mounted into the DOM. It’s used for tasks like subscriptions (which we’ll cover later in the course). It's also possible to call `setState` before the screen is updated.
+#### `componentDidUpdate()`:
+This is invoked after every update of the state or props that occurs after the initial render. It allows you to compare previous and current values and make decisions based on conditions.
+#### `componentWillUnmount()`:
+This is the only method called when a component is about to unmount. While React unmounts the component on its own, it may not know the specifics of the component, so it doesn't know exactly how to clean up the removed component. This is the utility of `componentWillUnmount()`. Cleanup is important when the component has made asynchronous calls. The basic issue is if the component made an API call asynchronously and was unmounted before receiving the response. While nothing critical will happen, a warning will be logged, and the state won’t be set. It’s useful to track this warning to troubleshoot errors. Asynchronous actions should be cancellable. We will see an example of this later in the course.
+### Full Lifecycle:
+![[2.8. Esquema CIclo de Vida completo.png]]
+#### Methods:
+##### `getDerivedStateFromProps(props, state)`:
+This method is invoked just before `render()`. It returns an object if the state needs to be updated, or `null` otherwise. It is used in rare cases where a component is allowed to update its internal state as a result of changes in props. It’s a static method because it's expected to behave like a pure function and not cause side effects.
+##### `shouldComponentUpdate(nextProps, nextState)`:
+This compares new state or props with previous ones. It can return `false` if the component does not need to be re-rendered. This method is used to make components more efficient.
+##### `getSnapshotBeforeUpdate(prevProps, prevState)`:
+This method allows you to perform operations on the DOM elements before the component is actually committed to the DOM. For example, capturing the exact scroll position at a given moment. The difference between this method and `render()` is that `getSnapshotBeforeUpdate()` is not asynchronous. With `render()`, the DOM structure may change between the time it's called and when the DOM changes are made. Any value returned by this lifecycle method will be passed as a parameter to `componentDidUpdate()`
