@@ -1,7 +1,7 @@
 Created: 2024-09-17 17:44
 ## Family Tree:
 1. Computer
-2. [[Testing]]
+2. [[Testing/Testing]]
 -- -
 ### Error, Defect and Failure:
 - **Error**: Occurs due to a mistake made by a person.

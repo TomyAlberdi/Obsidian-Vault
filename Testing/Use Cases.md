@@ -1,7 +1,7 @@
 Created: 2024-09-17 17:48
 ## Family Tree:
 1. Computer
-2. [[Testing]]
+2. [[Testing/Testing]]
 -- -
 Before designing Test Cases, it's important to analyze the documents that will serve as the basis for generating those test cases. These documents will ensure the client's requirements are met. Typically, these requirements are written as **use cases**. A tester (Testing) must understand what a use case is and how to design test cases from them.
 ### Differences:

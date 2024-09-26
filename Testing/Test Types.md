@@ -1,7 +1,7 @@
 Created: 2024-09-17 17:47
 ## Family Tree:
 1. Computer
-2. [[Testing]]
+2. [[Testing/Testing]]
 -- -
 A **test type** is a group of Testing activities aimed at testing specific characteristics of a Software system, or part of a system, based on specific test objectives.
 

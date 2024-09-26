@@ -1,7 +1,7 @@
 Created: 2024-09-17 17:45
 ## Family Tree:
 1. Computer
-2. [[Testing]]
+2. [[Testing/Testing]]
 -- -
 There is no single, universal Testing process, but there are common testing activities that help us organize ourselves to achieve established goals.
 ## Testing Process in context

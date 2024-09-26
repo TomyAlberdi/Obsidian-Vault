@@ -1,7 +1,7 @@
 Created: 2024-09-17 17:47
 ## Family Tree:
 1. Computer
-2. [[Testing]]
+2. [[Testing/Testing]]
 -- -
 When developing software, we’ll realize that finishing the project doesn’t mean the work is done. Eventually, the project will be released, and the client will start using it. Everything should work well, but what happens if an unexpected change needs to be made, or if an error is discovered that requires fixing? We can’t make changes directly in the environment where the client is using the software, as we risk breaking it and rendering it inoperative.
 This is why different **working environments** must exist, where changes can be developed and tested (Testing) before reaching the client’s environment.

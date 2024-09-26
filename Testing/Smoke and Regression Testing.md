@@ -1,7 +1,7 @@
 Created: 2024-09-17 17:45
 ## Family Tree:
 1. Computer
-2. [[Testing]]
+2. [[Testing/Testing]]
 -- -
 **Smoke testing** and **regression testing** are two of the most important types of tests (Testing) conducted throughout the development of a system. Both are essential for maintaining the health of the product under development and are crucial to the final quality of the product.
 - **Smoke testing** is executed to evaluate the stability of initial or newly developed software builds.

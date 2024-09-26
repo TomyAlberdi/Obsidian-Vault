@@ -1,7 +1,7 @@
 Created: 2024-09-17 17:48
 ## Family Tree:
 1. Computer
-2. [[Testing]]
+2. [[Testing/Testing]]
 -- -
 Since writing, designing, and implementing test cases play a central role in a quality assurance process, we are discovering everything related to these concepts together. Understanding and applying the most widely used Testing techniques in the market gives us a significant advantage as testers when analyzing and covering the functionality of a system under test.
 Knowing these testing techniques will also be an advantage in our role as testers, as it will help us certify quality in a software project. Another benefit is the organization it brings when writing test cases from scratch, based on a use case, or from a user story.

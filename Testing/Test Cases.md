@@ -1,7 +1,7 @@
 Created: 2024-09-17 17:46
 ## Family Tree:
 1. Computer
-2. [[Testing]]
+2. [[Testing/Testing]]
 -- -
 A test case is a written document that provides information about what and how to test (Testing).
 ## Characteristics:

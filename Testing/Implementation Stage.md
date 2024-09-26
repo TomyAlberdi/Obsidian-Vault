@@ -1,7 +1,7 @@
 Created: 2024-09-17 17:44
 ## Family Tree:
 1. Computer
-2. [[Testing]]
+2. [[Testing/Testing]]
 -- -
 In the **test implementation (Software Testing Lifecycle > Implementation) stage**, the key question to answer is: _Is everything ready to conduct the test?_ This stage involves several key activities, including creating and/or completing the necessary work products for test execution, preparing the test environment (including data or configurations), and organizing test suites within an execution schedule, among others.
 Once the implementation of changes or new functionalities requested by the client is complete, and the corresponding test cases have been designed, the next step is the **test execution stage** within the software development life cycle (SDLC). The tasks involved in execution are carried out iteratively until the system is as stable as possible.

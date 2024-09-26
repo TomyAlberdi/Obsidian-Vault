@@ -1,7 +1,7 @@
 Created: 2024-09-17 17:48
 ## Family Tree:
 1. Computer
-2. [[Testing]]
+2. [[Testing/Testing]]
 -- -
 **TDD (Test-Driven Development)** means using tests to guide the way we write code. The typical workflow of TDD is often described as **Red, Green, Refactor**.
 ## Red

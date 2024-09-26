@@ -1,7 +1,7 @@
 Created: 2024-09-17 17:38
 ## Family Tree:
 1. Computer
-2. [[Testing]]
+2. [[Testing/Testing]]
 -- -
 ## Quality
 What do we mean when we talk about quality in testing? It refers to the degree of customer satisfaction. It involves meeting their expectations and fulfilling them without exceeding time and budget.

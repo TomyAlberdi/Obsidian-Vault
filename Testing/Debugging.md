@@ -1,7 +1,7 @@
 Created: 2024-09-17 17:39
 ## Family Tree:
 1. Computer
-2. [[Testing]]
+2. [[Testing/Testing]]
 -- -
 **Debugging** refers to the process of identifying, analyzing, and removing the causes of software failures. This involves executing each instruction step by step to analyze variables and their values.
 ## Debugging a Software Application

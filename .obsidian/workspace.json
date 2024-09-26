@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "a9d6a7ecbcee5d95",
@@ -131,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,6 +146,24 @@
   "active": "069a6a05191f89fb",
   "lastOpenFiles": [
     "Pending ClickUp.md",
+    "Backend Development/Java/Stream of data.md",
+    "Backend Development/Java/attachments/image 1.png",
+    "Backend Development/Java/attachments/image.png",
+    "Backend Development/Java/attachments",
+    "attachments/image.png",
+    "attachments",
+    "Backend Development/Java/Maven.md",
+    "Programming Theory/Object-Oriented Programming/Design Patterns/DAO Pattern.md",
+    "Programming Theory/Object-Oriented Programming/Design Patterns/attachments/image.png",
+    "Programming Theory/Object-Oriented Programming/Design Patterns/Factory Pattern.md",
+    "Backend Development/Java/Log4J.md",
+    "Templates/DefaultTemplate.md",
+    "Backend Development/ORM.md",
+    "Frontend Development/React/Hooks/UseReducer.md",
+    "Frontend Development/Storage.md",
+    "Frontend Development/React/Hooks/UseContext.md",
+    "Frontend Development/React/Testing.md",
+    "Frontend Development/React/User Events.md",
     "Frontend Development/React/Hooks/UseCallback and UseMemo.md",
     "Frontend Development/React/Hooks/UseEffect.md",
     "Frontend Development/React/Hooks/attachments/image 1.png",
@@ -156,39 +176,20 @@
     "Backend Development/Go/Godotenv package.md",
     "Backend Development/Go/Go Web/Repository.md",
     "Frontend Development/React/Hooks/Forms.md",
-    "Frontend Development/React/User Events.md",
     "Frontend Development/React/Hooks/UseState.md",
-    "Templates/DefaultTemplate.md",
     "Frontend Development/React/Hooks/Hooks.md",
     "Frontend Development/React/Hooks",
     "Frontend Development/React/Props.md",
     "Frontend Development/React/attachments/Pasted image 20240922170534.png",
     "Frontend Development/React/attachments/Pasted image 20240922170542.png",
     "Frontend Development/React/React.md",
-    "Frontend Development/React/attachments/image.png",
     "Frontend Development/React/attachments",
     "Infrastructure Administration/Cloud/AWS/AWS.md",
     "Infrastructure Administration/Cloud/AWS",
     "Frontend Development/React",
-    "Backend Development/Go/Documentation (Swaggo).md",
-    "Backend Development/Go/Go.md",
-    "Infrastructure Administration/GitHub.md",
-    "Backend Development/Go/Syntax.md",
-    "Frontend Development/JavaScript/Arrays and Strings.md",
-    "Frontend Development/JavaScript/Basic Syntax.md",
-    "Frontend Development/JavaScript/JavaScript.md",
-    "Frontend Development/JavaScript/Sorting Methods.md",
-    "Frontend Development/JavaScript/Matrix.md",
-    "Programming Theory/Programming Paradigms.md",
-    "Programming Theory/Computational Thinking.md",
-    "Database Administration/Data Analytics/attachments/image 3.png",
-    "Database Administration/Data Analytics/attachments/image 2.png",
-    "Database Administration/Data Analytics/attachments/image 1.png",
     "Database Administration/Data Analytics/attachments",
     "Database Administration/Data Analytics",
     "Backend Development/NodeJS",
-    "Backend Development/Java/Exceptions",
-    "Backend Development/Java/Collections",
     "Untitled.canvas"
   ]
 }

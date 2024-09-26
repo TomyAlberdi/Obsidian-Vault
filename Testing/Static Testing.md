@@ -1,7 +1,7 @@
 Created: 2024-09-17 17:46
 ## Family Tree:
 1. Computer
-2. [[Testing]]
+2. [[Testing/Testing]]
 -- -
 Static testing is based on manual evaluation of work products (i.e., reviews) or tool-based evaluation of code or other work products (i.e., static analysis). This type of Testing does not require the software to be executed.
 **Static testing** is used to examine any work product, including:
