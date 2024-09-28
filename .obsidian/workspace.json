@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "2fade1779a544b78",
+            "id": "d8abfc949b1ea550",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pending ClickUp.md"
+              }
             }
           },
           {
@@ -106,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pending ClickUp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pending ClickUp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +148,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "069a6a05191f89fb",
+  "active": "d8abfc949b1ea550",
   "lastOpenFiles": [
+    "Backend Development/Java/Spring Boot/Spring MVC.md",
+    "Backend Development/Go/Go Web/Go in Spring Cloud Environment.md",
     "Pending ClickUp.md",
+    "Frontend Development/JavaScript/JavaScript.md",
+    "Programming Theory/Object-Oriented Programming/Design Patterns/MVC Pattern.md",
+    "Programming Theory/Object-Oriented Programming/Design Patterns/Composite Pattern.md",
+    "Templates/DefaultTemplate.md",
+    "Backend Development/Java/Spring Boot/Spring Boot.md",
+    "Backend Development/Java/Spring Boot/attachments/image.png",
+    "Backend Development/Java/Spring Boot/attachments",
+    "Backend Development/Java/Object Class.md",
+    "Backend Development/Java/Serialization.md",
+    "Backend Development/Java/Spring Boot",
     "Backend Development/Java/Stream of data.md",
     "Backend Development/Java/attachments/image 1.png",
     "Backend Development/Java/attachments/image.png",
@@ -157,7 +174,6 @@
     "Programming Theory/Object-Oriented Programming/Design Patterns/attachments/image.png",
     "Programming Theory/Object-Oriented Programming/Design Patterns/Factory Pattern.md",
     "Backend Development/Java/Log4J.md",
-    "Templates/DefaultTemplate.md",
     "Backend Development/ORM.md",
     "Frontend Development/React/Hooks/UseReducer.md",
     "Frontend Development/Storage.md",
@@ -174,22 +190,12 @@
     "Frontend Development/React/attachments/2.4. Esquema de Ciclo de VIda Resumido.png",
     "Backend Development/Go/Go Web/Go Web.md",
     "Backend Development/Go/Godotenv package.md",
-    "Backend Development/Go/Go Web/Repository.md",
-    "Frontend Development/React/Hooks/Forms.md",
-    "Frontend Development/React/Hooks/UseState.md",
-    "Frontend Development/React/Hooks/Hooks.md",
     "Frontend Development/React/Hooks",
-    "Frontend Development/React/Props.md",
     "Frontend Development/React/attachments/Pasted image 20240922170534.png",
-    "Frontend Development/React/attachments/Pasted image 20240922170542.png",
-    "Frontend Development/React/React.md",
     "Frontend Development/React/attachments",
-    "Infrastructure Administration/Cloud/AWS/AWS.md",
     "Infrastructure Administration/Cloud/AWS",
     "Frontend Development/React",
     "Database Administration/Data Analytics/attachments",
-    "Database Administration/Data Analytics",
-    "Backend Development/NodeJS",
     "Untitled.canvas"
   ]
 }

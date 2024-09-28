@@ -8,5 +8,6 @@
   "minimal-style@@h6-weight": 600,
   "minimal-style@@h5-variant": "normal",
   "minimal-style@@h6-variant": "normal",
-  "minimal-style@@h5-weight": 600
+  "minimal-style@@h5-weight": 600,
+  "minimal-style@@table-lines": true
 }

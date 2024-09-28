@@ -14,9 +14,7 @@
 - [ ] Año 2 Bimestre 3 Infraestructura 3
 - [ ] Año 1 Bimestre 3 Backend
 	- [x] Módulo 1
-	- [ ] Módulo 2
-		- [ ] Buffers
-		- [ ] Serialización de objectos
-	- [ ] Módulo 3
+	- [x] Módulo 2
+	- [ ] Módulo 3 (Next: Anotaciones en el Controller)
 ## Not
 * Año 2 Bimestre 2 Especialización 2 (Práctica Keycloak & Seguridad en Microservicios)
