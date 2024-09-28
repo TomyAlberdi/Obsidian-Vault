@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,9 +97,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pending ClickUp.md"
-              }
+              "state": {}
             }
           },
           {
@@ -109,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pending ClickUp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pending ClickUp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,15 +143,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d8abfc949b1ea550",
+  "active": "069a6a05191f89fb",
   "lastOpenFiles": [
-    "Backend Development/Java/Spring Boot/Spring MVC.md",
-    "Backend Development/Go/Go Web/Go in Spring Cloud Environment.md",
     "Pending ClickUp.md",
+    "Backend Development/Java/Spring Boot/Response Entity.md",
+    "Backend Development/ORM.md",
+    "Backend Development/Data Transfer Object.md",
+    "Backend Development/attachments/image 1.png",
+    "Backend Development/attachments/image.png",
+    "Backend Development/APIs.md",
+    "Backend Development/attachments/json-back-c25-3.jpg",
+    "Backend Development/attachments",
+    "Templates/DefaultTemplate.md",
+    "Backend Development/Backend Development.md",
+    "Backend Development/Java/Spring Boot/Spring Boot MVC Controller Annotations.md",
+    "Backend Development/Java/Spring Boot/Spring MVC.md",
+    "Backend Development/Go/Go Web/PATCH.md",
+    "Backend Development/Go/Go Web/Go in Spring Cloud Environment.md",
     "Frontend Development/JavaScript/JavaScript.md",
     "Programming Theory/Object-Oriented Programming/Design Patterns/MVC Pattern.md",
     "Programming Theory/Object-Oriented Programming/Design Patterns/Composite Pattern.md",
-    "Templates/DefaultTemplate.md",
     "Backend Development/Java/Spring Boot/Spring Boot.md",
     "Backend Development/Java/Spring Boot/attachments/image.png",
     "Backend Development/Java/Spring Boot/attachments",
@@ -174,28 +180,17 @@
     "Programming Theory/Object-Oriented Programming/Design Patterns/attachments/image.png",
     "Programming Theory/Object-Oriented Programming/Design Patterns/Factory Pattern.md",
     "Backend Development/Java/Log4J.md",
-    "Backend Development/ORM.md",
     "Frontend Development/React/Hooks/UseReducer.md",
     "Frontend Development/Storage.md",
     "Frontend Development/React/Hooks/UseContext.md",
     "Frontend Development/React/Testing.md",
-    "Frontend Development/React/User Events.md",
-    "Frontend Development/React/Hooks/UseCallback and UseMemo.md",
-    "Frontend Development/React/Hooks/UseEffect.md",
     "Frontend Development/React/Hooks/attachments/image 1.png",
     "Frontend Development/React/Hooks/attachments/image.png",
     "Frontend Development/React/Hooks/attachments",
-    "Frontend Development/React/Components.md",
-    "Frontend Development/React/attachments/2.8. Esquema CIclo de Vida completo.png",
-    "Frontend Development/React/attachments/2.4. Esquema de Ciclo de VIda Resumido.png",
-    "Backend Development/Go/Go Web/Go Web.md",
-    "Backend Development/Go/Godotenv package.md",
     "Frontend Development/React/Hooks",
-    "Frontend Development/React/attachments/Pasted image 20240922170534.png",
     "Frontend Development/React/attachments",
     "Infrastructure Administration/Cloud/AWS",
     "Frontend Development/React",
-    "Database Administration/Data Analytics/attachments",
     "Untitled.canvas"
   ]
 }

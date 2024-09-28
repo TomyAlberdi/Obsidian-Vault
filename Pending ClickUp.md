@@ -15,6 +15,6 @@
 - [ ] Año 1 Bimestre 3 Backend
 	- [x] Módulo 1
 	- [x] Módulo 2
-	- [ ] Módulo 3 (Next: Anotaciones en el Controller)
+	- [ ] Módulo 3 (Next: ORM (omit) -> JPA)
 ## Not
 * Año 2 Bimestre 2 Especialización 2 (Práctica Keycloak & Seguridad en Microservicios)
