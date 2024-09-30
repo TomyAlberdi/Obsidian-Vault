@@ -1,20 +1,11 @@
 - [ ] Año 1 Bimestre 1 Programación Imperativa JavaScript
 - [ ] Año 1 Bimestre 2 Testing (Unit Testing & Backend Testing)
 - [x] Año 1 Bimestre 3 Frontend 3 React
-	- [x] Module 1
-	- [x] Module 2
-	- [x] Module 3
-	- [x] Module 4
-	- [x] Module 5
-	- [x] Module 6
 - [ ] Año 2 Bimestre 1 Especialización 1 Microservicios
 - [ ] Año 2 Bimestre 1 Bases de Datos 2 Módulos 2 y 3
 - [ ] Año 2 Bimestre 2 Especialización 2 Módulo 1 y 3 (Sólo Teoría)
 - [ ] Año 2 Bimestre 2 Testing 2 Módulo 2
 - [ ] Año 2 Bimestre 3 Infraestructura 3
-- [ ] Año 1 Bimestre 3 Backend
-	- [x] Módulo 1
-	- [x] Módulo 2
-	- [ ] Módulo 3 (Next: ORM (omit) -> JPA)
+- [x] Año 1 Bimestre 3 Backend
 ## Not
 * Año 2 Bimestre 2 Especialización 2 (Práctica Keycloak & Seguridad en Microservicios)
