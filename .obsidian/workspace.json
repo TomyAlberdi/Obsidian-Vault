@@ -14,18 +14,6 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "4977f77538b6b07e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/DefaultTemplate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -70,7 +58,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "a9d6a7ecbcee5d95",
@@ -149,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
+    "width": 480.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -160,13 +149,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4ed35a11f473b627",
+  "active": "069a6a05191f89fb",
   "lastOpenFiles": [
+    "Frontend Development/JavaScript/Sorting Methods.md",
+    "Pending ClickUp.md",
+    "Programming Theory/Computational Complexity.md",
+    "Frontend Development/JavaScript/Matrix.md",
+    "Frontend Development/JavaScript/Basic Syntax.md",
+    "Testing/Selenium.md",
+    "Testing/attachments/image.png",
+    "Testing/attachments",
+    "Testing/Backend Testing.md",
+    "Testing/Unit Testing.md",
+    "Templates/DefaultTemplate.md",
+    "Testing/Debugging.md",
+    "Infrastructure Administration/DevOps/Monitoring.md",
     "Infrastructure Administration/DevOps/Build & CI.md",
     "Infrastructure Administration/DevOps/Release & CD.md",
     "Infrastructure Administration/GitHub.md",
     "Infrastructure Administration/DevOps/Artifacts.md",
-    "Templates/DefaultTemplate.md",
     "Infrastructure Administration/DevOps/DevOps.md",
     "Infrastructure Administration/DevOps/Infrastructure as Code.md",
     "Infrastructure Administration/DevOps/JenkinsFile.md",
@@ -178,22 +179,12 @@
     "Infrastructure Administration/DevOps",
     "Infrastructure Administration/Docker",
     "Infrastructure Administration/Docker/Docker.md",
-    "Pending ClickUp.md",
     "Backend Development/Java/Spring Boot/MongoDB with Spring.md",
     "Backend Development/Java/Hibernate.md",
-    "Backend Development/Java/Java Persistence API.md",
-    "Backend Development/ORM.md",
-    "Backend Development/Java/Spring Boot/Response Entity.md",
-    "Backend Development/Data Transfer Object.md",
     "Backend Development/attachments/image 1.png",
     "Backend Development/attachments/image.png",
-    "Backend Development/APIs.md",
     "Backend Development/attachments/json-back-c25-3.jpg",
     "Backend Development/attachments",
-    "Backend Development/Backend Development.md",
-    "Backend Development/Java/Spring Boot/Spring Boot MVC Controller Annotations.md",
-    "Backend Development/Java/Spring Boot/Spring MVC.md",
-    "Backend Development/Go/Go Web/PATCH.md",
     "Backend Development/Java/Spring Boot/attachments/image.png",
     "Backend Development/Java/Spring Boot/attachments",
     "Backend Development/Java/Spring Boot",
@@ -204,10 +195,8 @@
     "attachments",
     "Programming Theory/Object-Oriented Programming/Design Patterns/attachments/image.png",
     "Frontend Development/React/Hooks/attachments/image 1.png",
-    "Frontend Development/React/Hooks/attachments/image.png",
     "Frontend Development/React/Hooks/attachments",
     "Frontend Development/React/Hooks",
-    "Frontend Development/React/attachments",
     "Untitled.canvas"
   ]
 }

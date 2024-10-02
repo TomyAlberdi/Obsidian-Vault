@@ -1,5 +1,5 @@
-- [ ] Año 1 Bimestre 1 Programación Imperativa
-- [ ] Año 1 Bimestre 2 Testing
+- [x] Año 1 Bimestre 1 Programación Imperativa
+- [x] Año 1 Bimestre 2 Testing
 - [x] Año 1 Bimestre 3 Frontend 3
 - [ ] Año 2 Bimestre 1 Especialización 1
 - [ ] Año 2 Bimestre 1 Bases de Datos 2
@@ -10,8 +10,7 @@
 	- [ ] Módulo 3
 - [ ] Año 2 Bimestre 2 Testing 2
 	- [ ] Módulo 2
-- [ ] Año 1 Bimestre 4 Infraestructura 2
-	- [ ] 
+- [x] Año 1 Bimestre 4 Infraestructura 2
 - [ ] Año 2 Bimestre 3 Infraestructura 3
 - [x] Año 1 Bimestre 3 Backend
 ## Not

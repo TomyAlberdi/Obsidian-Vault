@@ -1,7 +1,7 @@
 Created: 2024-09-17 17:48
 ## Family Tree:
 1. Computer
-2. [[Testing/Testing]]
+2. [[Testing/Testing|Testing]]
 -- -
 Component testing or unit testing is the Testing of individual software components. They are small tests created specifically to cover all code requirements and verify their results. White box (Testing Techniques > White-box Techniques) techniques are used to generate these tests.
 Unit tests are generally automated tests written and executed by software developers to ensure that a section of an application - known as the “unit” - complies with its design and behaves as intended.
