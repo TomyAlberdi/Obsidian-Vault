@@ -3,7 +3,7 @@ Created: 2024-09-17 17:32
 1. Computer
 2. Programming Theory
 3. Object-Oriented Programming
-4. [[Design Patterns]]
+4. [[Programming Theory/Object-Oriented Programming/Design Patterns/Design Patterns]]
 -- -
 Singleton is a creational design pattern (Design Patterns > Creation Patterns) that ensures a class has only one instance and provides a global access point to it. In the Singleton pattern, a class manages its own instance and prevents any other class from creating an instance of it. To create the instance using this pattern, you must go through the class itself, as no other class can instantiate it. The Singleton pattern also provides a global access point to its instance. The class will always offer its own instance, and if it doesn't have one yet, it creates and returns that newly created instance.
 ### Creating a Class

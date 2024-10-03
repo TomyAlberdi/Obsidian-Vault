@@ -3,7 +3,7 @@ Created: 2024-09-17 17:34
 1. Computer
 2. Programming Theory
 3. Object-Oriented Programming
-4. [[Design Patterns]]
+4. [[Programming Theory/Object-Oriented Programming/Design Patterns/Design Patterns]]
 -- -
 A certain object might have behavior that is initially simple and consistent, but at times, this behavior can become more complex and may need to change based on specific requirements. The Strategy pattern (Design Patterns) allows algorithms to vary independently of the client using them. It offers a straightforward solution based on an object that can change, with its behavior adapting to different circumstances.
 ### Solution:

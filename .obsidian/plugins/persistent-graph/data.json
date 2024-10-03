@@ -2,1033 +2,1103 @@
   "nodePositions": [
     {
       "id": "Backend Development/APIs.md",
-      "x": -483.6313171386719,
-      "y": 292.52484130859375
+      "x": -56.37321472167969,
+      "y": 356.4933166503906
     },
     {
       "id": "Backend Development/Backend Development.md",
-      "x": -553.3583374023438,
-      "y": 194.87193298339844
+      "x": -159.3753204345703,
+      "y": 487.9539794921875
     },
     {
       "id": "Backend Development/Data Transfer Object.md",
-      "x": -433.93060302734375,
-      "y": 183.29930114746094
+      "x": -188.67544555664062,
+      "y": 353.92205810546875
     },
     {
       "id": "Backend Development/Go/Channels.md",
-      "x": -968.7890014648438,
-      "y": 159.41285705566406
+      "x": -531.5433349609375,
+      "y": 928.5122680664062
     },
     {
       "id": "Backend Development/Go/Concurrency and Paralelism.md",
-      "x": -811.6544799804688,
-      "y": 295.4109802246094
+      "x": -537.6272583007812,
+      "y": 789.0474243164062
     },
     {
       "id": "Backend Development/Go/Database-sql package.md",
-      "x": -1008.0900268554688,
-      "y": 46.04269790649414
+      "x": -596.3026123046875,
+      "y": 1031.7532958984375
     },
     {
       "id": "Backend Development/Go/Documentation (Swaggo).md",
-      "x": -890.1715698242188,
-      "y": 386.1328430175781
+      "x": -279.5075378417969,
+      "y": 815.1882934570312
     },
     {
       "id": "Backend Development/Go/Errors.md",
-      "x": -1125.8524169921875,
-      "y": 340.84967041015625
+      "x": -653.402099609375,
+      "y": 926.23291015625
     },
     {
       "id": "Backend Development/Go/Go Web/DELETE.md",
-      "x": -852.2095947265625,
-      "y": 922.734130859375
+      "x": -7.284387111663818,
+      "y": 1269.81298828125
     },
     {
       "id": "Backend Development/Go/Go Web/Go Web.md",
-      "x": -734.8875732421875,
-      "y": 897.6294555664062
+      "x": -172.0173797607422,
+      "y": 1165.6903076171875
     },
     {
       "id": "Backend Development/Go/Go Web/Go in Spring Cloud Environment.md",
-      "x": -708.9103393554688,
-      "y": 780.5293579101562
+      "x": -294.760498046875,
+      "y": 1163.7611083984375
     },
     {
       "id": "Backend Development/Go/Go Web/Go with OpenID.md",
-      "x": -704.6657104492188,
-      "y": 1013.731689453125
+      "x": -95.0832748413086,
+      "y": 1351.545166015625
     },
     {
       "id": "Backend Development/Go/Go Web/PATCH.md",
-      "x": -620.4287719726562,
-      "y": 861.568115234375
+      "x": -324.7594299316406,
+      "y": 1319.4608154296875
     },
     {
       "id": "Backend Development/Go/Go Web/POST.md",
-      "x": -619.1995849609375,
-      "y": 700.8792724609375
+      "x": -398.190673828125,
+      "y": 1224.5963134765625
     },
     {
       "id": "Backend Development/Go/Go Web/PUT.md",
-      "x": -826.2477416992188,
-      "y": 805.5864868164062
+      "x": -55.90103530883789,
+      "y": 1035.508544921875
     },
     {
       "id": "Backend Development/Go/Go Web/Repository.md",
-      "x": -590.2114868164062,
-      "y": 977.694091796875
+      "x": -205.66819763183594,
+      "y": 1305.141357421875
     },
     {
       "id": "Backend Development/Go/Go Web/Web Context.md",
-      "x": -789.2728271484375,
-      "y": 691.4310302734375
+      "x": -23.020633697509766,
+      "y": 1150.8948974609375
     },
     {
       "id": "Backend Development/Go/Go.md",
-      "x": -1047.314208984375,
-      "y": 250.12803649902344
+      "x": -411.57891845703125,
+      "y": 824.4676513671875
     },
     {
       "id": "Backend Development/Go/Godotenv package.md",
-      "x": -1008.0095825195312,
-      "y": 363.4797058105469
+      "x": -579.6026000976562,
+      "y": 674.525390625
     },
     {
       "id": "Backend Development/Go/IO and Files.md",
-      "x": -890.2744140625,
-      "y": 68.68216705322266
+      "x": -450.6455383300781,
+      "y": 693.5598754882812
     },
     {
       "id": "Backend Development/Go/Interfaces.md",
-      "x": -1125.9112548828125,
-      "y": 23.39931869506836
+      "x": -159.91954040527344,
+      "y": 824.9263916015625
     },
     {
       "id": "Backend Development/Go/Marshall Function.md",
-      "x": -968.7034912109375,
-      "y": 476.8491516113281
+      "x": -477.82452392578125,
+      "y": 576.7119140625
     },
     {
       "id": "Backend Development/Go/Methods.md",
-      "x": -1086.5389404296875,
-      "y": 454.2001037597656
+      "x": -254.9485321044922,
+      "y": 936.6114501953125
     },
     {
       "id": "Backend Development/Go/Package-Oriented Design.md",
-      "x": -1086.60205078125,
-      "y": 136.7738494873047
+      "x": -656.34814453125,
+      "y": 806.2802734375
     },
     {
       "id": "Backend Development/Go/Panic.md",
-      "x": -1204.4376220703125,
-      "y": 114.13146209716797
+      "x": -249.4246826171875,
+      "y": 699.0380859375
     },
     {
       "id": "Backend Development/Go/Pointers.md",
-      "x": -929.4877319335938,
-      "y": 272.7718811035156
+      "x": -376.0427551269531,
+      "y": 971.9420776367188
     },
     {
       "id": "Backend Development/Go/Structures.md",
-      "x": -1165.1431884765625,
-      "y": 227.500732421875
+      "x": -348.25225830078125,
+      "y": 630.9819946289062
     },
     {
       "id": "Backend Development/Go/Syntax.md",
-      "x": -850.9622192382812,
-      "y": 182.04608154296875
+      "x": -476.46240234375,
+      "y": 1037.62548828125
     },
     {
       "id": "Backend Development/Java/Collections/Browsing Collections.md",
-      "x": -326.9529113769531,
-      "y": -277.2350158691406
+      "x": -1259.7857666015625,
+      "y": 553.0509033203125
     },
     {
       "id": "Backend Development/Java/Collections/Collections.md",
-      "x": -433.568603515625,
-      "y": -222.1620635986328
+      "x": -1125.583740234375,
+      "y": 601.5201416015625
     },
     {
       "id": "Backend Development/Java/Collections/Operating Collections.md",
-      "x": -414.1739196777344,
-      "y": -103.74551391601562
+      "x": -1148.1231689453125,
+      "y": 738.4986572265625
     },
     {
       "id": "Backend Development/Java/Equality and Ordering.md",
-      "x": -640.44140625,
-      "y": -242.1349334716797
+      "x": -969.5433959960938,
+      "y": 241.53707885742188
     },
     {
       "id": "Backend Development/Java/Exceptions/Custom Exceptions.md",
-      "x": -773.3419189453125,
-      "y": -74.84188079833984
+      "x": -1014.8856201171875,
+      "y": 899.5382080078125
     },
     {
       "id": "Backend Development/Java/Exceptions/Exception class.md",
-      "x": -645.6309204101562,
-      "y": -1.8892208337783813
+      "x": -893.3294067382812,
+      "y": 959.7570190429688
     },
     {
       "id": "Backend Development/Java/Exceptions/Exceptions.md",
-      "x": -652.803466796875,
-      "y": -121.66422271728516
+      "x": -921.1295776367188,
+      "y": 781.557861328125
     },
     {
       "id": "Backend Development/Java/Hibernate.md",
-      "x": -749.6718139648438,
-      "y": -192.47080993652344
+      "x": -763.503662109375,
+      "y": 500.6983642578125
     },
     {
       "id": "Backend Development/Java/Interfaces.md",
-      "x": -522.2493286132812,
-      "y": -416.61529541015625
+      "x": -962.9794311523438,
+      "y": 553.2542724609375
     },
     {
       "id": "Backend Development/Java/Java Persistence API.md",
-      "x": -628.872314453125,
-      "y": -361.5807800292969
+      "x": -1003.621337890625,
+      "y": 356.5130920410156
     },
     {
       "id": "Backend Development/Java/Java.md",
-      "x": -531.2457885742188,
-      "y": -291.8495788574219
+      "x": -871.9708251953125,
+      "y": 419.6767578125
     },
     {
       "id": "Backend Development/Java/Log4J.md",
-      "x": -542.7735595703125,
-      "y": -172.41439819335938
+      "x": -850.6324462890625,
+      "y": 226.18112182617188
     },
     {
       "id": "Backend Development/Java/Maven.md",
-      "x": -726.5316772460938,
-      "y": -431.2998046875
+      "x": -850.2066040039062,
+      "y": 594.2090454101562
     },
     {
       "id": "Backend Development/Java/Object Class.md",
-      "x": -424.6264953613281,
-      "y": -346.88848876953125
+      "x": -706.6328735351562,
+      "y": 395.0566101074219
     },
     {
       "id": "Backend Development/Java/Serialization.md",
-      "x": -738.0878295898438,
-      "y": -311.8784484863281
+      "x": -744.014404296875,
+      "y": 281.07415771484375
     },
     {
       "id": "Backend Development/Java/Spring Boot/MongoDB with Spring.md",
-      "x": -794.8800659179688,
-      "y": -563.0604858398438
+      "x": -1315.7708740234375,
+      "y": 188.53688049316406
     },
     {
       "id": "Backend Development/Java/Spring Boot/Response Entity.md",
-      "x": -904.0825805664062,
-      "y": -612.7930908203125
+      "x": -1094.698486328125,
+      "y": 84.4813003540039
     },
     {
       "id": "Backend Development/Java/Spring Boot/Spring Boot MVC Controller Annotations.md",
-      "x": -980.4954833984375,
-      "y": -520.2761840820312
+      "x": -1243.71728515625,
+      "y": 81.4649658203125
     },
     {
       "id": "Backend Development/Java/Spring Boot/Spring Boot.md",
-      "x": -871.2881469726562,
-      "y": -470.5388488769531
+      "x": -1161.949951171875,
+      "y": 221.92138671875
     },
     {
       "id": "Backend Development/Java/Spring Boot/Spring MVC.md",
-      "x": -968.9644165039062,
-      "y": -400.834716796875
+      "x": -1273.2017822265625,
+      "y": 319.7613525390625
     },
     {
       "id": "Backend Development/Java/Stream of data.md",
-      "x": -619.8992309570312,
-      "y": -486.3033752441406
+      "x": -1048.7303466796875,
+      "y": 467.672607421875
     },
     {
       "id": "Backend Development/NodeJS/NodeJS.md",
-      "x": -503.6822509765625,
-      "y": 85.65393829345703
+      "x": -3.3456783294677734,
+      "y": 467.1058654785156
     },
     {
       "id": "Backend Development/ORM.md",
-      "x": -672.9705810546875,
-      "y": 204.25074768066406
+      "x": -52.05427551269531,
+      "y": 592.190185546875
     },
     {
       "id": "Backend Development/Parameters.md",
-      "x": -603.072509765625,
-      "y": 304.08074951171875
+      "x": -304.6268310546875,
+      "y": 412.9289855957031
     },
     {
       "id": "Computer System/Computer.md",
-      "x": -70.65798950195312,
-      "y": 252.5055694580078
+      "x": 250.7071533203125,
+      "y": -204.7316436767578
     },
     {
       "id": "Computer System/Hardware/CPU.md",
-      "x": 153.95462036132812,
-      "y": 3.037184715270996
+      "x": 581.1934814453125,
+      "y": -963.22900390625
     },
     {
       "id": "Computer System/Hardware/Hardware.md",
-      "x": 103.73064422607422,
-      "y": 112.0188217163086
+      "x": 612.916748046875,
+      "y": -803.5703125
     },
     {
       "id": "Computer System/Hardware/Main Memory.md",
-      "x": -205.38987731933594,
-      "y": 43.00312042236328
+      "x": 735.5631103515625,
+      "y": -1184.28466796875
     },
     {
       "id": "Computer System/Hardware/Memory.md",
-      "x": -86.8514404296875,
-      "y": 24.322237014770508
+      "x": 752.5072631835938,
+      "y": -1060.1265869140625
     },
     {
       "id": "Computer System/Hardware/Secondary Memory.md",
-      "x": -162.28298950195312,
-      "y": -68.98928833007812
+      "x": 608.22021484375,
+      "y": -1149.704833984375
     },
     {
       "id": "Computer System/Hardware/Von Neumann Architecture.md",
-      "x": 34.46232986450195,
-      "y": 14.033236503601074
+      "x": 716.3653564453125,
+      "y": -911.3897705078125
     },
     {
       "id": "Computer System/Network/Addresses.md",
-      "x": -82.76609802246094,
-      "y": 464.0728454589844
+      "x": 454.7279052734375,
+      "y": -408.5608825683594
     },
     {
       "id": "Computer System/Network/Internet Protocol.md",
-      "x": -213.16566467285156,
-      "y": 262.6006774902344
+      "x": 544.3465576171875,
+      "y": -200.92942810058594
     },
     {
       "id": "Computer System/Network/Network.md",
-      "x": -139.88076782226562,
-      "y": 357.6154479980469
+      "x": 392.6559753417969,
+      "y": -277.7195129394531
     },
     {
       "id": "Computer System/Network/OSI Model.md",
-      "x": -275.9690856933594,
-      "y": 364.84552001953125
+      "x": 431.7188720703125,
+      "y": -149.3325958251953
     },
     {
       "id": "Computer System/Network/Ports.md",
-      "x": -19.96129608154297,
-      "y": 361.8276062011719
+      "x": 271.73394775390625,
+      "y": -358.89703369140625
     },
     {
       "id": "Computer System/Network/Routing.md",
-      "x": -202.68141174316406,
-      "y": 459.85711669921875
+      "x": 551.2183837890625,
+      "y": -324.2787170410156
     },
     {
       "id": "Computer System/Software/Operating System.md",
-      "x": 45.91609191894531,
-      "y": 224.08645629882812
+      "x": -54.343963623046875,
+      "y": -325.32086181640625
     },
     {
       "id": "Computer System/Software/Remote Desktops and VM.md",
-      "x": -23.66907501220703,
-      "y": 126.3290786743164
+      "x": 31.513715744018555,
+      "y": -409.1495666503906
     },
     {
       "id": "Computer System/Software/Software.md",
-      "x": -140.24644470214844,
-      "y": 154.75030517578125
+      "x": 79.85061645507812,
+      "y": -266.005126953125
     },
     {
       "id": "Database Administration/Data Analytics/Data Analytics.md",
-      "x": 331.09710693359375,
-      "y": -433.0517578125
+      "x": 919.9627685546875,
+      "y": -583.6106567382812
     },
     {
       "id": "Database Administration/Data Analytics/Data Classifications.md",
-      "x": 232.50106811523438,
-      "y": -146.419189453125
+      "x": 1059.7783203125,
+      "y": -529.8243408203125
     },
     {
       "id": "Database Administration/Data Analytics/Data Exploration.md",
-      "x": 309.7708435058594,
-      "y": -238.15574645996094
+      "x": 753.754150390625,
+      "y": -613.5762329101562
     },
     {
       "id": "Database Administration/Data Analytics/Data Lake.md",
-      "x": 434.74090576171875,
-      "y": -217.34092712402344
+      "x": 767.97119140625,
+      "y": -494.4456787109375
     },
     {
       "id": "Database Administration/Data Analytics/Data Manipulation.md",
-      "x": 554.3971557617188,
-      "y": -225.89492797851562
+      "x": 863.1044311523438,
+      "y": -421.3357849121094
     },
     {
       "id": "Database Administration/Data Analytics/Data Modeling.md",
-      "x": 211.7427978515625,
-      "y": -456.22894287109375
+      "x": 817.0397338867188,
+      "y": -715.5175170898438
     },
     {
       "id": "Database Administration/Data Analytics/Data Warehouse.md",
-      "x": 508.643310546875,
-      "y": -336.7722473144531
+      "x": 981.837890625,
+      "y": -438.6398620605469
     },
     {
       "id": "Database Administration/Data Analytics/Dimensions.md",
-      "x": 251.745361328125,
-      "y": -343.13232421875
+      "x": 1156.0736083984375,
+      "y": -601.3570556640625
     },
     {
       "id": "Database Administration/Data Analytics/ETL.md",
-      "x": 389.0008544921875,
-      "y": -328.212890625
+      "x": 1030.86865234375,
+      "y": -799.5556640625
     },
     {
       "id": "Database Administration/Data Analytics/KPI.md",
-      "x": 355.52142333984375,
-      "y": -127.27078247070312
+      "x": 903.5489501953125,
+      "y": -820.9249267578125
     },
     {
       "id": "Database Administration/Data Analytics/OKR.md",
-      "x": 174.4036102294922,
-      "y": -251.4119415283203
+      "x": 950.4591674804688,
+      "y": -710.4846801757812
     },
     {
       "id": "Database Administration/Data Analytics/Power BI.md",
-      "x": 133.70919799804688,
-      "y": -364.70758056640625
+      "x": 1071.86572265625,
+      "y": -686.7911376953125
     },
     {
       "id": "Database Administration/Database Administration.md",
-      "x": 357.1623840332031,
-      "y": 19.61548614501953
+      "x": 761.3670043945312,
+      "y": -270.2988586425781
     },
     {
       "id": "Database Administration/Database Engines.md",
-      "x": 305.98614501953125,
-      "y": 133.8465118408203
+      "x": 791.3058471679688,
+      "y": -139.8828887939453
     },
     {
       "id": "Database Administration/SQL/Alteration Functions.md",
-      "x": 1121.9346923828125,
-      "y": -277.3283996582031
+      "x": 1315.6304931640625,
+      "y": -289.5238037109375
     },
     {
       "id": "Database Administration/SQL/Best Practices.md",
-      "x": 823.5005493164062,
-      "y": -175.3448486328125
+      "x": 1038.5452880859375,
+      "y": -131.25839233398438
     },
     {
       "id": "Database Administration/SQL/Excecution Order.md",
-      "x": 1009.3121948242188,
-      "y": -65.51697540283203
+      "x": 1063.5008544921875,
+      "y": -267.779052734375
     },
     {
       "id": "Database Administration/SQL/Indexes.md",
-      "x": 889.70849609375,
-      "y": -75.28007507324219
+      "x": 1215.21484375,
+      "y": -355.21392822265625
     },
     {
       "id": "Database Administration/SQL/Joins.md",
-      "x": 1002.3496704101562,
-      "y": -287.0738830566406
+      "x": 1331.5797119140625,
+      "y": -170.3629913330078
     },
     {
       "id": "Database Administration/SQL/SQL.md",
-      "x": 948.7747192382812,
-      "y": -179.7006072998047
+      "x": 1172.4185791015625,
+      "y": -200.98736572265625
     },
     {
       "id": "Database Administration/SQL/Stored Procedures.md",
-      "x": 882.5795288085938,
-      "y": -279.77825927734375
+      "x": 1299.255126953125,
+      "y": -54.805458068847656
     },
     {
       "id": "Database Administration/SQL/Views.md",
-      "x": 1068.3712158203125,
-      "y": -169.96437072753906
+      "x": 1177.5770263671875,
+      "y": -60.7618522644043
     },
     {
       "id": "Frontend Development/Frontend Development.md",
-      "x": -265.84271240234375,
-      "y": -173.98306274414062
+      "x": 441.2555847167969,
+      "y": 60.330684661865234
     },
     {
       "id": "Frontend Development/JavaScript/Arrays and Strings.md",
-      "x": -366.8453063964844,
-      "y": -507.034912109375
+      "x": 146.78074645996094,
+      "y": -14.366381645202637
     },
     {
       "id": "Frontend Development/JavaScript/Basic Syntax.md",
-      "x": -175.08251953125,
-      "y": -362.7416076660156
+      "x": 297.5516357421875,
+      "y": -13.159290313720703
     },
     {
       "id": "Frontend Development/JavaScript/JavaScript.md",
-      "x": -270.9723205566406,
-      "y": -434.8794250488281
+      "x": 250.8803253173828,
+      "y": 106.72404479980469
     },
     {
       "id": "Frontend Development/JavaScript/Matrix.md",
-      "x": -256.4276428222656,
-      "y": -554.0150146484375
+      "x": 98.0633316040039,
+      "y": 114.13215637207031
     },
     {
       "id": "Frontend Development/JavaScript/Sorting Methods.md",
-      "x": -160.55191040039062,
-      "y": -481.85748291015625
+      "x": 167.58570861816406,
+      "y": 221.4273223876953
     },
     {
       "id": "Frontend Development/React/Components.md",
-      "x": -600.990966796875,
-      "y": -747.8356323242188
+      "x": 383.3770446777344,
+      "y": 248.3151092529297
     },
     {
       "id": "Frontend Development/React/Hooks/Forms.md",
-      "x": -330.05157470703125,
-      "y": -1101.79736328125
+      "x": 485.86236572265625,
+      "y": 700.364013671875
     },
     {
       "id": "Frontend Development/React/Hooks/Hooks.md",
-      "x": -360.87493896484375,
-      "y": -985.8311157226562
+      "x": 318.08929443359375,
+      "y": 637.1451416015625
     },
     {
       "id": "Frontend Development/React/Hooks/UseCallback and UseMemo.md",
-      "x": -445.89727783203125,
-      "y": -1070.5069580078125
+      "x": 212.8369598388672,
+      "y": 546.7499389648438
     },
     {
       "id": "Frontend Development/React/Hooks/UseContext.md",
-      "x": -273.5727844238281,
-      "y": -900.5574340820312
+      "x": 252.92855834960938,
+      "y": 772.4296875
     },
     {
       "id": "Frontend Development/React/Hooks/UseEffect.md",
-      "x": -245.03567504882812,
-      "y": -1017.1102294921875
+      "x": 438.81195068359375,
+      "y": 587.4539794921875
     },
     {
       "id": "Frontend Development/React/Hooks/UseReducer.md",
-      "x": -389.4215393066406,
-      "y": -869.2867431640625
+      "x": 385.1303405761719,
+      "y": 784.0958862304688
     },
     {
       "id": "Frontend Development/React/Hooks/UseState.md",
-      "x": -476.71856689453125,
-      "y": -954.5374755859375
+      "x": 163.8887176513672,
+      "y": 683.8883666992188
     },
     {
       "id": "Frontend Development/React/Props.md",
-      "x": -586.4308471679688,
-      "y": -866.9462890625
+      "x": 525.6038818359375,
+      "y": 281.016357421875
     },
     {
       "id": "Frontend Development/React/React.md",
-      "x": -490.55743408203125,
-      "y": -794.788818359375
+      "x": 413.3134765625,
+      "y": 376.2033996582031
     },
     {
       "id": "Frontend Development/React/Testing.md",
-      "x": -505.10400390625,
-      "y": -675.6826171875
+      "x": 276.135986328125,
+      "y": 382.3396911621094
     },
     {
       "id": "Frontend Development/React/User Events.md",
-      "x": -387.554443359375,
-      "y": -733.2293090820312
+      "x": 528.5359497070312,
+      "y": 458.30523681640625
     },
     {
       "id": "Frontend Development/Storage.md",
-      "x": -151.39828491210938,
-      "y": -210.04684448242188
+      "x": 583.9087524414062,
+      "y": 28.517160415649414
     },
     {
       "id": "Infrastructure Administration/Ansible.md",
-      "x": 447.7146911621094,
-      "y": 319.4278869628906
+      "x": -93.03295135498047,
+      "y": -690.1829223632812
     },
     {
       "id": "Infrastructure Administration/Cloud/AWS/AWS.md",
-      "x": 860.5321655273438,
-      "y": 716.2514038085938
+      "x": -782.65478515625,
+      "y": -954.7682495117188
     },
     {
       "id": "Infrastructure Administration/Cloud/Cloud Databases.md",
-      "x": 770.4617309570312,
-      "y": 636.9683837890625
+      "x": -672.2796630859375,
+      "y": -1156.6597900390625
     },
     {
       "id": "Infrastructure Administration/Cloud/Cloud Storage.md",
-      "x": 997.8571166992188,
-      "y": 560.248046875
+      "x": -489.9763488769531,
+      "y": -1031.48779296875
     },
     {
       "id": "Infrastructure Administration/Cloud/Cloud.md",
-      "x": 884.1569213867188,
-      "y": 598.6033325195312
+      "x": -616.0809936523438,
+      "y": -996.7892456054688
     },
     {
       "id": "Infrastructure Administration/Cloud/Hybrid Cloud.md",
-      "x": 794.084716796875,
-      "y": 519.3194580078125
-    },
-    {
-      "id": "Infrastructure Administration/Cloud/Load Balancer.md",
-      "x": 1021.4741821289062,
-      "y": 442.6082763671875
-    },
-    {
-      "id": "Infrastructure Administration/Cloud/Scalability, Fault Tolerance and Availability.md",
-      "x": 907.77587890625,
-      "y": 480.95703125
-    },
-    {
-      "id": "Infrastructure Administration/Cloud/Serverless.md",
-      "x": 974.2252197265625,
-      "y": 677.8866577148438
-    },
-    {
-      "id": "Infrastructure Administration/Configuration Management.md",
-      "x": 543.7180786132812,
-      "y": 391.4156494140625
-    },
-    {
-      "id": "Infrastructure Administration/DevOps/Artifacts.md",
-      "x": 939.3690185546875,
-      "y": 248.45462036132812
-    },
-    {
-      "id": "Infrastructure Administration/DevOps/Build & CI.md",
-      "x": 914.1795654296875,
-      "y": 42.16477966308594
-    },
-    {
-      "id": "Infrastructure Administration/DevOps/DevOps.md",
-      "x": 750.4931640625,
-      "y": 124.97056579589844
-    },
-    {
-      "id": "Infrastructure Administration/DevOps/Ecosystem.md",
-      "x": 631.109130859375,
-      "y": 139.64537048339844
-    },
-    {
-      "id": "Infrastructure Administration/DevOps/Infrastructure as Code.md",
-      "x": 703.507080078125,
-      "y": 235.31846618652344
-    },
-    {
-      "id": "Infrastructure Administration/DevOps/JenkinsFile.md",
-      "x": 820.25830078125,
-      "y": 262.98004150390625
-    },
-    {
-      "id": "Infrastructure Administration/DevOps/Pipelines.md",
-      "x": 678.1500854492188,
-      "y": 29.25786590576172
-    },
-    {
-      "id": "Infrastructure Administration/DevOps/Release & CD.md",
-      "x": 986.34814453125,
-      "y": 138.0360107421875
-    },
-    {
-      "id": "Infrastructure Administration/DevOps/Version Control.md",
-      "x": 797.404541015625,
-      "y": 14.556775093078613
-    },
-    {
-      "id": "Infrastructure Administration/Docker/Docker.md",
-      "x": 462.45281982421875,
-      "y": 200.35096740722656
-    },
-    {
-      "id": "Infrastructure Administration/Git.md",
-      "x": 643.9346923828125,
-      "y": 464.2105712890625
-    },
-    {
-      "id": "Infrastructure Administration/GitHub.md",
-      "x": 654.2042846679688,
-      "y": 344.6735534667969
-    },
-    {
-      "id": "Infrastructure Administration/Idempotency.md",
-      "x": 433.3957824707031,
-      "y": 438.5614013671875
-    },
-    {
-      "id": "Infrastructure Administration/Infrastructure Administration.md",
-      "x": 558.4439697265625,
-      "y": 272.3553161621094
-    },
-    {
-      "id": "Infrastructure Administration/Shell Scripting/Bash Commands.md",
-      "x": 691.293701171875,
-      "y": 783.947265625
-    },
-    {
-      "id": "Infrastructure Administration/Shell Scripting/Bash Scripting.md",
-      "x": 596.22607421875,
-      "y": 857.1632690429688
-    },
-    {
-      "id": "Infrastructure Administration/Shell Scripting/Shell Scripting.md",
-      "x": 605.2882080078125,
-      "y": 696.7000732421875
-    },
-    {
-      "id": "Infrastructure Administration/Working Environments.md",
-      "x": 533.4210205078125,
-      "y": 510.9427795410156
-    },
-    {
-      "id": "Pending ClickUp.md",
-      "x": -799.7813110351562,
-      "y": -832.001953125
-    },
-    {
-      "id": "Programming Theory/Algorithm.md",
-      "x": 155.00637817382812,
-      "y": -872.1760864257812
-    },
-    {
-      "id": "Programming Theory/Computational Complexity.md",
-      "x": 223.42959594726562,
-      "y": -643.2182006835938
-    },
-    {
-      "id": "Programming Theory/Computational Thinking.md",
-      "x": 142.82752990722656,
-      "y": -554.4130859375
-    },
-    {
-      "id": "Programming Theory/Documentation.md",
-      "x": 86.53648376464844,
-      "y": -660.3592529296875
-    },
-    {
-      "id": "Programming Theory/Domain-Driven Design.md",
-      "x": 286.6529846191406,
-      "y": -848.5493774414062
-    },
-    {
-      "id": "Programming Theory/Frameworks.md",
-      "x": 379.96038818359375,
-      "y": -631.963134765625
-    },
-    {
-      "id": "Programming Theory/IDEs.md",
-      "x": 295.0757141113281,
-      "y": -547.2218627929688
-    },
-    {
-      "id": "Programming Theory/Libraries.md",
-      "x": 78.1095962524414,
-      "y": -780.0462036132812
-    },
-    {
-      "id": "Programming Theory/Object-Oriented Programming/Abstract Class.md",
-      "x": 2.974818706512451,
-      "y": -944.030029296875
-    },
-    {
-      "id": "Programming Theory/Object-Oriented Programming/Aggregation Relationship.md",
-      "x": 184.45098876953125,
-      "y": -1083.4801025390625
-    },
-    {
-      "id": "Programming Theory/Object-Oriented Programming/Association Relationship.md",
-      "x": 130.16140747070312,
-      "y": -1190.4886474609375
-    },
-    {
-      "id": "Programming Theory/Object-Oriented Programming/Composition Relationship.md",
-      "x": 115.62137603759766,
-      "y": -985.234375
-    },
-    {
-      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/Chain of Responsibility Pattern.md",
-      "x": 989.4683227539062,
-      "y": -505.14892578125
-    },
-    {
-      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/Composite Pattern.md",
-      "x": 560.845458984375,
-      "y": -566.6962280273438
-    },
-    {
-      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/DAO Pattern.md",
-      "x": 729.1336059570312,
-      "y": -686.778564453125
-    },
-    {
-      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/Design Patterns.md",
-      "x": 750.8668823242188,
-      "y": -480.07208251953125
-    },
-    {
-      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/Facade Pattern.md",
-      "x": 848.4400634765625,
-      "y": -699.3275756835938
-    },
-    {
-      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/Factory Pattern.md",
-      "x": 821.4116821289062,
-      "y": -383.00506591796875
-    },
-    {
-      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/Flyweight Pattern.md",
-      "x": 513.1854858398438,
-      "y": -456.62689208984375
-    },
-    {
-      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/MVC Pattern.md",
-      "x": 918.9725952148438,
-      "y": -602.2521362304688
-    },
-    {
-      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/Observer Pattern.md",
-      "x": 703.6735229492188,
-      "y": -359.9024658203125
-    },
-    {
-      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/Proxy Pattern.md",
-      "x": 799.6535034179688,
-      "y": -589.7015380859375
-    },
-    {
-      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/Singleton Pattern.md",
-      "x": 870.168212890625,
-      "y": -492.626220703125
-    },
-    {
-      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/State Pattern.md",
-      "x": 609.6320190429688,
-      "y": -676.2835693359375
-    },
-    {
-      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/Strategy Pattern.md",
-      "x": 633.162109375,
-      "y": -456.99163818359375
-    },
-    {
-      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/Template Method Pattern.md",
-      "x": 680.338623046875,
-      "y": -577.147705078125
-    },
-    {
-      "id": "Programming Theory/Object-Oriented Programming/Dynamic Binding.md",
-      "x": 249.97335815429688,
-      "y": -1183.955078125
-    },
-    {
-      "id": "Programming Theory/Object-Oriented Programming/Inheritance.md",
-      "x": -110.40128326416016,
-      "y": -983.2501831054688
-    },
-    {
-      "id": "Programming Theory/Object-Oriented Programming/Method Signature.md",
-      "x": 235.12599182128906,
-      "y": -974.6993408203125
-    },
-    {
-      "id": "Programming Theory/Object-Oriented Programming/Object-Oriented Programming.md",
-      "x": 61.443092346191406,
-      "y": -1092.17138671875
-    },
-    {
-      "id": "Programming Theory/Object-Oriented Programming/Overloading.md",
-      "x": -58.5413932800293,
-      "y": -1091.4481201171875
-    },
-    {
-      "id": "Programming Theory/Object-Oriented Programming/Polymorphism.md",
-      "x": 303.97442626953125,
+      "x": -762.0082397460938,
       "y": -1072.977294921875
     },
     {
-      "id": "Programming Theory/Object-Oriented Programming/Protected Attribute.md",
-      "x": 3.206894874572754,
-      "y": -1197.0584716796875
+      "id": "Infrastructure Administration/Cloud/Load Balancer.md",
+      "x": -704.1529541015625,
+      "y": -861.4082641601562
     },
     {
-      "id": "Programming Theory/Parametric Programming.md",
-      "x": 438.31500244140625,
-      "y": -736.76220703125
+      "id": "Infrastructure Administration/Cloud/Scalability, Fault Tolerance and Availability.md",
+      "x": -573.1444702148438,
+      "y": -863.5789184570312
     },
     {
-      "id": "Programming Theory/Programming Language.md",
-      "x": 196.38035583496094,
-      "y": -759.8816528320312
+      "id": "Infrastructure Administration/Cloud/Serverless.md",
+      "x": -552.2879028320312,
+      "y": -1156.340087890625
     },
     {
-      "id": "Programming Theory/Programming Paradigms.md",
-      "x": 406.5806884765625,
-      "y": -852.4710693359375
+      "id": "Infrastructure Administration/Configuration Management.md",
+      "x": -371.6781921386719,
+      "y": -707.1663208007812
     },
     {
-      "id": "Programming Theory/Programming Theory.md",
-      "x": 312.9393310546875,
-      "y": -731.4716186523438
+      "id": "Infrastructure Administration/DevOps/Artifacts.md",
+      "x": -1.601011037826538,
+      "y": -1086.296630859375
     },
     {
-      "id": "Security/Active and Passive Security.md",
-      "x": -236.75244140625,
-      "y": 797.3377075195312
+      "id": "Infrastructure Administration/DevOps/Build & CI.md",
+      "x": 18.728391647338867,
+      "y": -1355.6888427734375
     },
     {
-      "id": "Security/Authentication.md",
-      "x": -346.41204833984375,
-      "y": 748.62890625
+      "id": "Infrastructure Administration/DevOps/DevOps.md",
+      "x": 92.0619888305664,
+      "y": -1209.983642578125
     },
     {
-      "id": "Security/Bugs and Vulnerabilities.md",
-      "x": -443.43701171875,
-      "y": 819.2100830078125
+      "id": "Infrastructure Administration/DevOps/Ecosystem.md",
+      "x": 138.6654510498047,
+      "y": -1353.4532470703125
     },
     {
-      "id": "Security/Cyber Threats.md",
-      "x": -333.7818908691406,
-      "y": 867.9408569335938
+      "id": "Infrastructure Administration/DevOps/Infrastructure as Code.md",
+      "x": 227.78311157226562,
+      "y": -1132.189208984375
     },
     {
-      "id": "Security/Cybersecurity.md",
-      "x": -381.64227294921875,
-      "y": 511.314697265625
-    },
-    {
-      "id": "Security/Information.md",
-      "x": -269.2536926269531,
-      "y": 559.6768188476562
-    },
-    {
-      "id": "Security/Middleware.md",
-      "x": -478.7017822265625,
-      "y": 581.8735961914062
-    },
-    {
-      "id": "Security/Security Measures.md",
-      "x": -463.28363037109375,
-      "y": 700.8763427734375
-    },
-    {
-      "id": "Security/Security.md",
-      "x": -366.2369079589844,
-      "y": 630.3139038085938
-    },
-    {
-      "id": "Security/VPN and Tor.md",
-      "x": -249.40684509277344,
-      "y": 678.0169677734375
-    },
-    {
-      "id": "Templates/DefaultTemplate.md",
-      "x": 366.9173889160156,
-      "y": 621.7125854492188
-    },
-    {
-      "id": "Testing/Debugging.md",
-      "x": 134.39413452148438,
-      "y": 681.07470703125
-    },
-    {
-      "id": "Testing/Defects.md",
-      "x": 101.9886474609375,
-      "y": 796.5543212890625
-    },
-    {
-      "id": "Testing/Dynamic Testing.md",
-      "x": 418.37091064453125,
-      "y": 823.0018310546875
-    },
-    {
-      "id": "Testing/Implementation Stage.md",
-      "x": 269.68658447265625,
-      "y": 968.183837890625
-    },
-    {
-      "id": "Testing/JUnit.md",
-      "x": -14.3060884475708,
-      "y": 826.286376953125
-    },
-    {
-      "id": "Testing/Smoke and Regression Testing.md",
-      "x": 302.10406494140625,
-      "y": 852.70751953125
-    },
-    {
-      "id": "Testing/Software Testing Lifecycle.md",
-      "x": 18.12696647644043,
-      "y": 710.7792358398438
-    },
-    {
-      "id": "Testing/Static Testing.md",
-      "x": 50.55024337768555,
-      "y": 595.2603149414062
-    },
-    {
-      "id": "Testing/Test Cases.md",
-      "x": 385.9461669921875,
-      "y": 938.5217895507812
-    },
-    {
-      "id": "Testing/Test Driven Development.md",
-      "x": 185.8407745361328,
-      "y": 882.3701782226562
-    },
-    {
-      "id": "Testing/Test Levels.md",
-      "x": 334.50830078125,
-      "y": 737.2025756835938
-    },
-    {
-      "id": "Testing/Test Organization by Workspace.md",
-      "x": 69.57955169677734,
-      "y": 912.034912109375
-    },
-    {
-      "id": "Testing/Test Types.md",
-      "x": 250.64697265625,
-      "y": 651.3956909179688
-    },
-    {
-      "id": "Testing/Testing Techniques.md",
-      "x": 283.0614013671875,
-      "y": 535.8890991210938
-    },
-    {
-      "id": "Testing/Testing.md",
-      "x": 218.23504638671875,
-      "y": 766.8923950195312
-    },
-    {
-      "id": "Testing/Unit Testing.md",
-      "x": 166.79896545410156,
-      "y": 565.56103515625
-    },
-    {
-      "id": "Testing/Use Cases.md",
-      "x": 237.27883911132812,
-      "y": 1083.6717529296875
+      "id": "Infrastructure Administration/DevOps/JenkinsFile.md",
+      "x": -91.54383850097656,
+      "y": -1308.4359130859375
     },
     {
       "id": "Infrastructure Administration/DevOps/Monitoring.md",
-      "x": 867.2408447265625,
-      "y": 152.5758514404297
+      "x": 252.1090087890625,
+      "y": -1314.4683837890625
+    },
+    {
+      "id": "Infrastructure Administration/DevOps/Pipelines.md",
+      "x": 125.79481506347656,
+      "y": -1069.000732421875
+    },
+    {
+      "id": "Infrastructure Administration/DevOps/Release & CD.md",
+      "x": 316.3172302246094,
+      "y": -1213.1346435546875
+    },
+    {
+      "id": "Infrastructure Administration/DevOps/Version Control.md",
+      "x": -61.47696304321289,
+      "y": -1192.2762451171875
+    },
+    {
+      "id": "Infrastructure Administration/Docker/Docker.md",
+      "x": -290.02838134765625,
+      "y": -613.366455078125
+    },
+    {
+      "id": "Infrastructure Administration/Git.md",
+      "x": -97.1631088256836,
+      "y": -851.3829345703125
+    },
+    {
+      "id": "Infrastructure Administration/GitHub.md",
+      "x": -230.07904052734375,
+      "y": -903.8206176757812
+    },
+    {
+      "id": "Infrastructure Administration/Idempotency.md",
+      "x": -354.79608154296875,
+      "y": -828.8848876953125
+    },
+    {
+      "id": "Infrastructure Administration/Infrastructure Administration.md",
+      "x": -214.7017364501953,
+      "y": -764.3443603515625
+    },
+    {
+      "id": "Infrastructure Administration/Shell Scripting/Bash Commands.md",
+      "x": -383.5724182128906,
+      "y": -1205.8204345703125
+    },
+    {
+      "id": "Infrastructure Administration/Shell Scripting/Bash Scripting.md",
+      "x": -263.66680908203125,
+      "y": -1201.63330078125
+    },
+    {
+      "id": "Infrastructure Administration/Shell Scripting/Shell Scripting.md",
+      "x": -287.45184326171875,
+      "y": -1049.185546875
+    },
+    {
+      "id": "Infrastructure Administration/Working Environments.md",
+      "x": -171.3437042236328,
+      "y": -595.7129516601562
+    },
+    {
+      "id": "Pending ClickUp.md",
+      "x": -980.3019409179688,
+      "y": -961.9020385742188
+    },
+    {
+      "id": "Programming Theory/Algorithm.md",
+      "x": -544.6800537109375,
+      "y": 94.73858642578125
+    },
+    {
+      "id": "Programming Theory/Computational Complexity.md",
+      "x": -451.08154296875,
+      "y": 169.8148193359375
+    },
+    {
+      "id": "Programming Theory/Computational Thinking.md",
+      "x": -433.84869384765625,
+      "y": -97.00499725341797
+    },
+    {
+      "id": "Programming Theory/Documentation.md",
+      "x": -296.16778564453125,
+      "y": -104.40945434570312
+    },
+    {
+      "id": "Programming Theory/Domain-Driven Design.md",
+      "x": -449.3468017578125,
+      "y": 21.967403411865234
+    },
+    {
+      "id": "Programming Theory/Frameworks.md",
+      "x": -137.8861846923828,
+      "y": -69.93158721923828
+    },
+    {
+      "id": "Programming Theory/IDEs.md",
+      "x": -137.369140625,
+      "y": 50.02275848388672
+    },
+    {
+      "id": "Programming Theory/Libraries.md",
+      "x": -198.16848754882812,
+      "y": -173.65939331054688
+    },
+    {
+      "id": "Programming Theory/Object-Oriented Programming/Abstract Class.md",
+      "x": -525.4718017578125,
+      "y": -300.7344970703125
+    },
+    {
+      "id": "Programming Theory/Object-Oriented Programming/Aggregation Relationship.md",
+      "x": -714.7556762695312,
+      "y": -251.5833740234375
+    },
+    {
+      "id": "Programming Theory/Object-Oriented Programming/Association Relationship.md",
+      "x": -548.7805786132812,
+      "y": -500.7931213378906
+    },
+    {
+      "id": "Programming Theory/Object-Oriented Programming/Composition Relationship.md",
+      "x": -746.0827026367188,
+      "y": -130.72621154785156
+    },
+    {
+      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/Chain of Responsibility Pattern.md",
+      "x": -1039.7344970703125,
+      "y": -252.36837768554688
+    },
+    {
+      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/Composite Pattern.md",
+      "x": -1142.1346435546875,
+      "y": -189.86573791503906
+    },
+    {
+      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/DAO Pattern.md",
+      "x": -1090.236083984375,
+      "y": -568.0983276367188
+    },
+    {
+      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/Design Patterns.md",
+      "x": -1125.6478271484375,
+      "y": -434.650634765625
+    },
+    {
+      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/Facade Pattern.md",
+      "x": -1291.689697265625,
+      "y": -451.13677978515625
+    },
+    {
+      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/Factory Pattern.md",
+      "x": -1171.7706298828125,
+      "y": -657.7808837890625
+    },
+    {
+      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/Flyweight Pattern.md",
+      "x": -1176.9041748046875,
+      "y": -312.472900390625
+    },
+    {
+      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/MVC Pattern.md",
+      "x": -957.1119995117188,
+      "y": -615.0973510742188
+    },
+    {
+      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/Observer Pattern.md",
+      "x": -999.969482421875,
+      "y": -365.5693054199219
+    },
+    {
+      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/Proxy Pattern.md",
+      "x": -1241.2158203125,
+      "y": -559.9411010742188
+    },
+    {
+      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/Singleton Pattern.md",
+      "x": -974.240478515625,
+      "y": -496.3309020996094
+    },
+    {
+      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/State Pattern.md",
+      "x": -1307.7701416015625,
+      "y": -332.2791748046875
+    },
+    {
+      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/Strategy Pattern.md",
+      "x": -1257.334716796875,
+      "y": -223.41439819335938
+    },
+    {
+      "id": "Programming Theory/Object-Oriented Programming/Design Patterns/Template Method Pattern.md",
+      "x": -1054.2886962890625,
+      "y": -685.4839477539062
+    },
+    {
+      "id": "Programming Theory/Object-Oriented Programming/Dynamic Binding.md",
+      "x": -731.43408203125,
+      "y": -495.1365661621094
+    },
+    {
+      "id": "Programming Theory/Object-Oriented Programming/Inheritance.md",
+      "x": -642.5166625976562,
+      "y": -575.6851806640625
+    },
+    {
+      "id": "Programming Theory/Object-Oriented Programming/Method Signature.md",
+      "x": -789.8734741210938,
+      "y": -374.2272033691406
+    },
+    {
+      "id": "Programming Theory/Object-Oriented Programming/Object-Oriented Programming.md",
+      "x": -646.9388427734375,
+      "y": -361.31878662109375
+    },
+    {
+      "id": "Programming Theory/Object-Oriented Programming/Overloading.md",
+      "x": -830.6709594726562,
+      "y": -220.70579528808594
+    },
+    {
+      "id": "Programming Theory/Object-Oriented Programming/Polymorphism.md",
+      "x": -471.77783203125,
+      "y": -408.77313232421875
+    },
+    {
+      "id": "Programming Theory/Object-Oriented Programming/Protected Attribute.md",
+      "x": -619.8766479492188,
+      "y": -178.15797424316406
+    },
+    {
+      "id": "Programming Theory/Parametric Programming.md",
+      "x": -212.97183227539062,
+      "y": 143.18287658691406
+    },
+    {
+      "id": "Programming Theory/Programming Language.md",
+      "x": -312.4210205078125,
+      "y": -223.23553466796875
+    },
+    {
+      "id": "Programming Theory/Programming Paradigms.md",
+      "x": -331.31060791015625,
+      "y": 163.01698303222656
+    },
+    {
+      "id": "Programming Theory/Programming Theory.md",
+      "x": -306.6414489746094,
+      "y": 15.072290420532227
+    },
+    {
+      "id": "Security/Active and Passive Security.md",
+      "x": 465.3411865234375,
+      "y": -701.3390502929688
+    },
+    {
+      "id": "Security/Authentication.md",
+      "x": 276.6603698730469,
+      "y": -563.3220825195312
+    },
+    {
+      "id": "Security/Bugs and Vulnerabilities.md",
+      "x": 159.4685821533203,
+      "y": -823.308837890625
+    },
+    {
+      "id": "Security/Cyber Threats.md",
+      "x": 130.5707244873047,
+      "y": -706.8025512695312
+    },
+    {
+      "id": "Security/Cybersecurity.md",
+      "x": 416.2327575683594,
+      "y": -810.8005981445312
+    },
+    {
+      "id": "Security/Information.md",
+      "x": 152.37982177734375,
+      "y": -588.8058471679688
+    },
+    {
+      "id": "Security/Middleware.md",
+      "x": 413.0779724121094,
+      "y": -593.3399047851562
+    },
+    {
+      "id": "Security/Security Measures.md",
+      "x": 371.7673034667969,
+      "y": -922.2448120117188
+    },
+    {
+      "id": "Security/Security.md",
+      "x": 294.61285400390625,
+      "y": -701.727783203125
+    },
+    {
+      "id": "Security/VPN and Tor.md",
+      "x": 276.6040954589844,
+      "y": -849.1888427734375
+    },
+    {
+      "id": "Templates/DefaultTemplate.md",
+      "x": 176.84327697753906,
+      "y": 1138.132080078125
     },
     {
       "id": "Testing/Backend Testing.md",
-      "x": 37.1533088684082,
-      "y": 1027.5443115234375
+      "x": 1024.1983642578125,
+      "y": 518.857666015625
+    },
+    {
+      "id": "Testing/Debugging.md",
+      "x": 976.4480590820312,
+      "y": 639.198486328125
+    },
+    {
+      "id": "Testing/Defects.md",
+      "x": 1218.4295654296875,
+      "y": 412.7437438964844
+    },
+    {
+      "id": "Testing/Dynamic Testing.md",
+      "x": 1026.5498046875,
+      "y": 174.02981567382812
+    },
+    {
+      "id": "Testing/Implementation Stage.md",
+      "x": 775.1812744140625,
+      "y": 521.174072265625
+    },
+    {
+      "id": "Testing/JUnit.md",
+      "x": 763.2413330078125,
+      "y": 282.0201721191406
     },
     {
       "id": "Testing/Selenium.md",
-      "x": 153.41842651367188,
-      "y": 997.8648071289062
+      "x": 861.6781005859375,
+      "y": 604.3098754882812
+    },
+    {
+      "id": "Testing/Smoke and Regression Testing.md",
+      "x": 900.0849609375,
+      "y": 490.63592529296875
+    },
+    {
+      "id": "Testing/Software Testing Lifecycle.md",
+      "x": 1095.712890625,
+      "y": 411.6438293457031
+    },
+    {
+      "id": "Testing/Static Testing.md",
+      "x": 1145.3953857421875,
+      "y": 190.28140258789062
+    },
+    {
+      "id": "Testing/Test Cases.md",
+      "x": 1094.5115966796875,
+      "y": 617.98583984375
+    },
+    {
+      "id": "Testing/Test Driven Development.md",
+      "x": 908.3098754882812,
+      "y": 240.93118286132812
+    },
+    {
+      "id": "Testing/Test Levels.md",
+      "x": 1076.6539306640625,
+      "y": 291.4233703613281
+    },
+    {
+      "id": "Testing/Test Organization by Workspace.md",
+      "x": 776.3555908203125,
+      "y": 401.2498779296875
+    },
+    {
+      "id": "Testing/Test Types.md",
+      "x": 1160.460693359375,
+      "y": 517.7607421875
+    },
+    {
+      "id": "Testing/Testing Techniques.md",
+      "x": 1206.7799072265625,
+      "y": 293.3625793457031
+    },
+    {
+      "id": "Testing/Testing.md",
+      "x": 945.5248413085938,
+      "y": 363.8912658691406
+    },
+    {
+      "id": "Testing/Unit Testing.md",
+      "x": 810.2515258789062,
+      "y": 171.65524291992188
+    },
+    {
+      "id": "Testing/Use Cases.md",
+      "x": 919.0258178710938,
+      "y": 120.83863830566406
+    },
+    {
+      "id": "Backend Development/Microservices Architecture/Microservices Architecture.md",
+      "x": 201.65750122070312,
+      "y": 908.9166259765625
+    },
+    {
+      "id": "Backend Development/Microservices Architecture/Design Patterns/Design Patterns.md",
+      "x": 654.268310546875,
+      "y": 1009.1429443359375
+    },
+    {
+      "id": "Backend Development/Microservices Architecture/Design Patterns/Service Registry & Discovery.md",
+      "x": 763.7215576171875,
+      "y": 892.1878051757812
+    },
+    {
+      "id": "Backend Development/Microservices Architecture/Design Patterns/Edge Server.md",
+      "x": 642.8289184570312,
+      "y": 865.0548095703125
+    },
+    {
+      "id": "Backend Development/Microservices Architecture/Design Patterns/Central Configuration.md",
+      "x": 523.479736328125,
+      "y": 969.7979736328125
+    },
+    {
+      "id": "Backend Development/Microservices Architecture/Design Patterns/Log Aggregation.md",
+      "x": 737.1656494140625,
+      "y": 1138.11376953125
+    },
+    {
+      "id": "Backend Development/Microservices Architecture/Design Patterns/Distributed Tracing.md",
+      "x": 871.198486328125,
+      "y": 945.5086059570312
+    },
+    {
+      "id": "Backend Development/Microservices Architecture/Design Patterns/Circuit Breaker.md",
+      "x": 625.4906616210938,
+      "y": 1181.9910888671875
+    },
+    {
+      "id": "Backend Development/Microservices Architecture/Design Patterns/Centralized Monitoring.md",
+      "x": 531.5008544921875,
+      "y": 1107.3961181640625
+    },
+    {
+      "id": "Backend Development/Microservices Architecture/Design Patterns/Non-Blocking Asynchronous Microservices.md",
+      "x": 824.7300415039062,
+      "y": 1056.1138916015625
+    },
+    {
+      "id": "Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud.md",
+      "x": 292.9938659667969,
+      "y": 1186.664306640625
+    },
+    {
+      "id": "Backend Development/Microservices Architecture/Spring Cloud/Eureka Server.md",
+      "x": 329.71075439453125,
+      "y": 1066.385498046875
+    },
+    {
+      "id": "Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Config.md",
+      "x": 380.76287841796875,
+      "y": 1298.5771484375
+    },
+    {
+      "id": "Backend Development/Microservices Architecture/Spring Cloud/OpenFeign.md",
+      "x": 229.899169921875,
+      "y": 1320.04345703125
     }
   ],
   "automaticallyRestoreNodePositions": true

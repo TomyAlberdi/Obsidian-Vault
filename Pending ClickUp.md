@@ -2,6 +2,10 @@
 - [x] Año 1 Bimestre 2 Testing
 - [x] Año 1 Bimestre 3 Frontend 3
 - [ ] Año 2 Bimestre 1 Especialización 1
+	- [x] Módulo 1
+	- [ ] Módulo 2
+	- [ ] Módulo 3
+	- [ ] Módulo 4
 - [ ] Año 2 Bimestre 1 Bases de Datos 2
 	- [ ] Módulo 2
 	- [ ] Módulo 3

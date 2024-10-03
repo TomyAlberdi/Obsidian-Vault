@@ -3,7 +3,7 @@ Created: 2024-09-17 17:28
 1. Computer
 2. Programming Theory
 3. Object-Oriented Programming
-4. [[Design Patterns]]
+4. [[Programming Theory/Object-Oriented Programming/Design Patterns/Design Patterns]]
 -- -
 Composite is a pattern that falls within the structural (Design Patterns > Structural Patterns) category. It focuses on how objects are composed to form composite structures.
 - **Client**: The client interacts with all elements through the component interface. As a result, the client can work with any of the elements in the same manner.

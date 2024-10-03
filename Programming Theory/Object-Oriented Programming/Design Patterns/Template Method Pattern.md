@@ -3,7 +3,7 @@ Created: 2024-09-17 17:34
 1. Computer
 2. Programming Theory
 3. Object-Oriented Programming
-4. [[Design Patterns]]
+4. [[Programming Theory/Object-Oriented Programming/Design Patterns/Design Patterns]]
 -- -
 Let's imagine that in our system several classes do the same thing but have some different details. Could it be that we have repeated code among these classes?
 ## Purpose

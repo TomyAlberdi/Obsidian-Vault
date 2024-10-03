@@ -3,7 +3,7 @@ Created: 2024-09-26 19:02
 1. Computer
 2. Programming Theory
 3. Object-Oriented Programming
-4. [[Design Patterns]]
+4. [[Programming Theory/Object-Oriented Programming/Design Patterns/Design Patterns]]
 -- -
 The **DAO (Data Access Object) pattern** helps decouple the data itself from the storage technology. In other words, the system is indifferent to whether we use PostgreSQL or MySQL because, in either case, the communication method remains the same.
 ## Solution

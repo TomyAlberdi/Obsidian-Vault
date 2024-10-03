@@ -3,7 +3,7 @@ Created: 2024-09-17 17:28
 1. Computer
 2. Programming Theory
 3. Object-Oriented Programming
-4. [[Design Patterns]]
+4. [[Programming Theory/Object-Oriented Programming/Design Patterns/Design Patterns]]
 -- -
 Let’s learn how to reduce the complexity of interacting with a group of subsystems by providing a single entry point.
 ## Purpose

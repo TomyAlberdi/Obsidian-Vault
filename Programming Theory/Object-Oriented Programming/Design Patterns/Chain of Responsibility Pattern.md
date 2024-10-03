@@ -3,7 +3,7 @@ Created: 2024-09-17 17:12
 1. Computer
 2. Programming Theory
 3. Object-Oriented Programming
-4. [[Design Patterns]]
+4. [[Programming Theory/Object-Oriented Programming/Design Patterns/Design Patterns]]
 -- -
 Let's see how we can solve problems when we are not sure which object should handle a specific request.
 ## Purpose

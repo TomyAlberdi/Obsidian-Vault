@@ -3,7 +3,7 @@ Created: 2024-09-17 17:30
 1. Computer
 2. Programming Theory
 3. Object-Oriented Programming
-4. [[Design Patterns]]
+4. [[Programming Theory/Object-Oriented Programming/Design Patterns/Design Patterns]]
 -- -
 Let's imagine we have a system, a class with a few attributes, and we need to instantiate it a large number of times. The Flyweight pattern (Design Patterns) allows us to have fewer instances and gives us the possibility to decorate them.
 ## Purpose

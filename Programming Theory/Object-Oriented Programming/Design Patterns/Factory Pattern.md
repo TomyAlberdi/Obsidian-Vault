@@ -3,7 +3,7 @@ Created: 2024-09-17 17:30
 1. Computer
 2. Programming Theory
 3. Object-Oriented Programming
-4. [[Design Patterns]]
+4. [[Programming Theory/Object-Oriented Programming/Design Patterns/Design Patterns]]
 -- -
 The Factory design pattern (Design Patterns) is one of the main design patterns and one of the most widely used in most programming languages today. It has two variations:
 - **Factory Method**:

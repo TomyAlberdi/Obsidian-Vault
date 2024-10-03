@@ -3,7 +3,7 @@ Created: 2024-09-17 17:33
 1. Computer
 2. Programming Theory
 3. Object-Oriented Programming
-4. [[Design Patterns]]
+4. [[Programming Theory/Object-Oriented Programming/Design Patterns/Design Patterns]]
 -- -
 When an object is required to have different behaviors depending on its current state, it can become complex to manage the change in behaviors and states of that object. The **State** pattern (Design Patterns) offers a good solution to this complication by essentially creating an object for each possible state of the invoking object.
 ### Solution:

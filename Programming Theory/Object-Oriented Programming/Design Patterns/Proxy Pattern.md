@@ -3,7 +3,7 @@ Created: 2024-09-17 17:32
 1. Computer
 2. Programming Theory
 3. Object-Oriented Programming
-4. [[Design Patterns]]
+4. [[Programming Theory/Object-Oriented Programming/Design Patterns/Design Patterns]]
 -- -
 Let’s see how we can use this Pattern (Design Patterns) to control access to an object, allowing us to perform something before or after the request reaches it.
 ## Purpose

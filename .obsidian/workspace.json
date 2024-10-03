@@ -14,8 +14,33 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "95ed9e131e3222ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/DefaultTemplate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c2f2e41c415c8a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend Development/Microservices Architecture/Spring Cloud/OpenFeign.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Backend Development/Microservices Architecture/Spring Cloud/OpenFeign.md"
+              }
             }
           },
           {
@@ -94,13 +121,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Backend Development/Microservices Architecture/Spring Cloud/OpenFeign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -110,8 +138,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Backend Development/Microservices Architecture/Spring Cloud/OpenFeign.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -149,10 +178,40 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "069a6a05191f89fb",
+  "active": "1c2f2e41c415c8a0",
   "lastOpenFiles": [
-    "Frontend Development/JavaScript/Sorting Methods.md",
+    "Backend Development/Microservices Architecture/Spring Cloud/OpenFeign.md",
+    "Templates/DefaultTemplate.md",
+    "Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Config.md",
+    "Backend Development/Microservices Architecture/Spring Cloud/attachments/image 3.png",
+    "Backend Development/Microservices Architecture/Spring Cloud/attachments/image 2.png",
+    "Backend Development/Microservices Architecture/Spring Cloud/Eureka Server.md",
+    "Backend Development/Microservices Architecture/Spring Cloud/attachments/image 1.png",
+    "Backend Development/Microservices Architecture/Spring Cloud/attachments/image.png",
+    "Backend Development/Microservices Architecture/Spring Cloud/attachments",
+    "Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud.md",
+    "Backend Development/Microservices Architecture/Spring Cloud",
+    "Backend Development/Microservices Architecture/Design Patterns/Non-Blocking Asynchronous Microservices.md",
     "Pending ClickUp.md",
+    "Backend Development/Microservices Architecture/Design Patterns/Centralized Monitoring.md",
+    "Backend Development/Microservices Architecture/Design Patterns/Circuit Breaker.md",
+    "Backend Development/Microservices Architecture/Design Patterns/Distributed Tracing.md",
+    "Backend Development/Microservices Architecture/Design Patterns/Log Aggregation.md",
+    "Backend Development/Microservices Architecture/Design Patterns/Central Configuration.md",
+    "Backend Development/Microservices Architecture/Design Patterns/Edge Server.md",
+    "Backend Development/Microservices Architecture/Design Patterns/Service Registry & Discovery.md",
+    "Frontend Development/React/Hooks/UseReducer.md",
+    "Backend Development/Microservices Architecture/Design Patterns/Design Patterns.md",
+    "Backend Development/Microservices Architecture/Design Patterns/attachments/clase-cierre-de-semana-ultima-3.jpg",
+    "Backend Development/Microservices Architecture/Design Patterns/attachments",
+    "Backend Development/Microservices Architecture/Microservices Architecture.md",
+    "Backend Development/Microservices Architecture/Design Patterns",
+    "Backend Development/Microservices Architecture/attachments/image 1.png",
+    "Backend Development/Microservices Architecture/attachments/image.png",
+    "Backend Development/Microservices Architecture/attachments",
+    "Backend Development/APIs.md",
+    "Backend Development/Microservices Architecture",
+    "Frontend Development/JavaScript/Sorting Methods.md",
     "Programming Theory/Computational Complexity.md",
     "Frontend Development/JavaScript/Matrix.md",
     "Frontend Development/JavaScript/Basic Syntax.md",
@@ -161,42 +220,12 @@
     "Testing/attachments",
     "Testing/Backend Testing.md",
     "Testing/Unit Testing.md",
-    "Templates/DefaultTemplate.md",
     "Testing/Debugging.md",
-    "Infrastructure Administration/DevOps/Monitoring.md",
-    "Infrastructure Administration/DevOps/Build & CI.md",
-    "Infrastructure Administration/DevOps/Release & CD.md",
-    "Infrastructure Administration/GitHub.md",
-    "Infrastructure Administration/DevOps/Artifacts.md",
-    "Infrastructure Administration/DevOps/DevOps.md",
-    "Infrastructure Administration/DevOps/Infrastructure as Code.md",
-    "Infrastructure Administration/DevOps/JenkinsFile.md",
-    "Infrastructure Administration/DevOps/Version Control.md",
-    "Infrastructure Administration/DevOps/Pipelines.md",
-    "Infrastructure Administration/DevOps/Ecosystem.md",
-    "Infrastructure Administration/Idempotency.md",
-    "Infrastructure Administration/Ansible.md",
     "Infrastructure Administration/DevOps",
     "Infrastructure Administration/Docker",
-    "Infrastructure Administration/Docker/Docker.md",
-    "Backend Development/Java/Spring Boot/MongoDB with Spring.md",
-    "Backend Development/Java/Hibernate.md",
     "Backend Development/attachments/image 1.png",
     "Backend Development/attachments/image.png",
-    "Backend Development/attachments/json-back-c25-3.jpg",
     "Backend Development/attachments",
-    "Backend Development/Java/Spring Boot/attachments/image.png",
-    "Backend Development/Java/Spring Boot/attachments",
-    "Backend Development/Java/Spring Boot",
-    "Backend Development/Java/attachments/image 1.png",
-    "Backend Development/Java/attachments/image.png",
-    "Backend Development/Java/attachments",
-    "attachments/image.png",
-    "attachments",
-    "Programming Theory/Object-Oriented Programming/Design Patterns/attachments/image.png",
-    "Frontend Development/React/Hooks/attachments/image 1.png",
-    "Frontend Development/React/Hooks/attachments",
-    "Frontend Development/React/Hooks",
     "Untitled.canvas"
   ]
 }

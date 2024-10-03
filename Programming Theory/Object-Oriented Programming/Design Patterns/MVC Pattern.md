@@ -3,7 +3,7 @@ Created: 2024-09-28 00:52
 1. Computer
 2. Programming Theory
 3. Object-Oriented Programming
-4. [[Design Patterns]]
+4. [[Programming Theory/Object-Oriented Programming/Design Patterns/Design Patterns]]
 -- -
 ## Pattern Model, View, Controller
 ### Advantages:
