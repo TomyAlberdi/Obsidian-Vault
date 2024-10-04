@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Development/Microservices Architecture/Spring Cloud/OpenFeign.md",
+                "file": "Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Sleuth + Zipkin.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "a9d6a7ecbcee5d95",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend Development/Microservices Architecture/Spring Cloud/OpenFeign.md"
+                "file": "Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Sleuth + Zipkin.md"
               }
             }
           },
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend Development/Microservices Architecture/Spring Cloud/OpenFeign.md",
+                "file": "Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Sleuth + Zipkin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend Development/Microservices Architecture/Spring Cloud/OpenFeign.md",
+                "file": "Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Sleuth + Zipkin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -167,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480.5,
-    "collapsed": true
+    "width": 480.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,8 +178,14 @@
   },
   "active": "1c2f2e41c415c8a0",
   "lastOpenFiles": [
-    "Backend Development/Microservices Architecture/Spring Cloud/OpenFeign.md",
+    "Backend Development/Microservices Architecture/Spring Cloud/Resilience4J.md",
+    "Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Sleuth + Zipkin.md",
+    "Backend Development/Microservices Architecture/Design Patterns/Circuit Breaker.md",
+    "Security/OAuth2.md",
+    "Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Gateway.md",
+    "Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Load Balancer.md",
     "Templates/DefaultTemplate.md",
+    "Backend Development/Microservices Architecture/Spring Cloud/OpenFeign.md",
     "Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Config.md",
     "Backend Development/Microservices Architecture/Spring Cloud/attachments/image 3.png",
     "Backend Development/Microservices Architecture/Spring Cloud/attachments/image 2.png",
@@ -194,7 +198,6 @@
     "Backend Development/Microservices Architecture/Design Patterns/Non-Blocking Asynchronous Microservices.md",
     "Pending ClickUp.md",
     "Backend Development/Microservices Architecture/Design Patterns/Centralized Monitoring.md",
-    "Backend Development/Microservices Architecture/Design Patterns/Circuit Breaker.md",
     "Backend Development/Microservices Architecture/Design Patterns/Distributed Tracing.md",
     "Backend Development/Microservices Architecture/Design Patterns/Log Aggregation.md",
     "Backend Development/Microservices Architecture/Design Patterns/Central Configuration.md",
@@ -214,13 +217,8 @@
     "Frontend Development/JavaScript/Sorting Methods.md",
     "Programming Theory/Computational Complexity.md",
     "Frontend Development/JavaScript/Matrix.md",
-    "Frontend Development/JavaScript/Basic Syntax.md",
-    "Testing/Selenium.md",
     "Testing/attachments/image.png",
     "Testing/attachments",
-    "Testing/Backend Testing.md",
-    "Testing/Unit Testing.md",
-    "Testing/Debugging.md",
     "Infrastructure Administration/DevOps",
     "Infrastructure Administration/Docker",
     "Backend Development/attachments/image 1.png",
