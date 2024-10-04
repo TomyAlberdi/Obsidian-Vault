@@ -33,14 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Sleuth + Zipkin.md",
+                "file": "Backend Development/Microservices Architecture/Spring Cloud/ELK Stack.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Sleuth + Zipkin.md"
-              }
+              "state": {}
             }
           },
           {
@@ -120,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Sleuth + Zipkin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Sleuth + Zipkin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480.5
+    "width": 480.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,10 +172,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1c2f2e41c415c8a0",
+  "active": "069a6a05191f89fb",
   "lastOpenFiles": [
-    "Backend Development/Microservices Architecture/Spring Cloud/Resilience4J.md",
+    "Backend Development/Microservices Architecture/Spring Cloud/ELK Stack.md",
+    "Backend Development/Microservices Architecture/Spring Cloud/RabbitMQ.md",
+    "Backend Development/Microservices Architecture/Spring Cloud/attachments/image 9.png",
+    "Backend Development/Microservices Architecture/Spring Cloud/attachments/image 8.png",
+    "Backend Development/Microservices Architecture/Spring Cloud/attachments/image 7.png",
+    "Backend Development/Microservices Architecture/Spring Cloud/attachments/image 6.png",
+    "Backend Development/Microservices Architecture/Spring Cloud/attachments/image 5.png",
     "Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Sleuth + Zipkin.md",
+    "Pending ClickUp.md",
+    "Backend Development/Microservices Architecture/Spring Cloud/attachments/image 4.png",
+    "Backend Development/Microservices Architecture/Spring Cloud/Resilience4J.md",
     "Backend Development/Microservices Architecture/Design Patterns/Circuit Breaker.md",
     "Security/OAuth2.md",
     "Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Gateway.md",
@@ -196,7 +201,6 @@
     "Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud.md",
     "Backend Development/Microservices Architecture/Spring Cloud",
     "Backend Development/Microservices Architecture/Design Patterns/Non-Blocking Asynchronous Microservices.md",
-    "Pending ClickUp.md",
     "Backend Development/Microservices Architecture/Design Patterns/Centralized Monitoring.md",
     "Backend Development/Microservices Architecture/Design Patterns/Distributed Tracing.md",
     "Backend Development/Microservices Architecture/Design Patterns/Log Aggregation.md",
@@ -205,24 +209,16 @@
     "Backend Development/Microservices Architecture/Design Patterns/Service Registry & Discovery.md",
     "Frontend Development/React/Hooks/UseReducer.md",
     "Backend Development/Microservices Architecture/Design Patterns/Design Patterns.md",
-    "Backend Development/Microservices Architecture/Design Patterns/attachments/clase-cierre-de-semana-ultima-3.jpg",
     "Backend Development/Microservices Architecture/Design Patterns/attachments",
     "Backend Development/Microservices Architecture/Microservices Architecture.md",
     "Backend Development/Microservices Architecture/Design Patterns",
-    "Backend Development/Microservices Architecture/attachments/image 1.png",
-    "Backend Development/Microservices Architecture/attachments/image.png",
     "Backend Development/Microservices Architecture/attachments",
     "Backend Development/APIs.md",
     "Backend Development/Microservices Architecture",
     "Frontend Development/JavaScript/Sorting Methods.md",
-    "Programming Theory/Computational Complexity.md",
-    "Frontend Development/JavaScript/Matrix.md",
-    "Testing/attachments/image.png",
     "Testing/attachments",
     "Infrastructure Administration/DevOps",
     "Infrastructure Administration/Docker",
-    "Backend Development/attachments/image 1.png",
-    "Backend Development/attachments/image.png",
     "Backend Development/attachments",
     "Untitled.canvas"
   ]
