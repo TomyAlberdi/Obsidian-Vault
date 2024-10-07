@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "069a6a05191f89fb",
+            "id": "63ae28acbbd486ba",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -172,8 +172,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "069a6a05191f89fb",
+  "active": "63ae28acbbd486ba",
   "lastOpenFiles": [
+    "Templates/DefaultTemplate.md",
+    "Frontend Development/React/React.md",
+    "Infrastructure Administration/GitHub.md",
+    "Infrastructure Administration/Git.md",
     "Backend Development/Microservices Architecture/Spring Cloud/ELK Stack.md",
     "Backend Development/Microservices Architecture/Spring Cloud/RabbitMQ.md",
     "Backend Development/Microservices Architecture/Spring Cloud/attachments/image 9.png",
@@ -189,7 +193,6 @@
     "Security/OAuth2.md",
     "Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Gateway.md",
     "Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Load Balancer.md",
-    "Templates/DefaultTemplate.md",
     "Backend Development/Microservices Architecture/Spring Cloud/OpenFeign.md",
     "Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Config.md",
     "Backend Development/Microservices Architecture/Spring Cloud/attachments/image 3.png",
@@ -210,12 +213,9 @@
     "Frontend Development/React/Hooks/UseReducer.md",
     "Backend Development/Microservices Architecture/Design Patterns/Design Patterns.md",
     "Backend Development/Microservices Architecture/Design Patterns/attachments",
-    "Backend Development/Microservices Architecture/Microservices Architecture.md",
     "Backend Development/Microservices Architecture/Design Patterns",
     "Backend Development/Microservices Architecture/attachments",
-    "Backend Development/APIs.md",
     "Backend Development/Microservices Architecture",
-    "Frontend Development/JavaScript/Sorting Methods.md",
     "Testing/attachments",
     "Infrastructure Administration/DevOps",
     "Infrastructure Administration/Docker",
