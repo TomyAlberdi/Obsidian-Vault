@@ -41,6 +41,11 @@
       "id": "WAUnnL8ED_K3dPC3ARdSe",
       "name": "Infrastructure Administration Pink",
       "value": "#ad5cd6"
+    },
+    {
+      "id": "5yVZYJzj_OEIh1NrZazDL",
+      "name": "FA Pink",
+      "value": "#d65cad"
     }
   ],
   "fileColors": [
@@ -75,6 +80,10 @@
     {
       "path": "Testing",
       "color": "LftauC_DtJhOA55BYIPt5"
+    },
+    {
+      "path": "FA-System",
+      "color": "5yVZYJzj_OEIh1NrZazDL"
     }
   ]
 }
