@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "20d6fd84e22b75af",
+        "id": "5f35adbc33d81cbb",
         "type": "tabs",
+        "dimension": 65.61604584527221,
         "children": [
           {
-            "id": "3b0b40274188c182",
+            "id": "aed11b3032cf5cad",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,12 +19,50 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fb251ba789b5f496",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FA-System/FA-Backend-Repositories.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a4aafee4e24a111",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FA-System/FA-Backend-Entities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07b4913829412d66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FA-System/FA-Backend-Controllers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4bb4d8e3daa00753",
         "type": "tabs",
+        "dimension": 34.38395415472779,
         "children": [
           {
             "id": "63ae28acbbd486ba",
@@ -101,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "a9d6a7ecbcee5d95",
@@ -128,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FA-System/FA-Database.md"
+                "file": "FA-System/FA-Backend-Repositories.md"
               }
             }
           },
@@ -138,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FA-System/FA-Database.md",
+                "file": "FA-System/FA-Backend-Repositories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FA-System/FA-Database.md",
+                "file": "FA-System/FA-Backend-Repositories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,8 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480.5,
-    "collapsed": true
+    "width": 480.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,15 +234,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4ed35a11f473b627",
+  "active": "fb251ba789b5f496",
   "lastOpenFiles": [
     "FA-System/FA-Backend.md",
+    "FA-System/FA-Backend-Controllers.md",
+    "FA-System/FA-Backend-Entities.md",
+    "FA-System/FA-Backend-Repositories.md",
+    "FA-System/FA-Database.md",
+    "FA-System/FA-Frontend.md",
+    "Untitled.md",
     "Infrastructure Administration/Docker/Docker.md",
     "Backend Development/Java/Hibernate.md",
     "Backend Development/Java/Spring Boot/Spring MVC.md",
     "Backend Development/Java/Spring Boot/Spring Boot MVC Controller Annotations.md",
     "Backend Development/Microservices Architecture/Spring Cloud/ELK Stack.md",
-    "FA-System/FA-Database.md",
     "FA-System/attachments/Pasted image 20241008154850.png",
     "FA-System/attachments/Pasted image 20241008154732.png",
     "Database Administration/Database Engines.md",
@@ -229,12 +273,7 @@
     "Backend Development/Microservices Architecture/Spring Cloud/Resilience4J.md",
     "Backend Development/Microservices Architecture/Design Patterns/Circuit Breaker.md",
     "Security/OAuth2.md",
-    "Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Gateway.md",
-    "Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Load Balancer.md",
-    "Backend Development/Microservices Architecture/Spring Cloud/OpenFeign.md",
-    "Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Config.md",
     "Backend Development/Microservices Architecture/Spring Cloud/attachments/image 3.png",
-    "Backend Development/Microservices Architecture/Spring Cloud/Eureka Server.md",
     "Backend Development/Microservices Architecture/Spring Cloud/attachments",
     "Backend Development/Microservices Architecture/Spring Cloud",
     "Backend Development/Microservices Architecture/Design Patterns/attachments",
