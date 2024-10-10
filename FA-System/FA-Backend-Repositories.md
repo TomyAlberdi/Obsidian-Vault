@@ -68,4 +68,15 @@ SELECT PartialProductDTO(p.id, p.name, p.price, p.saleUnit, p.priceSaleUnit, p.d
 ```
 Returns a page of filtered reduced data Products for Frontend filtered cards displaying.
 ## Category:
+### `CategoryRepository`:
+##### `findByName(String name)`:
+```sql
+SELECT c FROM Category c WHERE c.name = ?1
+```
+Retrieves a Category by name.
 ## Provider:
+### `ProviderREpository`:
+##### `findByName(String name)`:
+```sql
+SELECT p FROM Provider p WHERE p.name = ?1
+```

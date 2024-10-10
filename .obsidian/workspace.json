@@ -6,22 +6,10 @@
       {
         "id": "5f35adbc33d81cbb",
         "type": "tabs",
-        "dimension": 65.61604584527221,
+        "dimension": 61.03151862464183,
         "children": [
           {
             "id": "aed11b3032cf5cad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FA-System/FA-Backend.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb251ba789b5f496",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,13 +44,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4bb4d8e3daa00753",
         "type": "tabs",
-        "dimension": 34.38395415472779,
+        "dimension": 38.96848137535817,
         "children": [
           {
             "id": "63ae28acbbd486ba",
@@ -140,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "a9d6a7ecbcee5d95",
@@ -224,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480.5
+    "width": 480.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,20 +221,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fb251ba789b5f496",
+  "active": "aed11b3032cf5cad",
   "lastOpenFiles": [
     "FA-System/FA-Backend.md",
+    "FA-System/FA-Database.md",
+    "Backend Development/Microservices Architecture/Spring Cloud/ELK Stack.md",
+    "FA-System/FA-Backend-Repositories.md",
     "FA-System/FA-Backend-Controllers.md",
     "FA-System/FA-Backend-Entities.md",
-    "FA-System/FA-Backend-Repositories.md",
-    "FA-System/FA-Database.md",
     "FA-System/FA-Frontend.md",
     "Untitled.md",
     "Infrastructure Administration/Docker/Docker.md",
     "Backend Development/Java/Hibernate.md",
     "Backend Development/Java/Spring Boot/Spring MVC.md",
     "Backend Development/Java/Spring Boot/Spring Boot MVC Controller Annotations.md",
-    "Backend Development/Microservices Architecture/Spring Cloud/ELK Stack.md",
     "FA-System/attachments/Pasted image 20241008154850.png",
     "FA-System/attachments/Pasted image 20241008154732.png",
     "Database Administration/Database Engines.md",
