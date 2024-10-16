@@ -26,19 +26,20 @@ public Page<PartialProductDTO> getPaginatedPartialProducts(int page, int size) {
 #### `getFilteredPartialProducts(FilterDTO filterDTO, int page, int size)`:
 ```java
 public Page<PartialProductDTO> getFilteredPartialProducts(FilterDTO filterDTO, int page, int size) {  
+      
     Pageable pageable = PageRequest.of(page, size);  
       
-    Specification<Product> spec = Specification.where(ProductSpecifications.hasCategory(filterDTO.getCategoryId()))  
-            .and(ProductSpecifications.hasProvider(filterDTO.getProviderId()))  
-            .and(ProductSpecifications.hasMeasure(filterDTO.getMeasure()))  
-            .and(ProductSpecifications.priceBetween(filterDTO.getMinPrice(), filterDTO.getMaxPrice()))  
-            .and(ProductSpecifications.hasDiscount(filterDTO.getDiscount()));  
+    Specification<Product> spec = Specification.where(ProductSpecifications.hasCategory(filterDTO.getCategoryId())  
+                    .and(ProductSpecifications.hasProvider(filterDTO.getProviderId()))  
+                    .and(ProductSpecifications.hasMeasure(filterDTO.getMeasure()))  
+                    .and(ProductSpecifications.priceBetween(filterDTO.getMinPrice(), filterDTO.getMaxPrice()))  
+                    .and(ProductSpecifications.hasDiscount(filterDTO.getDiscount())));  
       
-    return productPaginationRepository.findAll(spec, pageable).map(product ->  
-            new PartialProductDTO(product.getId(), product.getName(), product.getPrice(), product.getSaleUnit(), product.getPriceSaleUnit(), product.getDiscountPercentage(), product.getDiscountedPrice(), product.getImages().get(0))  
-    );  
-}
-```
+    return productPaginationRepository.findAll(spec, pageable).map(product -> {  
+            String image = !product.getImages().isEmpty() ? product.getImages().get(0) : null;  
+            return new PartialProductDTO(product.getId(), product.getName(), product.getPrice(), product.getSaleUnit(), product.getPriceSaleUnit(), product.getDiscountPercentage(), product.getDiscountedPrice(), image);  
+    });  
+}```
 #### `searchProductsByKeyword(String keyword, int page, int size)`:
 ```java
 public Page<PartialProductDTO> searchProductsByKeyword(String keyword, int page, int size) {  
@@ -103,18 +104,6 @@ public Optional<List<String>> getProductTags(Long productId) {
 ```java
 public Optional<List<String>> getProductImages(Long productId) {  
     return productRepository.findById(productId).map(Product::getImages);  
-}
-```
-#### `getMeasure()`:
-```java
-public List<MeasureDTO> getMeasure() {  
-    return productRepository.getMeasures();  
-}
-```
-#### `getPrices()`:
-```java
-public PricesDTO getPrices() {  
-    return productRepository.getPrices();  
 }
 ```
 ## Category:
@@ -183,5 +172,19 @@ public Provider save(String name) {
 ```java
 public void deleteById(Long id) {  
     providerRepository.deleteById(id);  
+}
+```
+## Filter:
+### `FilterService`:
+#### `getMeasure()`:
+```java
+public List<MeasureDTO> getMeasure() {  
+    return productRepository.getMeasures();  
+}
+```
+#### `getPrices()`:
+```java
+public PricesDTO getPrices() {  
+    return productRepository.getPrices();  
 }
 ```

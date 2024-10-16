@@ -56,8 +56,28 @@ public ResponseEntity<?> save(@PathVariable String name) {
 public ResponseEntity<?> delete(@PathVariable Long id) {  
     Optional<Category> category = categoryService.findById(id);  
     if (category.isPresent()) {  
+        List<Long> productIds = categoryService.getIdByCategory(id);  
+        if (productIds.isEmpty()) {  
+            categoryService.deleteById(id);  
+            return ResponseEntity.ok("Category " + category.get().getName() + " deleted successfully");  
+        }  
+        return ResponseEntity.status(HttpStatus.CONFLICT).body("The category " + category.get().getName() + " has " + productIds.size() + " products associated to it. To delete all products and the category refer to /category/force/{id}.");  
+    }  
+    return notFound("ID", Long.toString(id));  
+}
+```
+#### `forceDelete(Long id)`:
+```java
+@DeleteMapping("/force/{id}")  
+public ResponseEntity<?> forceDelete(@PathVariable Long id) {  
+    Optional<Category> category = categoryService.findById(id);  
+    if (category.isPresent()) {  
+        List<Long> productIds = categoryService.getIdByCategory(id);  
+        if (!productIds.isEmpty()) {  
+            productService.deleteProductByCategoryId(id);  
+        }  
         categoryService.deleteById(id);  
-        return ResponseEntity.ok("Category with ID " + id + " deleted successfully");  
+        return ResponseEntity.ok("Category " + category.get().getName() + " and its products deleted successfully");  
     }  
     return notFound("ID", Long.toString(id));  
 }
@@ -107,8 +127,28 @@ public ResponseEntity<?> save(@PathVariable String name) {
 public ResponseEntity<?> delete(@PathVariable Long id) {  
     Optional<Provider> provider = providerService.findById(id);  
     if (provider.isPresent()) {  
+        List<Long> productIds = providerService.getIdByProvider(id);  
+        if (productIds.isEmpty()) {  
+            providerService.deleteById(id);  
+            return ResponseEntity.ok("Provider " + provider.get().getName() + " deleted successfully");  
+        }  
+        return ResponseEntity.status(HttpStatus.CONFLICT).body("The provider " + provider.get().getName() + " has " + productIds.size() + " products associated to it. To delete all products and the provider refer to /provider/force/{id}.");  
+    }  
+    return notFound("ID", Long.toString(id));  
+}
+```
+#### `forceDelete(Long id)`:
+```java
+@DeleteMapping("/force/{id}")  
+public ResponseEntity<?> forceDelete(@PathVariable Long id) {  
+    Optional<Provider> provider = providerService.findById(id);  
+    if (provider.isPresent()) {  
+        List<Long> productIds = providerService.getIdByProvider(id);  
+        if (!productIds.isEmpty()) {  
+            productService.deleteProductByProviderId(id);  
+        }  
         providerService.deleteById(id);  
-        return ResponseEntity.ok("Provider with ID " + id + " deleted successfully");  
+        return ResponseEntity.ok("Provider " + provider.get().getName() + " and its products deleted successfully");  
     }  
     return notFound("ID", Long.toString(id));  
 }
@@ -126,12 +166,15 @@ public ResponseEntity<Page<PartialProductDTO>> list(
 ```
 #### `searchProductByKeyword(int page, int size)`:
 ```java
-@GetMapping("/filterList")  
-public ResponseEntity<Page<PartialProductDTO>> getPartialProducts(  
-        FilterDTO filterDTO,  
+@GetMapping("/search/{keyword}")  
+public ResponseEntity<Page<PartialProductDTO>> searchProductByKeyword(  
+        @PathVariable String keyword,  
         @RequestParam(value = "page", defaultValue = "0") int page,  
         @RequestParam(value = "size", defaultValue = "9") int size) {  
-    return ResponseEntity.ok(productService.getFilteredPartialProducts(filterDTO, page, size));  
+    if (keyword.length() < 4) {  
+        return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(null);  
+    }  
+    return ResponseEntity.ok(productService.searchProductsByKeyword(keyword, page, size));  
 }
 ```
 #### `getById(Long id)`:
@@ -144,31 +187,20 @@ public ResponseEntity<?> getById(@PathVariable Long id) {
             : ResponseEntity.ok(product);  
 }
 ```
-#### `getMeasures()`:
+#### `save(Product product)`:
 ```java
-@GetMapping("/measures")  
-public ResponseEntity<?> getMeasures() {  
-    return ResponseEntity.ok(productService.getMeasure());  
-}
-```
-#### `getPrices()`:
-```java
-@GetMapping("/prices")  
-public ResponseEntity<?> getPrices() {  
-    return ResponseEntity.ok(productService.getPrices());  
-}
-```
-#### `addList(List<Product> products)`:
-```java
-@PostMapping("/addList")  
+@PostMapping()  
 // @PreAuthorize("hasAuthority('ROLE_admin')")  
-public ResponseEntity<?> addList(@Valid @RequestBody List<Product> products) {  
-    for (Product product : products) {  
-        if (productService.searchKeys(product.getCategoryId(), product.getProviderId())) {  
-            productService.add(product);  
-        }  
+public ResponseEntity<?> save(@Valid @RequestBody Product product) {  
+    Optional<Category> category = categoryService.findById(product.getCategoryId());  
+    Optional<Provider> provider = providerService.findById(product.getProviderId());  
+    if (!category.isPresent()) {  
+        return ResponseEntity.status(HttpStatus.BAD_REQUEST).body("Category with id " + product.getCategoryId() + " not found");  
+    } else if (!provider.isPresent()) {  
+        return ResponseEntity.status(HttpStatus.BAD_REQUEST).body("Provider with id " + product.getProviderId() + " not found");  
     }  
-    return ResponseEntity.status(HttpStatus.CREATED).body("Products with existing providers and categories created.");  
+    Product newProduct = productService.add(product);  
+    return ResponseEntity.status(HttpStatus.CREATED).body(newProduct);  
 }
 ```
 #### `deleteById(Long id)`:
@@ -203,5 +235,20 @@ public ResponseEntity<?> updateById(@Valid @RequestBody Product product) {
     }  
     productService.updateProduct(product);  
     return ResponseEntity.ok("Product updated.");  
+}
+```
+## FilterController:
+#### `getMeasures()`:
+```java
+@GetMapping("/measures")  
+public ResponseEntity<?> getMeasures() {  
+    return ResponseEntity.ok(filterService.getMeasure());  
+}
+```
+#### `getPrices()`:
+```java
+@GetMapping("/prices")  
+public ResponseEntity<?> getPrices() {  
+    return ResponseEntity.ok(filterService.getPrices());  
 }
 ```

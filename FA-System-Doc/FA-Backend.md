@@ -33,6 +33,11 @@
 #### [[FA-Backend-Services#`ProviderService`|ProviderService]]
 ### Controller:
 #### [[FA-Backend-Controllers#`ProviderController`|ProviderController]]
+## Filter
+### Entities:
+#### [[FA-Backend-Entities#`FilterDTO`|FilterDTO]]
+#### [[FA-Backend-Entities#`MeasureDTO`|MeasureDTO]]
+#### [[FA-Backend-Entities#`PricesDTO`|PricesDTO]]
 ## Hooks:
 ### [[FA-Backend-Hooks#`ProductSpecifications`|ProductSpecifications]]
 ## [[FA-Database|Database]] connection:
