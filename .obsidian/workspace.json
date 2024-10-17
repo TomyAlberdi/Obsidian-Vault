@@ -6,7 +6,7 @@
       {
         "id": "5f35adbc33d81cbb",
         "type": "tabs",
-        "dimension": 63.27241079199304,
+        "dimension": 87.26925525143221,
         "children": [
           {
             "id": "31c5ea6e19934bec",
@@ -17,7 +17,9 @@
                 "file": "FA-System-Doc/FA-Backend.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "FA-Backend"
             }
           },
           {
@@ -25,16 +27,17 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4bb4d8e3daa00753",
         "type": "tabs",
-        "dimension": 36.72758920800696,
+        "dimension": 12.73074474856779,
         "children": [
           {
             "id": "1c2f2e41c415c8a0",
@@ -45,7 +48,9 @@
                 "file": "Backend Development/Microservices Architecture/Spring Cloud/ELK Stack.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "ELK Stack"
             }
           }
         ]
@@ -73,7 +78,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -83,7 +90,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
@@ -109,7 +118,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -117,7 +128,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "FA-System-Doc/FA-Backend.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of FA-Backend"
             }
           },
           {
@@ -126,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "FA-System-Doc/FA-Backend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +149,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for FA-Backend"
             }
           },
           {
@@ -142,9 +160,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "FA-System-Doc/FA-Backend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from FA-Backend"
             }
           }
         ],
@@ -163,7 +184,9 @@
                 "file": "Pending ClickUp.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Pending ClickUp"
             }
           }
         ]
@@ -181,10 +204,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "44a97eddb5b24ae2",
+  "active": "31c5ea6e19934bec",
   "lastOpenFiles": [
-    "FA-System-Doc/FA-Frontend.md",
+    "Backend Development/Microservices Architecture/Spring Cloud/ELK Stack.md",
     "FA-System-Doc/FA-Backend.md",
+    "FA-System-Doc/FA-Frontend.md",
     "FA-System-Doc/FA-Backend-Entities.md",
     "FA-System-Doc/FA-Backend-Controllers.md",
     "FA-System-Doc/FA-Backend-Services.md",
@@ -192,7 +216,6 @@
     "FA-System-Doc/FA-Backend-Repositories.md",
     "FA-System-Doc/FA-Backend-Hooks.md",
     "FA-System-Doc/FA-Database.md",
-    "Backend Development/Microservices Architecture/Spring Cloud/ELK Stack.md",
     "Untitled.md",
     "Infrastructure Administration/Docker/Docker.md",
     "Backend Development/Java/Hibernate.md",
