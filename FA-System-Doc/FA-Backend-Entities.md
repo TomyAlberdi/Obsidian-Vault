@@ -38,6 +38,17 @@ public class Product {
     private Double discountedPrice;  
 }
 ```
+Product field details comparison:
+
+| Field            | Producto Cerámico                          | Producto Grifería |
+| ---------------- | ------------------------------------------ | ----------------- |
+| price            | $ por caja (unitPerBox * priceMeasureUnit) | $ por pieza       |
+| measures         | 71x71                                      | null              |
+| measureUnit      | M2                                         | null              |
+| priceMeasureUnit | $ por M2                                   | $ por pieza       |
+| saleUnit         | Caja                                       | Pieza             |
+| unitPerBox       | n M2 por caja                              | 1                 |
+
 ##### `Stock`:
 Basic Stock Entity.
 ```java
