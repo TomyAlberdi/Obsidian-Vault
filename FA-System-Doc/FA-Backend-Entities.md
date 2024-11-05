@@ -8,6 +8,15 @@ public class Category {
     private Integer productsAmount = 0;   
 }
 ```
+##### `SubCategory`:
+Basic Subcategory Entity.
+```java
+public class Subcategory {
+	private Long id;
+	private Long categoryId;
+	private Integer productsAmount = 0;
+}
+```
 ##### `Provider`:
 Basic Provider Entity.
 ```java
@@ -22,18 +31,23 @@ Basic Product Entity.
 ```java
 public class Product {  
     private Long id;  
+    private String name;  
+    private String description;  
+    private String quality;  
+    // External table data
     private Long providerId;  
     private Long categoryId;  
     private List<String> tags;  
     private List<String> images;  
-    private String name;  
-    private String description;  
-    private Double price;  
-    private String measures;  
-    private String saleUnit;  
-    private Double priceSaleUnit;  
-    private Double unitPerBox;  
-    private String quality;  
+    // Measure data
+	private String measureUnit; // M2, Pieza, Juego
+    private String measures;
+    private Double priceMeasureUnit;
+    // Sale unit data
+    private String saleUnit; // Caja, Pieza, Juego
+    private Double measurePerSaleUnit;
+    private Double saleUnitPrice;
+    // Discount data
     private Integer discountPercentage;  
     private Double discountedPrice;  
 }
@@ -77,18 +91,24 @@ public class CompleteProductDTO {
 	private Long id;  
 	private String name;  
 	private String description;  
-	private Double price;  
+	private String quality;  
+	
+	private String measureUnit;
 	private String measures;  
+	private Double measureUnitPrice;
+	
 	private String saleUnit;  
 	private Double priceSaleUnit;  
-	private Double unitPerBox;  
-	private String quality;  
+	private Double measurePerSaleUnit;
+	
 	private Integer discountPercentage;  
 	private Double discountedPrice;  
+	
 	private List<String> tags;  
 	private List<String> images;  
 	private String category;  
 	private String provider;  
+	
 	private Integer stock;    
 }
 ```
@@ -98,9 +118,8 @@ Partial Product DTO with reduced data and only one image.
 public class PartialProductDTO {  
     private Long id;  
     private String name;  
-    private Double price;  
-    private String salesUnit;  
-    private Double priceSaleUnit;  
+    private String measureUnit;  
+    private Double priceMeasureUnit;  
     private Integer discountPercentage;  
     private Double discountedPrice;  
     private String image;       

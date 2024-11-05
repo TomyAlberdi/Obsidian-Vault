@@ -4,5 +4,6 @@
   "alwaysUpdateLinks": true,
   "spellcheck": false,
   "attachmentFolderPath": "./attachments",
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "showLineNumber": false
 }
