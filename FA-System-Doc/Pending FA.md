@@ -24,3 +24,8 @@
 
 - [ ] Implementar product list filter functionality
 	- [ ] (Posible) Implementar filtro por subcategory
+
+- [ ] Implementar add product form functionality
+	- [ ] Crear S3 Bucket + Configurar
+	- [ ] Conectar frontend + backend para frontend image upload
+		- [ ] Crear página de image upload and listing (Delete option) (Consultar Santiago)
