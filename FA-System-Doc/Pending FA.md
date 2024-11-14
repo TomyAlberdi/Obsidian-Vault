@@ -12,7 +12,7 @@
 
 - Category, Subcategory & Provider *product lists*
 	- [ ] Fix Price
-		- [ ] Normalize `saleUnitPrice = measurePrice` in cases where `saleUnitType !== M2, ML, CM2`.
+		- [x] Normalize `saleUnitPrice = measurePrice` in cases where `saleUnitType !== M2, ML, CM2`.
 	- [ ] Fix Price unit (Currently only M2)
 
 - [ ] Implementar subcategory page
