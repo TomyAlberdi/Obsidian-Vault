@@ -17,10 +17,21 @@
 
 - [ ] Implementar subcategory page
 	- [x] Subcategory administration
-	- [ ] Add subcategory Link from Category page
+	- [ ] Add subcategory form from Category page
 
 - [ ] Implementar product page
-	- [ ] Add product link on product card click
+	- [x] Add product link on product card and product lists click.
+
+- [ ] Add product characteristics + create & update methods (**Tags field ??**)
+	- [ ] Color
+	- [ ] Aspecto
+	- [ ] Borde
+	- [ ] Origen
+	- [ ] Textura
+	- [ ] Tránsito
+
+- [x] (Backend) Implement product disabled/discontinued boolean field + corresponding methods.
+	- [x] Add filter by discontinued product.
 
 - [x] Implementar product list filter functionality
 	- [x] (Posible) Implementar filtro por subcategory
