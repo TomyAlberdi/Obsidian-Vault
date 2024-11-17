@@ -6,7 +6,6 @@
 
 - Modificar sistema de categorías:
 	- [x] Agregar subcategorías.
-	- [ ] (Posible) Agregar "Familia".
 	- [x] Modificar página de categoría con lista de subcategorías.
 	- [ ] (Posible) Agregar filtros de búsqueda de categorías y subcategorías.
 
@@ -15,9 +14,11 @@
 		- [x] Normalize `saleUnitPrice = measurePrice` in cases where `saleUnitType !== M2, ML, CM2`.
 	- [x] Fix Price unit (Currently only M2)
 
-- [ ] Implementar subcategory page
+- [x] Implementar subcategory page
 	- [x] Subcategory administration
-	- [ ] Add subcategory form from Category page
+	- [x] Add subcategory form from Category page
+
+- [ ] Implementar estilos de carga en botones de formularios (Disabled until request is fullfiled).
 
 - [ ] Implementar product page
 	- [x] Add product link on product card and product lists click.
