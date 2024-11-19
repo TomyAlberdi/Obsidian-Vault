@@ -19,17 +19,44 @@
 	- [x] Add subcategory form from Category page
 
 - [ ] Implementar estilos de carga en botones de formularios (Disabled until request is fullfiled).
+	- [x] Category
+	- [x] Subcategory
+	- [x] Provider
+	- [ ] Product
+
+- [ ] Display discounted price in category, subcategory, provider product lists.
+	- [ ] Add to DTO
+	- [ ] Modify Services.
 
 - [ ] Implementar product page
 	- [x] Add product link on product card and product lists click.
+	- [x] Image Carousel
+	- [x] Main Info
+	- [ ] Administration Panel
+		- [x] Button Visual
+		- [ ] Button Functionality
+			- [ ] Edit product. Create page + implement form (Possibly reuse Create Product page)
+			- [ ] Delete Product
+			- [ ] Disable/Enable Product
+			- [ ] Update Stock
+			- [ ] Download product detail
+	- [ ] Complementary Info
+		- [ ] Prettify Price
+		- [x] Stock & Last 5 records
+		- [ ] Characteristics
+			- [ ] Add tags for extra characteristics
+
+- [ ] Creat página lista completa de Product Stock
 
 - [ ] Add product characteristics + create & update methods (**Tags field ??**)
-	- [ ] Color
-	- [ ] Aspecto
-	- [ ] Borde
-	- [ ] Origen
-	- [ ] Textura
-	- [ ] Tránsito
+	- [ ] Create tags object (ex: {name: "color", value: "rojo"})
+	- [ ] Add to product:
+		- [ ] Color
+		- [ ] Aspecto
+		- [ ] Borde
+		- [ ] Origen
+		- [ ] Textura
+		- [ ] Tránsito
 
 - [x] (Backend) Implement product disabled/discontinued boolean field + corresponding methods.
 	- [x] Add filter by discontinued product.
