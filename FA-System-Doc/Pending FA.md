@@ -5,20 +5,18 @@
 	- [ ] Add Product
 	- [ ] Update Product
 
-- [ ] Display discounted price in category, subcategory, provider product lists.
-	- [ ] Add to DTO
-	- [ ] Modify Services.
-
 - [ ] Implementar product page
 	- [x] Add product link on product card and product lists click.
 	- [x] Image Carousel
 	- [x] Main Info
+		- [x] Add product ID
+		- [x] Add disabled product visual indicator
 	- [ ] Administration Panel
 		- [x] Button Visual
 		- [ ] Button Functionality
 			- [ ] Edit product. Create page + implement form (Possibly reuse Create Product page)
-			- [ ] Delete Product
-			- [ ] Disable/Enable Product
+			- [x] Delete Product
+			- [x] Disable/Enable Product
 			- [x] admin Stock
 			- [ ] Download product detail
 	- [ ] Complementary Info
@@ -28,11 +26,10 @@
 		- [ ] Characteristics
 			- [ ] Add tags for extra characteristics
 
-- [ ] Implementar barras de búsqueda (Products, Categories, Providers)
-
-- [ ] Crear página lista completa de Product Stock
-	- [x] Crear página de registros completos de product stock
-	- [ ] Implementar barra de búsqueda (Por Product name && Product ID)
+- [ ] Implementar barras de búsqueda and pagination
+	- [ ] Products
+	- [ ] Categories
+	- [ ] Providers
 
 - [ ] Add product characteristics + create & update methods (**Tags field ??**)
 	- [ ] Create tags object (ex: {name: "color", value: "rojo"})
