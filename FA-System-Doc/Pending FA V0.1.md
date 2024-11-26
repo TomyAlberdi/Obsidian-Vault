@@ -19,27 +19,22 @@
 			- [x] Disable/Enable Product
 			- [x] admin Stock
 			- [ ] Download product detail
-	- [ ] Complementary Info
-		- [ ] Prettify Price
-			- [ ] Add button to quick price & discount update
-				- [ ] Implement patch price & discount in backend
-		- [ ] Characteristics
-			- [ ] Add tags for extra characteristics
+	- [x] Complementary Info
+		- [x] Product Info cards
+		- [x] Characteristics cards
+
+- [ ] Implementar Tags/Characteristics product filter
+	- [ ] Update `ProductSpecifications`
+	- [ ] Modify FilterDTO (Tags IDs)
+	- [ ] Special multi-accordion filters
 
 - [ ] Implementar barras de búsqueda and pagination
 	- [ ] Products
+		- [ ] Add search bar 
+		- [ ] Modify backend filter function (Apply keyword search on top of filter results)
 	- [ ] Categories
 	- [ ] Providers
-
-- [ ] Add product characteristics + create & update methods (**Tags field ??**)
-	- [ ] Create tags object (ex: {name: "color", value: "rojo"})
-	- [ ] Add to product:
-		- [ ] Color
-		- [ ] Aspecto
-		- [ ] Borde
-		- [ ] Origen
-		- [ ] Textura
-		- [ ] Tránsito
+	- [x] Stock
 
 - [ ] Implementar add product form functionality
 	- [ ] Crear S3 Bucket + Configurar
