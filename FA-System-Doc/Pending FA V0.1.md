@@ -9,8 +9,6 @@
 	- [x] Add product link on product card and product lists click.
 	- [x] Image Carousel
 	- [x] Main Info
-		- [x] Add product ID
-		- [x] Add disabled product visual indicator
 	- [ ] Administration Panel
 		- [x] Button Visual
 		- [ ] Button Functionality
@@ -18,23 +16,13 @@
 			- [x] Delete Product
 			- [x] Disable/Enable Product
 			- [x] admin Stock
-			- [ ] Download product detail
+			- [x] Download product detail
 	- [x] Complementary Info
-		- [x] Product Info cards
-		- [x] Characteristics cards
 
 - [ ] Implementar Tags/Characteristics product filter
 	- [ ] Update `ProductSpecifications`
 	- [ ] Modify FilterDTO (Tags IDs)
 	- [ ] Special multi-accordion filters
-
-- [ ] Implementar barras de búsqueda and pagination
-	- [ ] Products
-		- [ ] Add search bar 
-		- [ ] Modify backend filter function (Apply keyword search on top of filter results)
-	- [ ] Categories
-	- [ ] Providers
-	- [x] Stock
 
 - [ ] Implementar add product form functionality
 	- [ ] Crear S3 Bucket + Configurar
