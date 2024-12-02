@@ -25,6 +25,15 @@
 	- [ ] Special multi-accordion filters
 
 - [ ] Implementar add product form functionality
-	- [ ] Crear S3 Bucket + Configurar
-	- [ ] Conectar frontend + backend para frontend image upload
-		- [ ] Crear página de image upload and listing (Delete option) (Consultar Santiago)
+	- [x] Crear S3 Bucket + Configurar
+	- [x] Conectar frontend + backend para frontend image upload
+	- [ ] Bug fixes: Unable to upload image to S3 and retrieve image URL for product creation.
+		- [ ] 403 forbidden in OPTIONS AWS request
+
+- [ ] Port All Services to AWS
+	- [ ] Configure Backend AWS Image upload (Change Credentials + User IAM)
+	- [ ] Create Backend JAR file (Maven)
+		- [ ] Upload to EC2 Instance
+	- [ ] Create Frontend build
+		- [ ] Upload to Amplify instance
+	- [ ] Ensure secure & correct connections between systems
