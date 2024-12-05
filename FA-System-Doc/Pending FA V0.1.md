@@ -1,28 +1,7 @@
-- [ ] Implementar estilos de carga en botones de formularios (Disabled until request is fullfiled).
-	- [x] Category
-	- [x] Subcategory
-	- [x] Provider
-	- [x] Add Product
-	- [ ] Update Product
-
-- [ ] Implementar product page
-	- [x] Add product link on product card and product lists click.
-	- [x] Image Carousel
-	- [x] Main Info
-	- [ ] Administration Panel
-		- [x] Button Visual
-		- [ ] Button Functionality
-			- [ ] Edit product. Create page + implement form (Possibly reuse Create Product page)
-			- [x] Delete Product
-			- [x] Disable/Enable Product
-			- [x] admin Stock
-			- [x] Download product detail
-	- [x] Complementary Info
-
-- [ ] Implementar Tags/Characteristics product filter
-	- [ ] Update `ProductSpecifications`
-	- [ ] Modify FilterDTO (Tags IDs)
-	- [ ] Special multi-accordion filters
+- [ ] Provider-wide product edits. E.g: +5% sale unit price to all products of `providerId=23`. (New Component)
+	- [ ] Create Button in Provider page.
+	- [ ] Attach Dialog to Button
+		- [ ] Create form with "Add discount" / "Increment Price" of provider products. Reuse Stock administration Dialog.
 
 - [ ] Port All Services to AWS
 	- [ ] Configure Backend AWS Image upload (Change Credentials + User IAM)
