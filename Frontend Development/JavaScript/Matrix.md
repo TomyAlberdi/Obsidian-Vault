@@ -1,7 +1,7 @@
 Created: 2024-09-17 15:44
 ## Family Tree:
 1. Computer
-2. Backend Development
+2. Frontend Development
 3. [[JavaScript]]
 -- -
 The simple concept of a matrix is that it is an array that holds other arrays. The complicated concept, on the other hand, is that it is a data structure that stores data in a two-dimensional form. They offer a complex but scalable structure for storing information. We can find them in applications that need to maintain cross-referenced information but within the same context, from search algorithms (Algorithm), electronic circuits, or image processing.

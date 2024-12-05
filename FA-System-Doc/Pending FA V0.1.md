@@ -2,7 +2,7 @@
 	- [x] Category
 	- [x] Subcategory
 	- [x] Provider
-	- [ ] Add Product
+	- [x] Add Product
 	- [ ] Update Product
 
 - [ ] Implementar product page
@@ -23,12 +23,6 @@
 	- [ ] Update `ProductSpecifications`
 	- [ ] Modify FilterDTO (Tags IDs)
 	- [ ] Special multi-accordion filters
-
-- [ ] Implementar add product form functionality
-	- [x] Crear S3 Bucket + Configurar
-	- [x] Conectar frontend + backend para frontend image upload
-	- [ ] Bug fixes: Unable to upload image to S3 and retrieve image URL for product creation.
-		- [ ] 403 forbidden in OPTIONS AWS request
 
 - [ ] Port All Services to AWS
 	- [ ] Configure Backend AWS Image upload (Change Credentials + User IAM)
