@@ -10,3 +10,5 @@
 	- [ ] Create Frontend build
 		- [ ] Upload to Amplify instance
 	- [ ] Ensure secure & correct connections between systems
+
+- [ ] Implementate add / remove discount by provider
