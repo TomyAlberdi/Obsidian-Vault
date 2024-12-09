@@ -97,10 +97,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FA-System-Doc/Pending FA.md"
+                "file": "FA-System-Doc/Pending FA V0.1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Pending FA"
+              "title": "Outline of Pending FA V0.1"
             }
           },
           {
@@ -135,9 +135,19 @@
               "icon": "links-going-out",
               "title": "Outgoing links from Pending FA"
             }
+          },
+          {
+            "id": "5cda27168d8d6722",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "f54913736fd7e602",
@@ -161,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480.5,
-    "collapsed": true
+    "width": 480.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,10 +179,11 @@
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": true,
       "templater-obsidian:Templater": false,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44a97eddb5b24ae2",
+  "active": "8d1bc3dd2f4ebe5c",
   "lastOpenFiles": [
     "FA-System-Doc/Pending FA V0.1.md",
     "Frontend Development/Frontend Development.md",
