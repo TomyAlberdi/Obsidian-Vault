@@ -183,8 +183,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d1bc3dd2f4ebe5c",
+  "active": "44a97eddb5b24ae2",
   "lastOpenFiles": [
+    "Infrastructure Administration/GitHub.md",
     "FA-System-Doc/Pending FA V0.1.md",
     "Frontend Development/Frontend Development.md",
     "Frontend Development/React/Components.md",
@@ -193,7 +194,6 @@
     "Frontend Development/JavaScript/JavaScript.md",
     "Computer System/Network/Routing.md",
     "Computer System/Hardware/Memory.md",
-    "Infrastructure Administration/GitHub.md",
     "Infrastructure Administration/Git.md",
     "Database Administration/SQL/SQL.md",
     "Database Administration/SQL/Joins.md",

@@ -13,4 +13,9 @@
 
 - [ ] Implementate add / remove discount by provider
 
+- [ ] Create Catalog home page graphics
+	- [x] Popular categories
+	- [ ] Latest Stock entries
+	- [ ] Popular Providers
+
 - [ ] Implement "Presupuestos"

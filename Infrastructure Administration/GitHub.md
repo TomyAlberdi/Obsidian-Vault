@@ -23,8 +23,9 @@ To move from one branch to another, execute the command `git checkout <branch_na
 Once we finish making the changes we want in our branch, we execute the same commands we have seen so far: `git add`, `git commit`, `git status`, and `git log`. But when we want to upload these changes, we must use `git push` with the name of the branch we are on: `git push origin <branch>`. Similarly, to fetch the changes from that branch, use `git pull` adding from where you want to fetch the changes: `git pull origin <branch>`.
 ## Cheat Sheet
 
-| Command                                                               | Usage                      |
-| --------------------------------------------------------------------- | -------------------------- |
-| `git remote set-url origin https://token@github.com/user/project.git` | Change origin URL or Token |
-| `git log -1 --pretty=%B`                                              | Get last commit message    |
-| `git reset --soft HEAD~`                                              | Cancel last commit         |
+| Command                                                               | Usage                                  |
+| --------------------------------------------------------------------- | -------------------------------------- |
+| `git remote set-url origin https://token@github.com/user/project.git` | Change origin URL or Token             |
+| `git log -1 --pretty=%B`                                              | Get last commit message                |
+| `git reset --soft HEAD~`                                              | Cancel last commit                     |
+| `git clone https://token@github.com/user/project.git`                 | Clone repository with authentification |
