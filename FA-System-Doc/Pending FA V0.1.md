@@ -15,7 +15,7 @@
 
 - [ ] Create Catalog home page graphics
 	- [x] Popular categories
-	- [ ] Latest Stock entries
+	- [x] Latest Stock entries
 	- [ ] Popular Providers
 
 - [ ] Implement "Presupuestos"
