@@ -11,10 +11,14 @@
             "id": "38c31c7c1b293fb4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "FA-System-Doc/Pending FA V0.1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Pending FA V0.1"
             }
           }
         ]
@@ -179,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5cda27168d8d6722",
+  "active": "38c31c7c1b293fb4",
   "lastOpenFiles": [
     "FA-System-Doc/Pending FA V0.1.md",
     "Database Administration/SQL/Joins.md",
