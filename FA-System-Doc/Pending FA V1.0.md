@@ -1,9 +1,99 @@
 ### Requests
 - [ ] Add "Costo" field (Diff from price)
+- [ ] Add "Clientes" functionality.
+- [ ] Add "Presupuestos" functionality.
 #### Backend:
 - [x] Automate service execution on instance startup
 - [x] Automate JAR upload to instance on build
 - [ ] Remove required from unnecessary provider fields.
+- [ ] Add "Clientes" functionality.
+	- [ ] Entity
+		- [ ] Diferenciar Persona jurídica (Factura A) (Responsable Inscripto/Empresas) /persona física (Factura B) (Consumidor final)
+			- [ ] Datos Persona jurídica:
+				- [ ] Razón social / Nombre cliente
+				- [ ] CUIT
+				- [ ] Dirección Comercial
+				- [ ] Prob Mail/Teléfono
+			- [ ] Datos persona física:
+				- [ ] Apellido y nombre
+				- [ ] Mail
+				- [ ] Documento
+				- [ ] Dirección
+				- [ ] Teléfono
+	- [ ] Repository (Regular + Pagination)
+	- [ ] Service
+	- [ ] Controller
+- [ ] Add "Presupuestos functionality"
+	- [ ] Entity
+		- [ ] Header (Probably omited in "Presupuestos", not in "Facturas")
+			- [ ] Tipo: Factura A / Factura B (Investigar diferencias y adaptar datos)
+			- [ ] Data Factura
+				- [ ] Date of emission
+				- [ ] Nro de Comprobante
+				- [ ] CUIT
+				- [ ] Ingresos Brutos (Prob same as CUIT)
+				- [ ] Fecha inicio de actividades
+				- [ ] Vendedor
+			- [ ] Data Comercio
+				- [ ] Razón Social
+				- [ ] Domicilio Comercial
+				- [ ] Teléfono
+				- [ ] Email
+				- [ ] Condición frente al IVA
+			- [ ] Data Cliente
+				- [ ] Razón social / Nombre cliente
+				- [ ] CUIT
+				- [ ] Dirección Comercial
+				- [ ] Condición frente al IVA
+		- [ ] Body
+			- [ ] Quantity
+			- [ ] "Metros" in M2 / "Milímetros" in ML (`measurePerSaleUnit` * Quantity)
+			- [ ] Product `code`
+			- [ ] Product Name
+			- [ ] Product `saleUnitPrice`
+			- [ ] Product `measurePrice`
+			- [ ] Alic. IVA (???)
+			- [ ] Subtotal IVA
+		- [ ] Footer
+			- [ ] Importe Neto Inicial (Quantity * Product `saleUnitPrice`)
+			- [ ] Discount (Percentage)
+			- [ ] Importe Neto with Discounts
+			- [ ] IVA (21% Importe Neto)
+			- [ ] Pert./Ret. Ingresos Brutos
+			- [ ] Importe Total
+			- [ ] Nro CAE (???)
+			- [ ] Fecha de vencimiento CAE (???)
+	- [ ] Repository (Regular + Pagination)
+	- [ ] Service
+	- [ ] Controller
 #### Frontend:
 - [x] Test product creation & image upload
-- [ ] Remove required from unnecessary provider fields in provider creation & upload forms.
+- [ ] Remove required from unnecessary provider fields in provider creation & upload form.
+- [ ] Create "Ventas" parent page (akin `Catalog`)
+	- [ ] Add link to Sidebar
+- [ ] Add "Clientes" Functionality
+	- [ ] Create "Clientes" Pagination Page
+	- [ ] Add to `routesConfig` and `BreadcrumbsHeader` `breadcrumbsHandles`
+	- [ ] Add link to Sidebar (Under Ventas)
+	- [ ] Consume API and add functions to context
+	- [ ] Create `ClientCard`
+	- [ ] Implement Pagination
+	- [ ] Create "Cliente by ID" Page
+		- [ ] Add to `routesConfig` and `BreadcrumbsHeader` `breadcrumbsHandles`
+		- [ ] Link `ClientCard`
+		- [ ] Consume API and add function to context (GET Cliente by ID)
+- [ ] Add "Presupuestos" functionality
+	- [ ] Create "Presupuestos" Pagination Page
+	- [ ] Add to `routesConfig` and `BreadcrumbsHeader` `breadcrumbsHandles`
+	- [ ] Add link to Sidebar (Under ventas)
+	- [ ] Consume API and add functions to context
+	- [ ] Create `PresupuestoCard`
+	- [ ] Implement Pagination
+	- [ ] Create "Presupuesto by ID" page
+		- [ ] Add to `routesConfig` and `BreadcrumbsHeader` `breadcrumbsHandles`
+		- [ ] Link `PresupuestoCard`
+		- [ ] Consume API and add function to context (GET Presupuestos by Client ID)
+	- [ ] Add "Presupuestos" section to "Cliente by ID" page (Table akin Product by Provider).
+		- [ ] Link table rows to "Presupuesto by ID" Page
+### Other:
+- [ ] Create GitHub wiki documentation
