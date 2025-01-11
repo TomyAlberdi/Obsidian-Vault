@@ -4,12 +4,11 @@ Created: 2024-09-22 15:44
 2. Infrastructure Administration
 3. [[Cloud]]
 -- -
-## Full Stack AWS Deploy
+## Database + Backend AWS Deploy
 ### Components
 - **RDS** for database.
 - **EC2** for backend.
-- **S3 Bucket** for storage.
-- **AWS Amplify** for frontend.
+- **S3 Bucket** for storage (Optional).
 ### Make sure RDS & EC2 are in the same VPC and security group:
 #### Modify the RDS Security Group:
 1. Go to the EC2 Dashboard and click on Security Groups under Network & Security on the left-hand menu.

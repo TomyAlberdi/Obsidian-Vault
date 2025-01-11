@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FA-System-Doc/Pending FA V0.1.md",
+                "file": "FA-System-Doc/Pending FA V1.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pending FA V0.1"
+              "title": "Pending FA V1.0"
             }
           }
         ]
@@ -185,7 +185,8 @@
   },
   "active": "38c31c7c1b293fb4",
   "lastOpenFiles": [
-    "FA-System-Doc/Pending FA V0.1.md",
+    "Infrastructure Administration/Cloud/AWS/AWS.md",
+    "FA-System-Doc/Pending FA V1.0.md",
     "Database Administration/SQL/Joins.md",
     "Database Administration/SQL/SQL.md",
     "Infrastructure Administration/GitHub.md",
@@ -213,7 +214,6 @@
     "FA-System-Doc/FA-Database.md",
     "Untitled.md",
     "Infrastructure Administration/Docker/Docker.md",
-    "Backend Development/Java/Hibernate.md",
     "FA-System-Doc/attachments/Pasted image 20241008154850.png",
     "FA-System/attachments/Pasted image 20241008154732.png",
     "FA-System/attachments/Pasted image 20241008152043.png",
