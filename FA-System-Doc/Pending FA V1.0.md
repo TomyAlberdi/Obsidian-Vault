@@ -1,28 +1,13 @@
 ### Requests
 - [ ] Add "Costo" field (Diff from price)
-- [ ] Add "Clientes" functionality.
-- [ ] Add "Presupuestos" functionality.
+- [ ] Add synchronized `measurePrice` field (Calculated with `saleUnitPrice` and `measurePerSaleUnit`)
 #### Backend:
-- [x] Automate service execution on instance startup
-- [x] Automate JAR upload to instance on build
-- [ ] Remove required from unnecessary provider fields.
 - [ ] Add "Clientes" functionality.
-	- [ ] Entity
-		- [ ] Diferenciar Persona jurídica (Factura A) (Responsable Inscripto/Empresas) /persona física (Factura B) (Consumidor final)
-			- [ ] Datos Persona jurídica:
-				- [ ] Razón social / Nombre cliente
-				- [ ] CUIT
-				- [ ] Dirección Comercial
-				- [ ] Prob Mail/Teléfono
-			- [ ] Datos persona física:
-				- [ ] Apellido y nombre
-				- [ ] Mail
-				- [ ] Documento
-				- [ ] Dirección
-				- [ ] Teléfono
-	- [ ] Repository (Regular + Pagination)
-	- [ ] Service
-	- [ ] Controller
+	- [x] Entity
+	- [x] Repository
+	- [x] Pagination Repository
+	- [x] Service
+	- [x] Controller
 - [ ] Add "Presupuestos functionality"
 	- [ ] Entity
 		- [ ] Header (Probably omited in "Presupuestos", not in "Facturas")
@@ -68,13 +53,10 @@
 	- [ ] Controller
 #### Frontend:
 - [x] Test product creation & image upload
-- [ ] Remove required from unnecessary provider fields in provider creation & upload form.
-- [ ] Create "Ventas" parent page (akin `Catalog`)
-	- [ ] Add link to Sidebar
 - [ ] Add "Clientes" Functionality
-	- [ ] Create "Clientes" Pagination Page
-	- [ ] Add to `routesConfig` and `BreadcrumbsHeader` `breadcrumbsHandles`
-	- [ ] Add link to Sidebar (Under Ventas)
+	- [x] Create "Clientes" Pagination Page
+	- [x] Add to `routesConfig` and `BreadcrumbsHeader` `breadcrumbsHandles`
+	- [x] Add link to Sidebar (Under Ventas)
 	- [ ] Consume API and add functions to context
 	- [ ] Create `ClientCard`
 	- [ ] Implement Pagination
