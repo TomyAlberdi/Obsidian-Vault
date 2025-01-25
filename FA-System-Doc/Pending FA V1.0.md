@@ -2,80 +2,29 @@
 - [ ] Add "Costo" field (Diff from price)
 - [ ] Add synchronized `measurePrice` field (Calculated with `saleUnitPrice` and `measurePerSaleUnit`)
 #### Backend:
-- [ ] Add "Clientes" functionality.
-	- [x] Entity
-	- [x] Repository
-	- [x] Pagination Repository
-	- [x] Service
-	- [x] Controller
-- [ ] Add "Presupuestos functionality"
-	- [ ] Entity
-		- [ ] Header (Probably omited in "Presupuestos", not in "Facturas")
-			- [ ] Tipo: Factura A / Factura B (Investigar diferencias y adaptar datos)
-			- [ ] Data Factura
-				- [ ] Date of emission
-				- [ ] Nro de Comprobante
-				- [ ] CUIT
-				- [ ] Ingresos Brutos (Prob same as CUIT)
-				- [ ] Fecha inicio de actividades
-				- [ ] Vendedor
-			- [ ] Data Comercio
-				- [ ] Razón Social
-				- [ ] Domicilio Comercial
-				- [ ] Teléfono
-				- [ ] Email
-				- [ ] Condición frente al IVA
-			- [ ] Data Cliente
-				- [ ] Razón social / Nombre cliente
-				- [ ] CUIT
-				- [ ] Dirección Comercial
-				- [ ] Condición frente al IVA
-		- [ ] Body
-			- [ ] Quantity
-			- [ ] "Metros" in M2 / "Milímetros" in ML (`measurePerSaleUnit` * Quantity)
-			- [ ] Product `code`
-			- [ ] Product Name
-			- [ ] Product `saleUnitPrice`
-			- [ ] Product `measurePrice`
-			- [ ] Alic. IVA (???)
-			- [ ] Subtotal IVA
-		- [ ] Footer
-			- [ ] Importe Neto Inicial (Quantity * Product `saleUnitPrice`)
-			- [ ] Discount (Percentage)
-			- [ ] Importe Neto with Discounts
-			- [ ] IVA (21% Importe Neto)
-			- [ ] Pert./Ret. Ingresos Brutos
-			- [ ] Importe Total
-			- [ ] Nro CAE (???)
-			- [ ] Fecha de vencimiento CAE (???)
-	- [ ] Repository (Regular + Pagination)
-	- [ ] Service
-	- [ ] Controller
+
 #### Frontend:
-- [x] Test product creation & image upload
-- [ ] Add "Clientes" Functionality
-	- [x] Create "Clientes" Pagination Page
-	- [x] Add to `routesConfig` and `BreadcrumbsHeader` `breadcrumbsHandles`
-	- [x] Add link to Sidebar (Under Ventas)
-	- [ ] Consume API and add functions to context
-	- [ ] Create `ClientCard`
-	- [ ] Implement Pagination
-	- [ ] Create "Cliente by ID" Page
-		- [ ] Add to `routesConfig` and `BreadcrumbsHeader` `breadcrumbsHandles`
-		- [ ] Link `ClientCard`
-		- [ ] Consume API and add function to context (GET Cliente by ID)
 - [ ] Add "Presupuestos" functionality
-	- [ ] Create "Presupuestos" Pagination Page
-	- [ ] Add to `routesConfig` and `BreadcrumbsHeader` `breadcrumbsHandles`
-	- [ ] Add link to Sidebar (Under ventas)
+	- [x] Create "Presupuestos" Page
+	- [x] Add to `routesConfig` and `BreadcrumbsHeader` `breadcrumbsHandles`
+	- [x] Add link to Sidebar (Under ventas)
 	- [ ] Consume API and add functions to context
+		- [ ] Implement presupuesto list by date
 	- [ ] Create `PresupuestoCard`
-	- [ ] Implement Pagination
 	- [ ] Create "Presupuesto by ID" page
 		- [ ] Add to `routesConfig` and `BreadcrumbsHeader` `breadcrumbsHandles`
 		- [ ] Link `PresupuestoCard`
 		- [ ] Consume API and add function to context (GET Presupuestos by Client ID)
 	- [ ] Add "Presupuestos" section to "Cliente by ID" page (Table akin Product by Provider).
 		- [ ] Link table rows to "Presupuesto by ID" Page
+	- [ ] Implement `AddPresupuesto` functionality
+		- [ ] Create Product List Pagination
+			- [ ] Style `ProductCard`
+			- [ ] Implement search form and input (keyword)
+			- [ ] Implement nested `Dialog` for `ProductQuantity` selection in every `ProductCard`
+				- [ ] Add extra info to `Dialog`
+					- [ ] `productQuantity * productMeasurePerSaleUnit` `productMeasureUnit` (e.g.: `10 * 2.45` = 24.5 `M2`)
+					- [ ] Subtotal
+				- [ ] Add Confirm Button and add to `form` `product` functionality
 ### Other:
 - [ ] Create GitHub wiki documentation
