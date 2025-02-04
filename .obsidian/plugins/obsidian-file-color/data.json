@@ -4,47 +4,47 @@
   "palette": [
     {
       "id": "VRtfK0feFv97PvpLAEKwI",
-      "name": "Computer System Red",
+      "name": "Red",
       "value": "#b75252"
     },
     {
       "id": "jj1jVT9rzgEYGdOmmkViu",
-      "name": "Security Orange",
+      "name": "Orange",
       "value": "#d6ad5c"
     },
     {
       "id": "PUgX6UEEdfHqYx-RDfryY",
-      "name": "Programming Theory Green",
+      "name": "Lime Green",
       "value": "#add65c"
     },
     {
       "id": "9UhP-gs4FE8chk2vjlxW7",
-      "name": "Frontend Development Green",
+      "name": "Light Green",
       "value": "#5cd65c"
     },
     {
       "id": "h4h6peMv5lzPiugo9YgJk",
-      "name": "Database Administration Green",
+      "name": "Aquamarine",
       "value": "#5cd6ad"
     },
     {
       "id": "LftauC_DtJhOA55BYIPt5",
-      "name": "Testing Blue",
+      "name": "Light Blue",
       "value": "#5cadd6"
     },
     {
       "id": "aUAOp9JVKunQCXoVX8_NF",
-      "name": "Backend Development Purple",
+      "name": "Light Purple",
       "value": "#5c5cd6"
     },
     {
       "id": "WAUnnL8ED_K3dPC3ARdSe",
-      "name": "Infrastructure Administration Pink",
+      "name": "Dark Pink",
       "value": "#ad5cd6"
     },
     {
       "id": "5yVZYJzj_OEIh1NrZazDL",
-      "name": "FA Pink",
+      "name": "Light Pink",
       "value": "#d65cad"
     }
   ],
@@ -84,6 +84,14 @@
     {
       "path": "Pending FA V1.0.md",
       "color": "5yVZYJzj_OEIh1NrZazDL"
+    },
+    {
+      "path": "Chemistry/Fundamentals of Chemistry",
+      "color": "VRtfK0feFv97PvpLAEKwI"
+    },
+    {
+      "path": "Chemistry/Fundamentals of Chemistry/Chemistry.md",
+      "color": "VRtfK0feFv97PvpLAEKwI"
     }
   ]
 }

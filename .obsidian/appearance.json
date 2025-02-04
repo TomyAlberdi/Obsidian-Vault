@@ -1,5 +1,6 @@
 {
   "accentColor": "#285886",
   "showViewHeader": true,
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "showRibbon": true
 }
