@@ -18,23 +18,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "003e6ea479bf20c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pending FA V1.0.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pending FA V1.0"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +84,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -111,10 +98,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FA-System-Doc/Pending FA V0.1.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pending FA V0.1"
+              "title": "Outline"
             }
           },
           {
@@ -177,9 +166,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "003e6ea479bf20c1",
+  "active": "c0139a16a41d40e0",
   "lastOpenFiles": [
+    "Computer Science/Infrastructure Administration/GitHub.md",
+    "Pending Modular Pomodoro.md",
+    "Pending FA V1.0.md",
     "Templates/DefaultTemplate.md",
+    "Computer Science/Infrastructure Administration/Cloud/AWS/AWS.md",
+    "Computer Science/Infrastructure Administration/DevOps/Release & CD.md",
+    "Computer Science/Infrastructure Administration/Git.md",
+    "Computer Science/Database Administration/SQL/SQL.md",
     "Templates/DefaultTemplate 1.md",
     "Chemistry/Fundamentals of Chemistry/Modern Principles.md",
     "Computer Science/Database Administration/SQL/Alteration Functions.md",
@@ -191,24 +187,17 @@
     "Chemistry",
     "Computer Science/Backend Development/Backend Development.md",
     "Computer Science",
-    "Pending FA V1.0.md",
     "Pending ClickUp.md",
     "FA-System-Doc/EML.canvas",
     "FA-System-Doc/FA-Backend.md",
-    "Computer Science/Infrastructure Administration/Cloud/AWS/AWS.md",
     "Computer Science/Programming Theory/Object-Oriented Programming/Design Patterns/MVC Pattern.md",
     "Computer Science/Database Administration/SQL/Joins.md",
-    "Computer Science/Database Administration/SQL/SQL.md",
-    "Computer Science/Infrastructure Administration/GitHub.md",
     "Computer Science/Frontend Development/Frontend Development.md",
     "Computer Science/Frontend Development/React/Components.md",
     "Computer Science/Frontend Development/React/Props.md",
     "Computer Science/Frontend Development/JavaScript/Matrix.md",
     "Computer Science/Frontend Development/JavaScript/JavaScript.md",
     "Computer Science/Computer System/Network/Routing.md",
-    "Computer Science/Computer System/Hardware/Memory.md",
-    "Computer Science/Infrastructure Administration/Git.md",
-    "Computer Science/Programming Theory/Object-Oriented Programming/Polymorphism.md",
     "Untitled.canvas",
     "FA-System-Doc/attachments/Pasted image 20241008154850.png",
     "FA-System/attachments/Pasted image 20241008154732.png",
