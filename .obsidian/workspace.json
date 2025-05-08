@@ -18,8 +18,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "8bf894e26f5ce66f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Clean Code/Naming Conventions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Naming Conventions"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,12 +181,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0139a16a41d40e0",
+  "active": "8bf894e26f5ce66f",
   "lastOpenFiles": [
-    "Computer Science/Infrastructure Administration/GitHub.md",
-    "Pending Modular Pomodoro.md",
-    "Pending FA V1.0.md",
+    "Computer Science/Security/Security.md",
+    "Computer Science/Clean Code/Naming Conventions.md",
+    "Templates/OrphanTemplate.md",
     "Templates/DefaultTemplate.md",
+    "Computer Science/Clean Code",
+    "Pending FA V1.0.md",
+    "Pending Modular Pomodoro.md",
+    "Computer Science/Infrastructure Administration/GitHub.md",
     "Computer Science/Infrastructure Administration/Cloud/AWS/AWS.md",
     "Computer Science/Infrastructure Administration/DevOps/Release & CD.md",
     "Computer Science/Infrastructure Administration/Git.md",
@@ -195,9 +214,6 @@
     "Computer Science/Frontend Development/Frontend Development.md",
     "Computer Science/Frontend Development/React/Components.md",
     "Computer Science/Frontend Development/React/Props.md",
-    "Computer Science/Frontend Development/JavaScript/Matrix.md",
-    "Computer Science/Frontend Development/JavaScript/JavaScript.md",
-    "Computer Science/Computer System/Network/Routing.md",
     "Untitled.canvas",
     "FA-System-Doc/attachments/Pasted image 20241008154850.png",
     "FA-System/attachments/Pasted image 20241008154732.png",
@@ -214,7 +230,6 @@
     "Computer Science/Backend Development/Microservices Architecture/Spring Cloud/attachments",
     "Computer Science/Backend Development/Microservices Architecture/Spring Cloud",
     "Backend Development/Microservices Architecture/Design Patterns/attachments",
-    "Computer Science/Backend Development/Microservices Architecture/Design Patterns",
-    "Computer Science/Backend Development/Microservices Architecture/attachments"
+    "Computer Science/Backend Development/Microservices Architecture/Design Patterns"
   ]
 }

@@ -46,6 +46,11 @@
       "id": "5yVZYJzj_OEIh1NrZazDL",
       "name": "Light Pink",
       "value": "#d65cad"
+    },
+    {
+      "id": "F1wre_WyT8eMIHi3RXYmh",
+      "name": "Blue",
+      "value": "#175b9b"
     }
   ],
   "fileColors": [
@@ -82,12 +87,8 @@
       "color": "LftauC_DtJhOA55BYIPt5"
     },
     {
-      "path": "Pending FA V1.0.md",
-      "color": "5yVZYJzj_OEIh1NrZazDL"
-    },
-    {
-      "path": "Pending Modular Pomodoro.md",
-      "color": "WAUnnL8ED_K3dPC3ARdSe"
+      "path": "Computer Science/Clean Code",
+      "color": "F1wre_WyT8eMIHi3RXYmh"
     }
   ]
 }
