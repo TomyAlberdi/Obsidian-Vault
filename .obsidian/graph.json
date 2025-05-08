@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 14048429
       }
+    },
+    {
+      "query": "path:Clean Code",
+      "color": {
+        "a": 1,
+        "rgb": 1530779
+      }
     }
   ],
   "collapse-display": true,
@@ -81,6 +88,6 @@
   "repelStrength": 18.0208333333333,
   "linkStrength": 1,
   "linkDistance": 89,
-  "scale": 0.22920135941749947,
+  "scale": 0.16348370567221004,
   "close": true
 }
