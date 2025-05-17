@@ -1,6 +1,6 @@
 Created: 2025-05-15 19:38
 ## Family Tree:
-1.  Clean Code
+1. Clean Code
 2. [[Functions]]
 -- -
 It's hard to make a small `switch` statement. It's even harder to make a `switch` statement that does one thing, as these code blocks do *N* things by nature.

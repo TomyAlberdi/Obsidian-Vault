@@ -15,3 +15,6 @@ In order to make sure our functions are doing "one thing", we need to make sure 
 Mixing levels of abstraction within a function is always confusing. Readers may not be able to tell whether a particular expression is an essential concept or a detail.
 ### *The Stepdown Rule*
 We want the code to read like a top-down narrative. Every function has to be followed by those at the next level of abstraction so that we can read the program descending one level of abstraction at a timer as we read down the list of functions.
+### Use Descriptive Names
+Don't be afraid to make a name long. A long descriptive name is better than a short enigmatic name. A long descriptive name is better than a long descriptive comment.
+Use a naming convention that allows multiple words to be easily read in the function names, and then make use of those multiple words to give the function a name that says what it does.
