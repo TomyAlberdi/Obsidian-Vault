@@ -18,8 +18,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "5f7a50b83137d317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clean Code/Comments/Good Comments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Good Comments"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 404.5
   },
   "right": {
     "id": "a9d6a7ecbcee5d95",
@@ -116,12 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Clean Code/Comments/Good Comments.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Good Comments"
             }
           },
           {
@@ -174,36 +190,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0139a16a41d40e0",
+  "active": "5f7a50b83137d317",
   "lastOpenFiles": [
-    "Clean Code/Comments.md",
-    "Clean Code/Functions/Functions.md",
-    "Clean Code/Functions/Arguments.md",
-    "Clean Code/Functions/Switch Statements.md",
-    "Computer Science/Backend Development/Go/Marshall Function.md",
-    "Clean Code/Functions/Untitled.md",
-    "Clean Code/Naming Conventions.md",
-    "Clean Code/Functions",
-    "Clean Code/Clean Code.md",
-    "Computer Science/Clean Code/Untitled.md",
-    "Clean Code/Clean Code.md",
-    "Computer Science/Security/Security.md",
-    "Templates/OrphanTemplate.md",
-    "Templates/DefaultTemplate.md",
-    "Clean Code",
-    "Pending FA V1.0.md",
-    "Pending Modular Pomodoro.md",
-    "Computer Science/Infrastructure Administration/GitHub.md",
-    "Computer Science/Infrastructure Administration/Cloud/AWS/AWS.md",
+    "Clean Code/Comments/Good Comments.md",
+    "Clean Code/Comments/Comments.md",
+    "Clean Code/Comments",
+    "Computer Science/Infrastructure Administration/Docker/Docker.md",
+    "Computer Science/Programming Theory/Object-Oriented Programming/Design Patterns/Design Patterns.md",
+    "Computer Science/Backend Development/Java/Spring Boot/MongoDB with Spring.md",
+    "Computer Science/Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud.md",
+    "Computer Science/Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Load Balancer.md",
+    "Computer Science/Backend Development/Microservices Architecture/Spring Cloud/OpenFeign.md",
+    "Computer Science/Backend Development/Microservices Architecture/Spring Cloud/Eureka Server.md",
+    "Computer Science/Backend Development/Microservices Architecture/Spring Cloud/ELK Stack.md",
+    "Computer Science/Infrastructure Administration/DevOps/JenkinsFile.md",
     "Computer Science/Infrastructure Administration/DevOps/Release & CD.md",
-    "Computer Science/Infrastructure Administration/Git.md",
-    "Computer Science/Database Administration/SQL/SQL.md",
-    "Templates/DefaultTemplate 1.md",
-    "Chemistry/Fundamentals of Chemistry/Modern Principles.md",
-    "Computer Science/Database Administration/SQL/Alteration Functions.md",
-    "Chemistry/Fundamentals of Chemistry/Chemistry.md",
-    "Chemistry/Fundamentals of Chemistry/Untitled.md",
-    "Computer Science/Computer System/Computer.md",
+    "Computer Science/Infrastructure Administration/DevOps/Artifacts.md",
+    "Computer Science/Infrastructure Administration/DevOps/DevOps.md",
+    "Computer Science/Infrastructure Administration/DevOps/Infrastructure as Code.md",
+    "Computer Science/Database Administration/Data Analytics/ETL.md",
+    "Computer Science/Database Administration/Data Analytics/Dimensions.md",
+    "Computer Science/Database Administration/Data Analytics/Data Manipulation.md",
+    "Computer Science/Backend Development/Go/Package-Oriented Design.md",
+    "Computer Science/Backend Development/Go/Godotenv package.md",
+    "Computer Science/Backend Development/Go/Concurrency and Paralelism.md",
+    "Computer Science/Backend Development/Go/Channels.md",
+    "Computer Science/Backend Development/Go/Go Web/Go Web.md",
+    "Computer Science/Backend Development/APIs.md",
+    "Computer Science/Backend Development/NodeJS/NodeJS.md",
+    "Computer Science/Backend Development/Java/Maven.md",
+    "Clean Code/Functions",
+    "Clean Code",
     "Chemistry/Fundamentals of Chemistry",
     "Chemistry",
     "Computer Science",
@@ -222,7 +239,6 @@
     "Computer Science/Backend Development/Microservices Architecture/Spring Cloud/attachments/image 4.png",
     "Computer Science/Backend Development/Microservices Architecture/Spring Cloud/attachments/image 3.png",
     "Computer Science/Backend Development/Microservices Architecture/Spring Cloud/attachments",
-    "Computer Science/Backend Development/Microservices Architecture/Spring Cloud",
-    "Backend Development/Microservices Architecture/Design Patterns/attachments"
+    "Computer Science/Backend Development/Microservices Architecture/Spring Cloud"
   ]
 }
