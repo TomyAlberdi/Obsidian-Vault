@@ -1,0 +1,4 @@
+Created: 2025-10-03 13:29
+-- -
+This is the first article in a series of articles about three.js. [Three.js](https://threejs.org) is a 3D library that tries to make it as easy as possible to get 3D content on a webpage.
+Three.js is often confused with WebGL since more often than not, but not always, three.js uses WebGL to draw 3D. [WebGL is a very low-level system that only draws points, lines, and triangles](https://webglfundamentals.org). To do anything useful with WebGL generally requires quite a bit of code and that is where three.js comes in. It handles stuff like scenes, lights, shadows, materials, textures, 3d math, all things that you'd have to write yourself if you were to use WebGL directly.
