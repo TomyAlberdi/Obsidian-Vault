@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5b8fa3548418640d",
+        "id": "60b12e4dbd26e948",
         "type": "tabs",
         "children": [
           {
-            "id": "56ccc94aae5b368d",
+            "id": "b61e6632b96092b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThreeJS/ThreeJS.md",
+                "file": "Examen de Conducir/Señalización.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ThreeJS"
+              "title": "Señalización"
             }
           }
         ]
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 404.5,
+    "collapsed": true
   },
   "right": {
     "id": "a9d6a7ecbcee5d95",
@@ -118,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThreeJS/ThreeJS.md",
+                "file": "Examen de Conducir/Señalización.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ThreeJS"
+              "title": "Outline of Señalización"
             }
           },
           {
@@ -173,16 +174,24 @@
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": true,
-      "templater-obsidian:Templater": false,
       "canvas:Create new canvas": false,
+      "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56ccc94aae5b368d",
+  "active": "b61e6632b96092b4",
   "lastOpenFiles": [
+    "Examen de Conducir/attachments/Pasted image 20251020180946.png",
+    "Examen de Conducir/attachments",
+    "Examen de Conducir/Señalización.md",
+    "Examen de Conducir/Velocidades Máximas y Mínimas.md",
+    "Examen de Conducir/Prioridades de Paso.md",
+    "Templates/DefaultTemplate.md",
+    "Examen de Conducir/Examen de Conducir.md",
+    "Examen de Conducir",
+    "Untitled.base",
     "ThreeJS/Quick Start.md",
     "ThreeJS/ThreeJS.md",
-    "Templates/DefaultTemplate.md",
     "ThreeJS/Quick Start",
     "ThreeJS",
     "NextJS/Week One/Week One.md",
@@ -216,14 +225,6 @@
     "Computer Science/Backend Development/Microservices Architecture/Spring Cloud/OpenFeign.md",
     "Computer Science/Backend Development/Microservices Architecture/Spring Cloud/Eureka Server.md",
     "Computer Science/Backend Development/Microservices Architecture/Spring Cloud/ELK Stack.md",
-    "Computer Science/Infrastructure Administration/DevOps/JenkinsFile.md",
-    "Computer Science/Infrastructure Administration/DevOps/Release & CD.md",
-    "Computer Science/Infrastructure Administration/DevOps/Artifacts.md",
-    "Computer Science/Infrastructure Administration/DevOps/DevOps.md",
-    "Computer Science/Infrastructure Administration/DevOps/Infrastructure as Code.md",
-    "Clean Code/Functions",
-    "Clean Code",
-    "Chemistry/Fundamentals of Chemistry",
     "FA-System-Doc/EML.canvas",
     "Untitled.canvas",
     "FA-System-Doc/attachments/Pasted image 20241008154850.png",
