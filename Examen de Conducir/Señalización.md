@@ -40,4 +40,14 @@ Created: 2025-10-20 17:52
 	1. Prevención.
 	2. Reglamentación.
 	3. Información.
-10. 
+10. Indique el significado de las siguientes señales:
+	1. ||Puesto de control|| 
+	   ![[Pasted image 20251118152218.png]]
+	2. ||Preferencia de avance||
+	   ![[Pasted image 20251118152323.png]]
+	3. ||Prohibido cambiar de carril||
+	   ![[Pasted image 20251118152542.png]]
+	4. ||Estrechamiento de calzada||
+	   ![[Pasted image 20251118200716.png]]
+	5. ||Puente angosto||
+	   ![[Pasted image 20251118201203.png]]
