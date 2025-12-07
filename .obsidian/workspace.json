@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "e89ed158071c41d7",
+        "id": "64d727d2042df218",
         "type": "tabs",
         "children": [
           {
-            "id": "c09d5d43f05f042f",
+            "id": "61496669ae9873db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Examen de Conducir/Maniobra de adelantamiento, giros y vías multicarril.md",
+                "file": "Capacitación CLP/Pisos y Revestimientos/Pisos y Revestimientos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maniobra de adelantamiento, giros y vías multicarril"
+              "title": "Pisos y Revestimientos"
+            }
+          },
+          {
+            "id": "ed9064a762cc06aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capacitación CLP/Griferías y Sanitarios/Griferías y Sanitarios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Griferías y Sanitarios"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Examen de Conducir/Maniobra de adelantamiento, giros y vías multicarril.md",
+                "file": "Capacitación CLP/Griferías y Sanitarios/Griferías y Sanitarios.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Maniobra de adelantamiento, giros y vías multicarril"
+              "title": "Outline of Griferías y Sanitarios"
             }
           },
           {
@@ -178,10 +193,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c09d5d43f05f042f",
+  "active": "ed9064a762cc06aa",
   "lastOpenFiles": [
-    "Examen de Conducir/Prioridades de Paso.md",
+    "Capacitación CLP/Pisos y Revestimientos/Pisos y Revestimientos.md",
+    "Capacitación CLP/Logística/Logística.md",
+    "Capacitación CLP/Pisos y Revestimientos/Pegamentos y Pastinas.md",
+    "Capacitación CLP/Logística",
+    "Untitled.canvas",
+    "Capacitación CLP/Griferías y Sanitarios/Griferías y Sanitarios.md",
+    "Capacitación CLP/Griferías y Sanitarios",
+    "Templates/DefaultTemplate.md",
+    "Capacitación CLP/Capacitación CLP.md",
+    "Capacitación CLP/Pisos y Revestimientos",
+    "Capacitación CLP/Untitled.md",
+    "Capacitación CLP",
     "Examen de Conducir/Maniobra de adelantamiento, giros y vías multicarril.md",
+    "Examen de Conducir/Prioridades de Paso.md",
     "Examen de Conducir/Examen de Conducir.md",
     "Examen de Conducir/Velocidades Máximas y Mínimas.md",
     "Examen de Conducir/Señalización.md",
@@ -197,7 +224,6 @@
     "NextJS/NextJS.md",
     "Examen de Conducir/attachments/Pasted image 20251020180946.png",
     "Examen de Conducir/attachments",
-    "Templates/DefaultTemplate.md",
     "Examen de Conducir",
     "Untitled.base",
     "ThreeJS/Quick Start.md",
@@ -211,22 +237,11 @@
     "NextJS/Week One/attachments/page-special-file.avif",
     "NextJS/Week One/attachments/project-organization-route-groups.avif",
     "NextJS/Week One/attachments/project-organization-private-folders.avif",
-    "NextJS/Week One/attachments",
-    "NextJS/Week One",
-    "NextJS",
     "Internet Archive Books API.md",
     "MS-Book-Tracker Notes.md",
     "Clean Code/Comments/Good Comments.md",
     "Clean Code/Comments/Comments.md",
-    "Clean Code/Comments",
     "Computer Science/Infrastructure Administration/Docker/Docker.md",
-    "Computer Science/Programming Theory/Object-Oriented Programming/Design Patterns/Design Patterns.md",
-    "Computer Science/Backend Development/Java/Spring Boot/MongoDB with Spring.md",
-    "Computer Science/Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud.md",
-    "Computer Science/Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Load Balancer.md",
-    "Computer Science/Backend Development/Microservices Architecture/Spring Cloud/OpenFeign.md",
-    "Computer Science/Backend Development/Microservices Architecture/Spring Cloud/Eureka Server.md",
-    "FA-System-Doc/EML.canvas",
-    "Untitled.canvas"
+    "FA-System-Doc/EML.canvas"
   ]
 }

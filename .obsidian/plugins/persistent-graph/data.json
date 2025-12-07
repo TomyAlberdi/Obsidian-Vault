@@ -2,1198 +2,1233 @@
   "nodePositions": [
     {
       "id": "Clean Code/Clean Code.md",
-      "x": -754.3832397460938,
-      "y": 1231.834716796875
+      "x": -849.9735717773438,
+      "y": 1166.317626953125
     },
     {
       "id": "Clean Code/Comments/Comments.md",
-      "x": -590.8539428710938,
-      "y": 1298.7821044921875
+      "x": -722.1483154296875,
+      "y": 1237.88623046875
     },
     {
       "id": "Clean Code/Comments/Good Comments.md",
-      "x": -459.89599609375,
-      "y": 1322.345947265625
+      "x": -608.22900390625,
+      "y": 1276.139404296875
     },
     {
       "id": "Clean Code/Functions/Arguments.md",
-      "x": -849.4088134765625,
-      "y": 1000.4320068359375
+      "x": -923.1251831054688,
+      "y": 955.6466674804688
     },
     {
       "id": "Clean Code/Functions/Functions.md",
-      "x": -888.188720703125,
-      "y": 1121.9881591796875
+      "x": -983.3241577148438,
+      "y": 1073.6153564453125
     },
     {
       "id": "Clean Code/Functions/Switch Statements.md",
-      "x": -1003.4552612304688,
-      "y": 1032.230224609375
+      "x": -1091.9283447265625,
+      "y": 979.8695678710938
     },
     {
       "id": "Clean Code/Naming Conventions.md",
-      "x": -664.1218872070312,
-      "y": 1147.1092529296875
+      "x": -754.1079711914062,
+      "y": 1072.114013671875
     },
     {
       "id": "Computer Science/Backend Development/APIs.md",
-      "x": 277.0805358886719,
-      "y": 90.72064208984375
+      "x": 340.6658935546875,
+      "y": 195.43881225585938
     },
     {
       "id": "Computer Science/Backend Development/Backend Development.md",
-      "x": 307.6419982910156,
-      "y": 244.3975830078125
+      "x": 375.52362060546875,
+      "y": 411.7936096191406
     },
     {
       "id": "Computer Science/Backend Development/Data Transfer Object.md",
-      "x": 448.05755615234375,
-      "y": 214.4176025390625
+      "x": 493.5356750488281,
+      "y": 340.83782958984375
     },
     {
       "id": "Computer Science/Backend Development/Go/Channels.md",
-      "x": 46.58336639404297,
-      "y": 861.8369750976562
+      "x": 11.48107624053955,
+      "y": 995.5593872070312
     },
     {
       "id": "Computer Science/Backend Development/Go/Concurrency and Paralelism.md",
-      "x": 116.4577865600586,
-      "y": 990.4152221679688
+      "x": 55.170509338378906,
+      "y": 1107.29443359375
     },
     {
       "id": "Computer Science/Backend Development/Go/Database-sql package.md",
-      "x": 154.4157257080078,
-      "y": 753.6796875
+      "x": 48.95481872558594,
+      "y": 875.7119140625
     },
     {
       "id": "Computer Science/Backend Development/Go/Documentation (Swaggo).md",
-      "x": 220.53250122070312,
-      "y": 1082.044921875
+      "x": 183.3643035888672,
+      "y": 1272.3621826171875
     },
     {
       "id": "Computer Science/Backend Development/Go/Errors.md",
-      "x": 481.8360900878906,
-      "y": 742.9275512695312
+      "x": 404.40771484375,
+      "y": 861.7955932617188
     },
     {
       "id": "Computer Science/Backend Development/Go/Go Web/DELETE.md",
-      "x": 34.33614730834961,
-      "y": 1405.6265869140625
+      "x": -125.0884017944336,
+      "y": 1428.3310546875
     },
     {
       "id": "Computer Science/Backend Development/Go/Go Web/Go Web.md",
-      "x": -45.33574676513672,
-      "y": 1252.945556640625
+      "x": -210.0045623779297,
+      "y": 1254.487548828125
     },
     {
       "id": "Computer Science/Backend Development/Go/Go Web/Go in Spring Cloud Environment.md",
-      "x": -76.66596984863281,
-      "y": 1119.603759765625
+      "x": -210.64334106445312,
+      "y": 1101.9205322265625
     },
     {
       "id": "Computer Science/Backend Development/Go/Go Web/Go with OpenID.md",
-      "x": 146.97262573242188,
-      "y": 1364.27099609375
+      "x": -27.167943954467773,
+      "y": 1359.0489501953125
     },
     {
       "id": "Computer Science/Backend Development/Go/Go Web/PATCH.md",
-      "x": -227.77102661132812,
-      "y": 1256.80810546875
+      "x": -396.7286071777344,
+      "y": 1254.37158203125
     },
     {
       "id": "Computer Science/Backend Development/Go/Go Web/POST.md",
-      "x": -194.61935424804688,
-      "y": 1141.5369873046875
+      "x": -328.8271789550781,
+      "y": 1155.4593505859375
     },
     {
       "id": "Computer Science/Backend Development/Go/Go Web/PUT.md",
-      "x": 89.23433685302734,
-      "y": 1259.08642578125
+      "x": -90.01371002197266,
+      "y": 1255.1812744140625
     },
     {
       "id": "Computer Science/Backend Development/Go/Go Web/Repository.md",
-      "x": -202.57762145996094,
-      "y": 1374.0657958984375
+      "x": -355.66729736328125,
+      "y": 1367.0802001953125
     },
     {
       "id": "Computer Science/Backend Development/Go/Go Web/Web Context.md",
-      "x": -85.5125503540039,
-      "y": 1400.3084716796875
+      "x": -243.58792114257812,
+      "y": 1409.8531494140625
     },
     {
       "id": "Computer Science/Backend Development/Go/Go.md",
-      "x": 304.5235290527344,
-      "y": 853.4916381835938
+      "x": 240.05819702148438,
+      "y": 1028.21630859375
     },
     {
       "id": "Computer Science/Backend Development/Go/Godotenv package.md",
-      "x": 474.90093994140625,
-      "y": 996.16015625
+      "x": 405.378662109375,
+      "y": 1099.099853515625
     },
     {
       "id": "Computer Science/Backend Development/Go/IO and Files.md",
-      "x": 327.53668212890625,
-      "y": 1136.308837890625
+      "x": 302.52764892578125,
+      "y": 1286.4146728515625
     },
     {
       "id": "Computer Science/Backend Development/Go/Interfaces.md",
-      "x": 356.60882568359375,
-      "y": 1016.2993774414062
+      "x": 293.24224853515625,
+      "y": 1166.7786865234375
     },
     {
       "id": "Computer Science/Backend Development/Go/Marshall Function.md",
-      "x": 259.5289306640625,
-      "y": 695.8743896484375
+      "x": 161.9283905029297,
+      "y": 835.2776489257812
     },
     {
       "id": "Computer Science/Backend Development/Go/Methods.md",
-      "x": 378.6622009277344,
-      "y": 681.8104858398438
+      "x": 276.23602294921875,
+      "y": 798.8026733398438
     },
     {
       "id": "Computer Science/Backend Development/Go/Package-Oriented Design.md",
-      "x": 419.596435546875,
-      "y": 887.4344482421875
+      "x": 297.7868347167969,
+      "y": 916.8377075195312
     },
     {
       "id": "Computer Science/Backend Development/Go/Panic.md",
-      "x": 243.8933868408203,
-      "y": 964.3740844726562
+      "x": 165.7709503173828,
+      "y": 1153.7008056640625
     },
     {
       "id": "Computer Science/Backend Development/Go/Pointers.md",
-      "x": 445.1986999511719,
-      "y": 1112.8475341796875
+      "x": 402.4565734863281,
+      "y": 1219.0419921875
     },
     {
       "id": "Computer Science/Backend Development/Go/Structures.md",
-      "x": 533.8743896484375,
-      "y": 851.0020751953125
+      "x": 422.6673278808594,
+      "y": 980.3822631835938
     },
     {
       "id": "Computer Science/Backend Development/Go/Syntax.md",
-      "x": 166.0011749267578,
-      "y": 873.098876953125
+      "x": 127.81867218017578,
+      "y": 966.1575317382812
     },
     {
       "id": "Computer Science/Backend Development/Java/Collections/Browsing Collections.md",
-      "x": 1089.8746337890625,
-      "y": -5.045914649963379
+      "x": 1070.7464599609375,
+      "y": 17.199913024902344
     },
     {
       "id": "Computer Science/Backend Development/Java/Collections/Collections.md",
-      "x": 1025.98681640625,
-      "y": 121.24098205566406
+      "x": 969.1961059570312,
+      "y": 120.15958404541016
     },
     {
       "id": "Computer Science/Backend Development/Java/Collections/Operating Collections.md",
-      "x": 1187.14453125,
-      "y": 77.73922729492188
+      "x": 1121.316162109375,
+      "y": 150.52127075195312
     },
     {
       "id": "Computer Science/Backend Development/Java/Equality and Ordering.md",
-      "x": 685.6591796875,
-      "y": 192.15611267089844
+      "x": 725.2415161132812,
+      "y": 185.30294799804688
     },
     {
       "id": "Computer Science/Backend Development/Java/Exceptions/Custom Exceptions.md",
-      "x": 1031.9249267578125,
-      "y": 686.8790283203125
+      "x": 948.7283325195312,
+      "y": 786.22607421875
     },
     {
       "id": "Computer Science/Backend Development/Java/Exceptions/Exception class.md",
-      "x": 1141.5408935546875,
-      "y": 613.719482421875
+      "x": 1068.671142578125,
+      "y": 817.9673461914062
     },
     {
       "id": "Computer Science/Backend Development/Java/Exceptions/Exceptions.md",
-      "x": 994.5629272460938,
-      "y": 550.0068969726562
+      "x": 969.2042846679688,
+      "y": 654.871826171875
     },
     {
       "id": "Computer Science/Backend Development/Java/Hibernate.md",
-      "x": 768.2445068359375,
-      "y": 105.17565155029297
+      "x": 842.7821044921875,
+      "y": 209.4002685546875
     },
     {
       "id": "Computer Science/Backend Development/Java/Interfaces.md",
-      "x": 945.1102294921875,
-      "y": 382.9133605957031
+      "x": 975.3801879882812,
+      "y": 459.6966247558594
     },
     {
       "id": "Computer Science/Backend Development/Java/Java Persistence API.md",
-      "x": 747.5015258789062,
-      "y": 514.756591796875
+      "x": 741.0555419921875,
+      "y": 534.5115966796875
     },
     {
       "id": "Computer Science/Backend Development/Java/Java.md",
-      "x": 801.9935913085938,
-      "y": 318.532958984375
+      "x": 845.9813842773438,
+      "y": 379.33514404296875
     },
     {
       "id": "Computer Science/Backend Development/Java/Log4J.md",
-      "x": 948.6377563476562,
-      "y": 262.9912414550781
+      "x": 1037.661376953125,
+      "y": 357.127685546875
     },
     {
       "id": "Computer Science/Backend Development/Java/Maven.md",
-      "x": 645.5481567382812,
-      "y": 305.18756103515625
+      "x": 712.4973754882812,
+      "y": 304.6065979003906
     },
     {
       "id": "Computer Science/Backend Development/Java/Object Class.md",
-      "x": 855.6695556640625,
-      "y": 462.8693542480469
+      "x": 860.9765014648438,
+      "y": 530.3983154296875
     },
     {
       "id": "Computer Science/Backend Development/Java/Serialization.md",
-      "x": 670.8561401367188,
-      "y": 422.4674072265625
+      "x": 693.7654418945312,
+      "y": 424.2243957519531
     },
     {
       "id": "Computer Science/Backend Development/Java/Spring Boot/MongoDB with Spring.md",
-      "x": 1228.0877685546875,
-      "y": 489.39666748046875
+      "x": 1183.591796875,
+      "y": 734.5512084960938
     },
     {
       "id": "Computer Science/Backend Development/Java/Spring Boot/Response Entity.md",
-      "x": 1332.023193359375,
-      "y": 302.08294677734375
+      "x": 1316.591064453125,
+      "y": 536.3829956054688
     },
     {
       "id": "Computer Science/Backend Development/Java/Spring Boot/Spring Boot MVC Controller Annotations.md",
-      "x": 1327.3438720703125,
-      "y": 421.9866943359375
+      "x": 1280.030029296875,
+      "y": 663.15380859375
     },
     {
       "id": "Computer Science/Backend Development/Java/Spring Boot/Spring Boot.md",
-      "x": 1157.8326416015625,
-      "y": 355.03045654296875
+      "x": 1152.014892578125,
+      "y": 571.1922607421875
     },
     {
       "id": "Computer Science/Backend Development/Java/Spring Boot/Spring MVC.md",
-      "x": 1235.683837890625,
-      "y": 230.54718017578125
+      "x": 1231.94287109375,
+      "y": 444.0940246582031
     },
     {
       "id": "Computer Science/Backend Development/Java/Stream of data.md",
-      "x": 862.1299438476562,
-      "y": 179.84762573242188
+      "x": 948.2037353515625,
+      "y": 277.16827392578125
     },
     {
       "id": "Computer Science/Backend Development/Microservices Architecture/Design Patterns/Central Configuration.md",
-      "x": 783.0313110351562,
-      "y": 1173.7095947265625
+      "x": 771.6030883789062,
+      "y": 1201.053955078125
     },
     {
       "id": "Computer Science/Backend Development/Microservices Architecture/Design Patterns/Centralized Monitoring.md",
-      "x": 974.1172485351562,
-      "y": 1029.9468994140625
+      "x": 931.7548217773438,
+      "y": 1050.57373046875
     },
     {
       "id": "Computer Science/Backend Development/Microservices Architecture/Design Patterns/Circuit Breaker.md",
-      "x": 786.665283203125,
-      "y": 798.7799072265625
+      "x": 644.2302856445312,
+      "y": 851.4208984375
     },
     {
       "id": "Computer Science/Backend Development/Microservices Architecture/Design Patterns/Design Patterns.md",
-      "x": 831.5039672851562,
-      "y": 942.7660522460938
+      "x": 715.6831665039062,
+      "y": 988.927734375
     },
     {
       "id": "Computer Science/Backend Development/Microservices Architecture/Design Patterns/Distributed Tracing.md",
-      "x": 1019.184814453125,
-      "y": 918.6617431640625
+      "x": 864.8237915039062,
+      "y": 950.5479125976562
     },
     {
       "id": "Computer Science/Backend Development/Microservices Architecture/Design Patterns/Edge Server.md",
-      "x": 925.8677368164062,
-      "y": 841.114990234375
+      "x": 764.8433837890625,
+      "y": 847.458740234375
     },
     {
       "id": "Computer Science/Backend Development/Microservices Architecture/Design Patterns/Log Aggregation.md",
-      "x": 872.6270751953125,
-      "y": 1093.941650390625
+      "x": 818.7315673828125,
+      "y": 1090.7677001953125
     },
     {
       "id": "Computer Science/Backend Development/Microservices Architecture/Design Patterns/Non-Blocking Asynchronous Microservices.md",
-      "x": 697.995849609375,
-      "y": 1089.11181640625
+      "x": 651.6529541015625,
+      "y": 1203.3284912109375
     },
     {
       "id": "Computer Science/Backend Development/Microservices Architecture/Design Patterns/Service Registry & Discovery.md",
-      "x": 714.7073974609375,
-      "y": 970.290283203125
+      "x": 632.1356811523438,
+      "y": 1084.9373779296875
     },
     {
       "id": "Computer Science/Backend Development/Microservices Architecture/Microservices Architecture.md",
-      "x": 455.00048828125,
-      "y": 523.9335327148438
+      "x": 417.84423828125,
+      "y": 630.6065063476562
     },
     {
       "id": "Computer Science/Backend Development/Microservices Architecture/Spring Cloud/ELK Stack.md",
-      "x": 138.64614868164062,
-      "y": 526.2940063476562
+      "x": 157.14511108398438,
+      "y": 532.6936645507812
     },
     {
       "id": "Computer Science/Backend Development/Microservices Architecture/Spring Cloud/Eureka Server.md",
-      "x": 172.39913940429688,
-      "y": 401.41229248046875
+      "x": 168.71240234375,
+      "y": 387.0872802734375
     },
     {
       "id": "Computer Science/Backend Development/Microservices Architecture/Spring Cloud/OpenFeign.md",
-      "x": -82.4546127319336,
-      "y": 396.4205627441406
+      "x": -63.41990280151367,
+      "y": 370.9757995605469
     },
     {
       "id": "Computer Science/Backend Development/Microservices Architecture/Spring Cloud/RabbitMQ.md",
-      "x": 80.26434326171875,
-      "y": 308.69464111328125
+      "x": 114.94049072265625,
+      "y": 268.9794006347656
     },
     {
       "id": "Computer Science/Backend Development/Microservices Architecture/Spring Cloud/Resilience4J.md",
-      "x": -17.85466957092285,
-      "y": 239.65235900878906
+      "x": 8.386336326599121,
+      "y": 213.89674377441406
     },
     {
       "id": "Computer Science/Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Config.md",
-      "x": -2.522003173828125,
-      "y": 611.4882202148438
+      "x": 33.476097106933594,
+      "y": 589.13623046875
     },
     {
       "id": "Computer Science/Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Gateway.md",
-      "x": -118.82088470458984,
-      "y": 582.0523681640625
+      "x": -81.50628662109375,
+      "y": 554.83056640625
     },
     {
       "id": "Computer Science/Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Load Balancer.md",
-      "x": -128.6463623046875,
-      "y": 285.7109375
+      "x": -103.2565689086914,
+      "y": 257.8326110839844
     },
     {
       "id": "Computer Science/Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud Sleuth + Zipkin.md",
-      "x": -173.07699584960938,
-      "y": 475.0299377441406
+      "x": -150.74224853515625,
+      "y": 453.23834228515625
     },
     {
       "id": "Computer Science/Backend Development/Microservices Architecture/Spring Cloud/Spring Cloud.md",
-      "x": 25.10886573791504,
-      "y": 453.39208984375
+      "x": 45.09174728393555,
+      "y": 429.560546875
     },
     {
       "id": "Computer Science/Backend Development/NodeJS/NodeJS.md",
-      "x": 387.64727783203125,
-      "y": 348.6688537597656
+      "x": 480.88653564453125,
+      "y": 497.4898681640625
     },
     {
       "id": "Computer Science/Backend Development/ORM.md",
-      "x": 407.4714050292969,
-      "y": 101.49893188476562
+      "x": 456.513427734375,
+      "y": 226.70408630371094
     },
     {
       "id": "Computer Science/Backend Development/Parameters.md",
-      "x": 165.56863403320312,
-      "y": 135.00111389160156
+      "x": 300.2485046386719,
+      "y": 308.4041748046875
     },
     {
       "id": "Computer Science/Computer System/Computer.md",
-      "x": -77.13465881347656,
-      "y": -374.2591247558594
+      "x": -41.21285629272461,
+      "y": -352.94354248046875
     },
     {
       "id": "Computer Science/Computer System/Hardware/CPU.md",
-      "x": -70.458251953125,
-      "y": -572.5761108398438
+      "x": 18.85721778869629,
+      "y": -626.542724609375
     },
     {
       "id": "Computer Science/Computer System/Hardware/Hardware.md",
-      "x": 63.21854782104492,
-      "y": -545.4420776367188
+      "x": 136.37857055664062,
+      "y": -564.5033569335938
     },
     {
       "id": "Computer Science/Computer System/Hardware/Main Memory.md",
-      "x": 322.3056335449219,
-      "y": -745.8480224609375
+      "x": 428.6617126464844,
+      "y": -716.1376342773438
     },
     {
       "id": "Computer Science/Computer System/Hardware/Memory.md",
-      "x": 189.79750061035156,
-      "y": -706.1598510742188
+      "x": 301.8703308105469,
+      "y": -678.3947143554688
     },
     {
       "id": "Computer Science/Computer System/Hardware/Secondary Memory.md",
-      "x": 115.50643920898438,
-      "y": -821.0996704101562
+      "x": 257.71258544921875,
+      "y": -798.9054565429688
     },
     {
       "id": "Computer Science/Computer System/Hardware/Von Neumann Architecture.md",
-      "x": 13.952280044555664,
-      "y": -675.8876953125
+      "x": 108.88263702392578,
+      "y": -710.2837524414062
     },
     {
       "id": "Computer Science/Computer System/Network/Addresses.md",
-      "x": -380.28509521484375,
-      "y": -370.19354248046875
+      "x": -335.3702087402344,
+      "y": -472.0270080566406
     },
     {
       "id": "Computer Science/Computer System/Network/Internet Protocol.md",
-      "x": -181.23558044433594,
-      "y": -268.1092224121094
+      "x": -178.49819946289062,
+      "y": -275.7966003417969
     },
     {
       "id": "Computer Science/Computer System/Network/Network.md",
-      "x": -226.76803588867188,
-      "y": -409.4608459472656
+      "x": -169.11422729492188,
+      "y": -430.2402038574219
     },
     {
       "id": "Computer Science/Computer System/Network/OSI Model.md",
-      "x": -380.61370849609375,
-      "y": -490.1871337890625
+      "x": -247.64303588867188,
+      "y": -565.281494140625
     },
     {
       "id": "Computer Science/Computer System/Network/Ports.md",
-      "x": -301.5724792480469,
-      "y": -265.9525146484375
+      "x": -290.5863342285156,
+      "y": -345.7758483886719
     },
     {
       "id": "Computer Science/Computer System/Network/Routing.md",
-      "x": -254.2899169921875,
-      "y": -547.2227783203125
+      "x": -112.5698471069336,
+      "y": -553.4570922851562
     },
     {
       "id": "Computer Science/Computer System/Software/Operating System.md",
-      "x": -10.023298263549805,
-      "y": -37.49899673461914
+      "x": 44.92988204956055,
+      "y": -38.34275436401367
     },
     {
       "id": "Computer Science/Computer System/Software/Remote Desktops and VM.md",
-      "x": -152.01268005371094,
-      "y": -48.36018753051758
+      "x": -108.73577117919922,
+      "y": -42.0420036315918
     },
     {
       "id": "Computer Science/Computer System/Software/Software.md",
-      "x": -44.91136169433594,
-      "y": -169.0010986328125
+      "x": -26.73917579650879,
+      "y": -163.7872772216797
     },
     {
       "id": "Computer Science/Database Administration/Data Analytics/Data Analytics.md",
-      "x": -1064.1104736328125,
-      "y": -441.2419738769531
+      "x": -1081.846435546875,
+      "y": -381.0593566894531
     },
     {
       "id": "Computer Science/Database Administration/Data Analytics/Data Classifications.md",
-      "x": -1243.0379638671875,
-      "y": -275.9226379394531
+      "x": -1230.110595703125,
+      "y": -190.36509704589844
     },
     {
       "id": "Computer Science/Database Administration/Data Analytics/Data Exploration.md",
-      "x": -911.6102294921875,
-      "y": -494.26251220703125
+      "x": -927.1547241210938,
+      "y": -449.9095153808594
     },
     {
       "id": "Computer Science/Database Administration/Data Analytics/Data Lake.md",
-      "x": -1233.0841064453125,
-      "y": -476.3104553222656
+      "x": -1311.227294921875,
+      "y": -397.9537048339844
     },
     {
       "id": "Computer Science/Database Administration/Data Analytics/Data Manipulation.md",
-      "x": -1006.7537841796875,
-      "y": -578.0626831054688
+      "x": -1027.9404296875,
+      "y": -514.9747314453125
     },
     {
       "id": "Computer Science/Database Administration/Data Analytics/Data Modeling.md",
-      "x": -1306.3155517578125,
-      "y": -381.3139343261719
+      "x": -1312.0213623046875,
+      "y": -278.00347900390625
     },
     {
       "id": "Computer Science/Database Administration/Data Analytics/Data Warehouse.md",
-      "x": -1125.4036865234375,
-      "y": -595.8086547851562
+      "x": -1137.9820556640625,
+      "y": -562.729736328125
     },
     {
       "id": "Computer Science/Database Administration/Data Analytics/Dimensions.md",
-      "x": -916.5853881835938,
-      "y": -371.4866027832031
+      "x": -910.552001953125,
+      "y": -331.09051513671875
     },
     {
       "id": "Computer Science/Database Administration/Data Analytics/ETL.md",
-      "x": -994.609130859375,
-      "y": -280.3316650390625
+      "x": -997.8154907226562,
+      "y": -248.7659454345703
     },
     {
       "id": "Computer Science/Database Administration/Data Analytics/KPI.md",
-      "x": -1245.3709716796875,
-      "y": -595.61572265625
+      "x": -1231.2578125,
+      "y": -487.30621337890625
     },
     {
       "id": "Computer Science/Database Administration/Data Analytics/OKR.md",
-      "x": -1113.0633544921875,
-      "y": -261.16986083984375
+      "x": -1112.2884521484375,
+      "y": -212.8468475341797
     },
     {
       "id": "Computer Science/Database Administration/Data Analytics/Power BI.md",
-      "x": -1171.4251708984375,
-      "y": -372.1919860839844
+      "x": -1203.1639404296875,
+      "y": -328.496337890625
     },
     {
       "id": "Computer Science/Database Administration/Database Administration.md",
-      "x": -629.0405883789062,
-      "y": -592.5980224609375
+      "x": -571.0270385742188,
+      "y": -525.1910400390625
     },
     {
       "id": "Computer Science/Database Administration/Database Engines.md",
-      "x": -694.863037109375,
-      "y": -492.2897644042969
+      "x": -675.2902221679688,
+      "y": -465.81646728515625
     },
     {
       "id": "Computer Science/Database Administration/SQL/Alteration Functions.md",
-      "x": -1016.63720703125,
-      "y": -988.1346435546875
+      "x": -1008.8652954101562,
+      "y": -884.2496948242188
     },
     {
       "id": "Computer Science/Database Administration/SQL/Best Practices.md",
-      "x": -819.197021484375,
-      "y": -1003.275634765625
+      "x": -786.6395874023438,
+      "y": -925.9452514648438
     },
     {
       "id": "Computer Science/Database Administration/SQL/Excecution Order.md",
-      "x": -768.034423828125,
-      "y": -811.2425537109375
+      "x": -686.33251953125,
+      "y": -764.0928344726562
     },
     {
       "id": "Computer Science/Database Administration/SQL/Indexes.md",
-      "x": -869.6141357421875,
-      "y": -741.3245239257812
+      "x": -750.6276245117188,
+      "y": -655.3079223632812
     },
     {
       "id": "Computer Science/Database Administration/SQL/Joins.md",
-      "x": -1093.116455078125,
-      "y": -883.4097900390625
+      "x": -991.4086303710938,
+      "y": -765.541015625
     },
     {
       "id": "Computer Science/Database Administration/SQL/SQL.md",
-      "x": -895.4011840820312,
-      "y": -886.4605712890625
+      "x": -830.14697265625,
+      "y": -792.181396484375
     },
     {
       "id": "Computer Science/Database Administration/SQL/Stored Procedures.md",
-      "x": -916.7960205078125,
-      "y": -1073.0699462890625
+      "x": -907.728515625,
+      "y": -948.8220825195312
     },
     {
       "id": "Computer Science/Database Administration/SQL/Views.md",
-      "x": -1007.943359375,
-      "y": -798.8994750976562
+      "x": -884.6738891601562,
+      "y": -671.1331787109375
     },
     {
       "id": "Computer Science/Frontend Development/Frontend Development.md",
-      "x": -440.6425476074219,
-      "y": -136.90931701660156
+      "x": -373.20343017578125,
+      "y": -137.19775390625
     },
     {
       "id": "Computer Science/Frontend Development/JavaScript/Arrays and Strings.md",
-      "x": -700.0089721679688,
-      "y": -98.44270324707031
+      "x": -665.0894165039062,
+      "y": -136.0747833251953
     },
     {
       "id": "Computer Science/Frontend Development/JavaScript/Basic Syntax.md",
-      "x": -577.1033325195312,
-      "y": -32.395484924316406
+      "x": -530.3831176757812,
+      "y": -13.076545715332031
     },
     {
       "id": "Computer Science/Frontend Development/JavaScript/JavaScript.md",
-      "x": -585.031982421875,
-      "y": -185.7601776123047
+      "x": -522.7342529296875,
+      "y": -146.72276306152344
     },
     {
       "id": "Computer Science/Frontend Development/JavaScript/Matrix.md",
-      "x": -719.3045043945312,
-      "y": -244.01463317871094
+      "x": -626.7296142578125,
+      "y": -267.0218200683594
     },
     {
       "id": "Computer Science/Frontend Development/JavaScript/Sorting Methods.md",
-      "x": -579.2652587890625,
-      "y": -323.8258972167969
+      "x": -484.5213317871094,
+      "y": -279.8785400390625
     },
     {
       "id": "Computer Science/Frontend Development/React/Components.md",
-      "x": -834.5140991210938,
-      "y": 34.3517951965332
+      "x": -768.1083374023438,
+      "y": -8.93522834777832
     },
     {
       "id": "Computer Science/Frontend Development/React/Hooks/Forms.md",
-      "x": -1369.35986328125,
-      "y": 287.3939514160156
+      "x": -1392.2666015625,
+      "y": 291.3164367675781
     },
     {
       "id": "Computer Science/Frontend Development/React/Hooks/Hooks.md",
-      "x": -1254.810302734375,
-      "y": 151.08868408203125
+      "x": -1253.2767333984375,
+      "y": 202.79124450683594
     },
     {
       "id": "Computer Science/Frontend Development/React/Hooks/UseCallback and UseMemo.md",
-      "x": -1155.568603515625,
-      "y": 254.88558959960938
+      "x": -1153.0616455078125,
+      "y": 290.3796081542969
     },
     {
       "id": "Computer Science/Frontend Development/React/Hooks/UseContext.md",
-      "x": -1256.3916015625,
-      "y": 327.80413818359375
+      "x": -1295.928955078125,
+      "y": 362.8519592285156
     },
     {
       "id": "Computer Science/Frontend Development/React/Hooks/UseEffect.md",
-      "x": -1400.832763671875,
-      "y": 169.36172485351562
+      "x": -1409.4254150390625,
+      "y": 166.26422119140625
     },
     {
       "id": "Computer Science/Frontend Development/React/Hooks/UseReducer.md",
-      "x": -1282.3802490234375,
-      "y": 3.7921109199523926
+      "x": -1242.083251953125,
+      "y": 73.97000122070312
     },
     {
       "id": "Computer Science/Frontend Development/React/Hooks/UseState.md",
-      "x": -1396.2611083984375,
-      "y": 41.579139709472656
+      "x": -1366.492431640625,
+      "y": 54.20890426635742
     },
     {
       "id": "Computer Science/Frontend Development/React/Props.md",
-      "x": -1063.638427734375,
-      "y": 66.83914184570312
+      "x": -1030.12890625,
+      "y": 77.96468353271484
     },
     {
       "id": "Computer Science/Frontend Development/React/React.md",
-      "x": -939.4954833984375,
-      "y": -26.745319366455078
+      "x": -887.8662719726562,
+      "y": -1.470133662223816
     },
     {
       "id": "Computer Science/Frontend Development/React/Testing.md",
-      "x": -1081.0909423828125,
-      "y": -60.42387771606445
+      "x": -1014.7973022460938,
+      "y": -43.93135070800781
     },
     {
       "id": "Computer Science/Frontend Development/React/User Events.md",
-      "x": -960.1416625976562,
-      "y": 131.31478881835938
+      "x": -931.1972045898438,
+      "y": 147.45138549804688
     },
     {
       "id": "Computer Science/Frontend Development/Storage.md",
-      "x": -366.6453857421875,
-      "y": -15.70256233215332
+      "x": -296.65313720703125,
+      "y": -22.628623962402344
     },
     {
       "id": "Computer Science/Infrastructure Administration/Ansible.md",
-      "x": -618.219970703125,
-      "y": 492.4769592285156
+      "x": -598.7536010742188,
+      "y": 477.4692077636719
     },
     {
       "id": "Computer Science/Infrastructure Administration/Cloud/AWS/AWS.md",
-      "x": -1015.9376220703125,
-      "y": 504.5690612792969
+      "x": -1013.6802368164062,
+      "y": 477.25244140625
     },
     {
       "id": "Computer Science/Infrastructure Administration/Cloud/Cloud Databases.md",
-      "x": -894.3658447265625,
-      "y": 664.3399658203125
+      "x": -892.835693359375,
+      "y": 621.8890991210938
     },
     {
       "id": "Computer Science/Infrastructure Administration/Cloud/Cloud Storage.md",
-      "x": -1067.648193359375,
-      "y": 804.4659423828125
+      "x": -1060.386474609375,
+      "y": 761.6597900390625
     },
     {
       "id": "Computer Science/Infrastructure Administration/Cloud/Cloud.md",
-      "x": -1027.287353515625,
-      "y": 639.4203491210938
+      "x": -1027.8203125,
+      "y": 612.90771484375
     },
     {
       "id": "Computer Science/Infrastructure Administration/Cloud/Hybrid Cloud.md",
-      "x": -1163.5228271484375,
-      "y": 732.3236694335938
+      "x": -1170.977294921875,
+      "y": 715.1011962890625
     },
     {
       "id": "Computer Science/Infrastructure Administration/Cloud/Load Balancer.md",
-      "x": -1211.7822265625,
-      "y": 622.4710693359375
+      "x": -1220.7049560546875,
+      "y": 605.9039916992188
     },
     {
       "id": "Computer Science/Infrastructure Administration/Cloud/Scalability, Fault Tolerance and Availability.md",
-      "x": -947.8474731445312,
-      "y": 784.1213989257812
+      "x": -934.6683959960938,
+      "y": 743.88427734375
     },
     {
       "id": "Computer Science/Infrastructure Administration/Cloud/Serverless.md",
-      "x": -1139.72802734375,
-      "y": 526.5296630859375
+      "x": -1140.554931640625,
+      "y": 516.6124267578125
     },
     {
       "id": "Computer Science/Infrastructure Administration/Configuration Management.md",
-      "x": -528.7489013671875,
-      "y": 409.1498718261719
+      "x": -500.1634521484375,
+      "y": 395.2961730957031
     },
     {
       "id": "Computer Science/Infrastructure Administration/DevOps/Artifacts.md",
-      "x": -650.986328125,
-      "y": 800.0767211914062
+      "x": -628.63818359375,
+      "y": 749.6640625
     },
     {
       "id": "Computer Science/Infrastructure Administration/DevOps/Build & CI.md",
-      "x": -441.6341552734375,
-      "y": 1023.434814453125
+      "x": -450.3988952636719,
+      "y": 983.3978881835938
     },
     {
       "id": "Computer Science/Infrastructure Administration/DevOps/DevOps.md",
-      "x": -473.8247375488281,
-      "y": 801.5736694335938
+      "x": -459.95989990234375,
+      "y": 778.3430786132812
     },
     {
       "id": "Computer Science/Infrastructure Administration/DevOps/Ecosystem.md",
-      "x": -514.8447265625,
-      "y": 928.4290161132812
+      "x": -537.5830078125,
+      "y": 901.0512084960938
     },
     {
       "id": "Computer Science/Infrastructure Administration/DevOps/Infrastructure as Code.md",
-      "x": -364.8360595703125,
-      "y": 931.2438354492188
+      "x": -365.8739013671875,
+      "y": 898.2448120117188
     },
     {
       "id": "Computer Science/Infrastructure Administration/DevOps/JenkinsFile.md",
-      "x": -339.0191955566406,
-      "y": 727.9281005859375
+      "x": -314.489990234375,
+      "y": 699.3663330078125
     },
     {
       "id": "Computer Science/Infrastructure Administration/DevOps/Monitoring.md",
-      "x": -634.4260864257812,
-      "y": 918.9189453125
+      "x": -652.6597290039062,
+      "y": 867.2178955078125
     },
     {
       "id": "Computer Science/Infrastructure Administration/DevOps/Pipelines.md",
-      "x": -578.9136962890625,
-      "y": 704.0388793945312
+      "x": -539.9684448242188,
+      "y": 668.8174438476562
     },
     {
       "id": "Computer Science/Infrastructure Administration/DevOps/Release & CD.md",
-      "x": -290.0116271972656,
-      "y": 837.457763671875
+      "x": -280.134765625,
+      "y": 814.3221435546875
     },
     {
       "id": "Computer Science/Infrastructure Administration/DevOps/Version Control.md",
-      "x": -437.2715759277344,
-      "y": 651.4772338867188
+      "x": -408.6539306640625,
+      "y": 625.0076904296875
     },
     {
       "id": "Computer Science/Infrastructure Administration/Docker/Docker.md",
-      "x": -596.1515502929688,
-      "y": 217.76559448242188
+      "x": -579.6848754882812,
+      "y": 212.50076293945312
     },
     {
       "id": "Computer Science/Infrastructure Administration/Git.md",
-      "x": -811.5287475585938,
-      "y": 420.8026428222656
+      "x": -804.4105224609375,
+      "y": 414.6585998535156
     },
     {
       "id": "Computer Science/Infrastructure Administration/GitHub.md",
-      "x": -736.2222900390625,
-      "y": 514.1651611328125
+      "x": -717.1470947265625,
+      "y": 496.9853820800781
     },
     {
       "id": "Computer Science/Infrastructure Administration/Idempotency.md",
-      "x": -826.1234741210938,
-      "y": 301.74639892578125
+      "x": -795.1328125,
+      "y": 295.0532531738281
     },
     {
       "id": "Computer Science/Infrastructure Administration/Infrastructure Administration.md",
-      "x": -650.3309936523438,
-      "y": 350.09515380859375
+      "x": -632.8441772460938,
+      "y": 347.2191467285156
     },
     {
       "id": "Computer Science/Infrastructure Administration/Shell Scripting/Bash Commands.md",
-      "x": -427.3561706542969,
-      "y": 193.07516479492188
+      "x": -412.54229736328125,
+      "y": 164.01463317871094
     },
     {
       "id": "Computer Science/Infrastructure Administration/Shell Scripting/Bash Scripting.md",
-      "x": -312.71319580078125,
-      "y": 254.16482543945312
+      "x": -295.2723388671875,
+      "y": 235.0235595703125
     },
     {
       "id": "Computer Science/Infrastructure Administration/Shell Scripting/Shell Scripting.md",
-      "x": -417.7242736816406,
-      "y": 340.9613952636719
+      "x": -414.1462097167969,
+      "y": 304.8171081542969
     },
     {
       "id": "Computer Science/Infrastructure Administration/Working Environments.md",
-      "x": -730.225341796875,
-      "y": 228.18821716308594
+      "x": -706.9895629882812,
+      "y": 213.62469482421875
     },
     {
       "id": "Computer Science/Programming Theory/Algorithm.md",
-      "x": 306.8009948730469,
-      "y": -127.79537963867188
+      "x": 358.70361328125,
+      "y": -76.9173355102539
     },
     {
       "id": "Computer Science/Programming Theory/Computational Complexity.md",
-      "x": 159.4561767578125,
-      "y": -317.1152648925781
+      "x": 197.62066650390625,
+      "y": -243.32814025878906
     },
     {
       "id": "Computer Science/Programming Theory/Computational Thinking.md",
-      "x": 490.521240234375,
-      "y": -144.96934509277344
+      "x": 499.114990234375,
+      "y": -111.47561645507812
     },
     {
       "id": "Computer Science/Programming Theory/Documentation.md",
-      "x": 498.07196044921875,
-      "y": -361.767578125
+      "x": 502.2825622558594,
+      "y": -326.92144775390625
     },
     {
       "id": "Computer Science/Programming Theory/Domain-Driven Design.md",
-      "x": 232.53207397460938,
-      "y": -221.9836883544922
+      "x": 255.6948699951172,
+      "y": -138.38455200195312
     },
     {
       "id": "Computer Science/Programming Theory/Frameworks.md",
-      "x": 245.1436309814453,
-      "y": -401.0312805175781
+      "x": 212.9962921142578,
+      "y": -362.2693786621094
     },
     {
       "id": "Computer Science/Programming Theory/IDEs.md",
-      "x": 286.280517578125,
-      "y": -513.7069091796875
+      "x": 293.4045104980469,
+      "y": -451.2817077636719
     },
     {
       "id": "Computer Science/Programming Theory/Libraries.md",
-      "x": 405.8316955566406,
-      "y": -504.14324951171875
+      "x": 412.30462646484375,
+      "y": -466.99468994140625
     },
     {
       "id": "Computer Science/Programming Theory/Object-Oriented Programming/Abstract Class.md",
-      "x": 786.175048828125,
-      "y": -207.92813110351562
+      "x": 782.5017700195312,
+      "y": -231.35972595214844
     },
     {
       "id": "Computer Science/Programming Theory/Object-Oriented Programming/Aggregation Relationship.md",
-      "x": 920.6946411132812,
-      "y": -493.2161560058594
+      "x": 944.1311645507812,
+      "y": -487.7336730957031
     },
     {
       "id": "Computer Science/Programming Theory/Object-Oriented Programming/Association Relationship.md",
-      "x": 1140.5137939453125,
-      "y": -390.3701477050781
+      "x": 1121.1697998046875,
+      "y": -382.0873718261719
     },
     {
       "id": "Computer Science/Programming Theory/Object-Oriented Programming/Composition Relationship.md",
-      "x": 1105.6123046875,
-      "y": -270.3091735839844
+      "x": 1090.53662109375,
+      "y": -218.88963317871094
     },
     {
       "id": "Computer Science/Programming Theory/Object-Oriented Programming/Design Patterns/Chain of Responsibility Pattern.md",
-      "x": 877.3237915039062,
-      "y": -1054.09716796875
+      "x": 877.434814453125,
+      "y": -1060.8072509765625
     },
     {
       "id": "Computer Science/Programming Theory/Object-Oriented Programming/Design Patterns/Composite Pattern.md",
-      "x": 780.7501220703125,
-      "y": -982.8947143554688
+      "x": 780.3173217773438,
+      "y": -990.3516845703125
     },
     {
       "id": "Computer Science/Programming Theory/Object-Oriented Programming/Design Patterns/DAO Pattern.md",
-      "x": 666.07177734375,
-      "y": -1031.17529296875
+      "x": 671.794189453125,
+      "y": -1056.561279296875
     },
     {
       "id": "Computer Science/Programming Theory/Object-Oriented Programming/Design Patterns/Design Patterns.md",
-      "x": 791.4371948242188,
-      "y": -851.22802734375
+      "x": 800.5568237304688,
+      "y": -858.328857421875
     },
     {
       "id": "Computer Science/Programming Theory/Object-Oriented Programming/Design Patterns/Facade Pattern.md",
-      "x": 1038.1346435546875,
-      "y": -881.27490234375
+      "x": 1043.0072021484375,
+      "y": -897.3604125976562
     },
     {
       "id": "Computer Science/Programming Theory/Object-Oriented Programming/Design Patterns/Factory Pattern.md",
-      "x": 764.9586791992188,
-      "y": -1101.8505859375
+      "x": 773.3541259765625,
+      "y": -1120.4237060546875
     },
     {
       "id": "Computer Science/Programming Theory/Object-Oriented Programming/Design Patterns/Flyweight Pattern.md",
-      "x": 897.373046875,
-      "y": -730.928955078125
+      "x": 906.545166015625,
+      "y": -730.6189575195312
     },
     {
       "id": "Computer Science/Programming Theory/Object-Oriented Programming/Design Patterns/MVC Pattern.md",
-      "x": 1012.6777954101562,
-      "y": -764.0231323242188
+      "x": 1015.5927124023438,
+      "y": -780.5699462890625
     },
     {
       "id": "Computer Science/Programming Theory/Object-Oriented Programming/Design Patterns/Observer Pattern.md",
-      "x": 644.7041015625,
-      "y": -913.1331787109375
+      "x": 654.7342529296875,
+      "y": -937.8451538085938
     },
     {
       "id": "Computer Science/Programming Theory/Object-Oriented Programming/Design Patterns/Proxy Pattern.md",
-      "x": 586.42333984375,
-      "y": -808.2890625
+      "x": 611.1417846679688,
+      "y": -826.10107421875
     },
     {
       "id": "Computer Science/Programming Theory/Object-Oriented Programming/Design Patterns/Singleton Pattern.md",
-      "x": 671.4097900390625,
-      "y": -723.648193359375
+      "x": 678.3252563476562,
+      "y": -726.7334594726562
     },
     {
       "id": "Computer Science/Programming Theory/Object-Oriented Programming/Design Patterns/State Pattern.md",
-      "x": 975.09912109375,
-      "y": -984.5667724609375
+      "x": 980.7726440429688,
+      "y": -999.9384765625
     },
     {
       "id": "Computer Science/Programming Theory/Object-Oriented Programming/Design Patterns/Strategy Pattern.md",
-      "x": 785.6918334960938,
-      "y": -687.1834106445312
+      "x": 793.0792236328125,
+      "y": -691.7919311523438
     },
     {
       "id": "Computer Science/Programming Theory/Object-Oriented Programming/Design Patterns/Template Method Pattern.md",
-      "x": 918.1683959960938,
-      "y": -878.6182250976562
+      "x": 922.998046875,
+      "y": -890.4655151367188
     },
     {
       "id": "Computer Science/Programming Theory/Object-Oriented Programming/Dynamic Binding.md",
-      "x": 786.6861572265625,
-      "y": -451.4951171875
+      "x": 820.779296875,
+      "y": -466.1344299316406
     },
     {
       "id": "Computer Science/Programming Theory/Object-Oriented Programming/Inheritance.md",
-      "x": 1049.315185546875,
-      "y": -496.57183837890625
+      "x": 1064.106201171875,
+      "y": -487.63934326171875
     },
     {
       "id": "Computer Science/Programming Theory/Object-Oriented Programming/Method Signature.md",
-      "x": 764.0153198242188,
-      "y": -325.8505859375
+      "x": 762.8750610351562,
+      "y": -355.085205078125
     },
     {
       "id": "Computer Science/Programming Theory/Object-Oriented Programming/Object-Oriented Programming.md",
-      "x": 901.10205078125,
-      "y": -343.88946533203125
+      "x": 901.620361328125,
+      "y": -339.878662109375
     },
     {
       "id": "Computer Science/Programming Theory/Object-Oriented Programming/Overloading.md",
-      "x": 1004.811767578125,
-      "y": -205.2830047607422
+      "x": 976.5716552734375,
+      "y": -179.3069610595703
     },
     {
       "id": "Computer Science/Programming Theory/Object-Oriented Programming/Polymorphism.md",
-      "x": 894.8903198242188,
-      "y": -157.2248992919922
+      "x": 862.540283203125,
+      "y": -141.99301147460938
     },
     {
       "id": "Computer Science/Programming Theory/Object-Oriented Programming/Protected Attribute.md",
-      "x": 1021.95263671875,
-      "y": -372.0544738769531
+      "x": 1020.7357788085938,
+      "y": -316.47711181640625
     },
     {
       "id": "Computer Science/Programming Theory/Parametric Programming.md",
-      "x": 523.13916015625,
-      "y": -479.0652160644531
+      "x": 529.968505859375,
+      "y": -443.6308288574219
     },
     {
       "id": "Computer Science/Programming Theory/Programming Language.md",
-      "x": 545.5126342773438,
-      "y": -251.60276794433594
+      "x": 553.4755859375,
+      "y": -218.44261169433594
     },
     {
       "id": "Computer Science/Programming Theory/Programming Paradigms.md",
-      "x": 391.5235900878906,
-      "y": -212.73333740234375
+      "x": 406.02337646484375,
+      "y": -187.17495727539062
     },
     {
       "id": "Computer Science/Programming Theory/Programming Theory.md",
-      "x": 365.10894775390625,
-      "y": -336.0478515625
+      "x": 364.6212158203125,
+      "y": -299.8038635253906
     },
     {
       "id": "Computer Science/Security/Active and Passive Security.md",
-      "x": 296.0632629394531,
-      "y": -1229.2105712890625
+      "x": 341.7132263183594,
+      "y": -1216.1890869140625
     },
     {
       "id": "Computer Science/Security/Authentication.md",
-      "x": 248.9040985107422,
-      "y": -1339.54345703125
+      "x": 272.21319580078125,
+      "y": -1322.9241943359375
     },
     {
       "id": "Computer Science/Security/Bugs and Vulnerabilities.md",
-      "x": 131.90708923339844,
-      "y": -1312.9539794921875
+      "x": 154.4468994140625,
+      "y": -1345.7847900390625
     },
     {
       "id": "Computer Science/Security/Cyber Threats.md",
-      "x": 127.38107299804688,
-      "y": -1193.0660400390625
+      "x": 147.20501708984375,
+      "y": -1226.029541015625
     },
     {
       "id": "Computer Science/Security/Cybersecurity.md",
-      "x": 457.4815673828125,
-      "y": -1228.663818359375
+      "x": 461.6831970214844,
+      "y": -1218.937744140625
     },
     {
       "id": "Computer Science/Security/Information.md",
-      "x": 377.070556640625,
-      "y": -1317.711669921875
+      "x": 392.1664123535156,
+      "y": -1325.060791015625
     },
     {
       "id": "Computer Science/Security/Middleware.md",
-      "x": 253.73007202148438,
-      "y": -968.3143310546875
+      "x": 191.22927856445312,
+      "y": -979.7411499023438
     },
     {
       "id": "Computer Science/Security/OAuth2.md",
-      "x": 132.18792724609375,
-      "y": -1056.3359375
+      "x": 123.26498413085938,
+      "y": -1094.9635009765625
     },
     {
       "id": "Computer Science/Security/Security Measures.md",
-      "x": 376.9135437011719,
-      "y": -1002.5902099609375
+      "x": 340.85272216796875,
+      "y": -993.564453125
     },
     {
       "id": "Computer Science/Security/Security.md",
-      "x": 261.9902038574219,
-      "y": -1114.17041015625
+      "x": 257.9784851074219,
+      "y": -1121.0797119140625
     },
     {
       "id": "Computer Science/Security/VPN and Tor.md",
-      "x": 425.79254150390625,
-      "y": -1112.9501953125
+      "x": 422.1250305175781,
+      "y": -1094.4442138671875
     },
     {
       "id": "Computer Science/Testing/Backend Testing.md",
-      "x": -369.2760009765625,
-      "y": -790.4266357421875
+      "x": -332.34747314453125,
+      "y": -821.9569091796875
     },
     {
       "id": "Computer Science/Testing/Debugging.md",
-      "x": -237.78956604003906,
-      "y": -826.0049438476562
+      "x": -195.44021606445312,
+      "y": -858.5744018554688
     },
     {
       "id": "Computer Science/Testing/Defects.md",
-      "x": -177.18490600585938,
-      "y": -929.5375366210938
+      "x": -142.33741760253906,
+      "y": -966.1622314453125
     },
     {
       "id": "Computer Science/Testing/Dynamic Testing.md",
-      "x": -435.6637268066406,
-      "y": -1282.85693359375
+      "x": -425.0578308105469,
+      "y": -1310.7791748046875
     },
     {
       "id": "Computer Science/Testing/Implementation Stage.md",
-      "x": -286.7013244628906,
-      "y": -1184.850830078125
+      "x": -270.51953125,
+      "y": -1213.7342529296875
     },
     {
       "id": "Computer Science/Testing/JUnit.md",
-      "x": -533.2030029296875,
-      "y": -1213.0408935546875
+      "x": -522.3147583007812,
+      "y": -1228.2642822265625
     },
     {
       "id": "Computer Science/Testing/Selenium.md",
-      "x": -466.7295837402344,
-      "y": -935.0662841796875
+      "x": -432.04864501953125,
+      "y": -967.8158569335938
     },
     {
       "id": "Computer Science/Testing/Smoke and Regression Testing.md",
-      "x": -486.84088134765625,
-      "y": -1065.4273681640625
+      "x": -470.2859191894531,
+      "y": -1102.1956787109375
     },
     {
       "id": "Computer Science/Testing/Software Testing Lifecycle.md",
-      "x": -597.5086059570312,
-      "y": -1111.751220703125
+      "x": -589.059326171875,
+      "y": -1119.0916748046875
     },
     {
       "id": "Computer Science/Testing/Static Testing.md",
-      "x": -141.2067413330078,
-      "y": -1168.8592529296875
+      "x": -123.15483856201172,
+      "y": -1207.043701171875
     },
     {
       "id": "Computer Science/Testing/Test Cases.md",
-      "x": -490.7433776855469,
-      "y": -817.5286865234375
+      "x": -450.4223937988281,
+      "y": -849.2556762695312
     },
     {
       "id": "Computer Science/Testing/Test Driven Development.md",
-      "x": -317.0856628417969,
-      "y": -1300.9381103515625
+      "x": -306.3406677246094,
+      "y": -1328.251708984375
     },
     {
       "id": "Computer Science/Testing/Test Levels.md",
-      "x": -415.4091796875,
-      "y": -1164.5772705078125
+      "x": -394.0760192871094,
+      "y": -1194.87158203125
     },
     {
       "id": "Computer Science/Testing/Test Organization by Workspace.md",
-      "x": -200.3419952392578,
-      "y": -1273.258056640625
+      "x": -188.0712432861328,
+      "y": -1307.955810546875
     },
     {
       "id": "Computer Science/Testing/Test Types.md",
-      "x": -218.0728302001953,
-      "y": -1076.71044921875
+      "x": -202.05340576171875,
+      "y": -1115.20703125
     },
     {
       "id": "Computer Science/Testing/Testing Techniques.md",
-      "x": -108.47903442382812,
-      "y": -1027.898681640625
+      "x": -89.43721771240234,
+      "y": -1073.8555908203125
     },
     {
       "id": "Computer Science/Testing/Testing.md",
-      "x": -342.388671875,
-      "y": -1029.952392578125
+      "x": -321.8052062988281,
+      "y": -1056.786865234375
     },
     {
       "id": "Computer Science/Testing/Unit Testing.md",
-      "x": -329.3424072265625,
-      "y": -903.5706176757812
+      "x": -288.9022521972656,
+      "y": -933.81103515625
     },
     {
       "id": "Computer Science/Testing/Use Cases.md",
-      "x": -579.2247314453125,
-      "y": -976.75732421875
+      "x": -550.5726928710938,
+      "y": -986.457763671875
     },
     {
-      "id": "Internet Archive Books API.md",
-      "x": 1277.108642578125,
-      "y": -652.1764526367188
+      "id": "Examen de Conducir/Examen de Conducir.md",
+      "x": 1318.4656982421875,
+      "y": 123.1419677734375
+    },
+    {
+      "id": "Examen de Conducir/Maniobra de adelantamiento, giros y vías multicarril.md",
+      "x": 1440.51904296875,
+      "y": 194.3188934326172
+    },
+    {
+      "id": "Examen de Conducir/Prioridades de Paso.md",
+      "x": 1295.61376953125,
+      "y": -15.833515167236328
+    },
+    {
+      "id": "Examen de Conducir/Señalización.md",
+      "x": 1428.1259765625,
+      "y": 27.836437225341797
+    },
+    {
+      "id": "Examen de Conducir/Velocidades Máximas y Mínimas.md",
+      "x": 1332.3472900390625,
+      "y": 264.04730224609375
     },
     {
       "id": "NextJS/NextJS.md",
-      "x": 1311.64599609375,
-      "y": -126.71207427978516
+      "x": 1325.212890625,
+      "y": -281.01690673828125
     },
     {
       "id": "NextJS/Week One/Layout and Templates.md",
-      "x": 1426.322998046875,
-      "y": 49.31004333496094
+      "x": 1450.2489013671875,
+      "y": -260.3188171386719
     },
     {
       "id": "NextJS/Week One/Project Structure.md",
-      "x": 1416.708251953125,
-      "y": -231.9264373779297
+      "x": 1342.904052734375,
+      "y": -521.6801147460938
     },
     {
       "id": "NextJS/Week One/Week One.md",
-      "x": 1433.406494140625,
-      "y": -86.93219757080078
+      "x": 1397.0982666015625,
+      "y": -397.3301086425781
     },
     {
       "id": "Templates/DefaultTemplate.md",
-      "x": 1227.77099609375,
-      "y": 782.1093139648438
+      "x": -1238.0579833984375,
+      "y": -800.1024169921875
     },
     {
       "id": "Templates/OrphanTemplate.md",
-      "x": 1355.9586181640625,
-      "y": -461.60833740234375
+      "x": 1262.474609375,
+      "y": -707.3882446289062
+    },
+    {
+      "id": "ThreeJS/Quick Start.md",
+      "x": -952.8405151367188,
+      "y": -1141.1275634765625
+    },
+    {
+      "id": "ThreeJS/ThreeJS.md",
+      "x": -838.1903076171875,
+      "y": -1221.80126953125
+    },
+    {
+      "id": "Capacitación CLP/Capacitación CLP.md",
+      "x": -1319.429443359375,
+      "y": -689.3518676757812
     }
   ],
   "automaticallyRestoreNodePositions": true
